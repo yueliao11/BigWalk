@@ -6,11 +6,13 @@ type PageMeta = {
   title: string;
   description: string;
   keywords?: string[];
+  image?: string; // path under /public; defaults to the site-wide cover
 };
 
 // Per-page Next.js metadata. canonical + OG + Twitter all derive from the path.
-export function pageMetadata({ path, title, description, keywords }: PageMeta): Metadata {
+export function pageMetadata({ path, title, description, keywords, image = "/og-cover.png" }: PageMeta): Metadata {
   const canonical = url(path);
+  const ogImage = url(image);
   return {
     title,
     description,
@@ -23,12 +25,14 @@ export function pageMetadata({ path, title, description, keywords }: PageMeta): 
       siteName: SITE.name,
       locale: SITE.locale,
       type: "website",
+      images: [{ url: ogImage, width: 1200, height: 630, alt: title }],
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
       site: SITE.twitter,
+      images: [ogImage],
     },
     robots: { index: true, follow: true },
   };

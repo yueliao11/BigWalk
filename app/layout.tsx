@@ -21,8 +21,13 @@ export const metadata: Metadata = {
     title: `${SITE.name} — ${SITE.tagline}`,
     description: SITE.description,
     url: SITE.domain,
+    images: [{ url: url("/og-cover.png"), width: 1200, height: 630, alt: `${SITE.name} — ${SITE.tagline}` }],
   },
-  twitter: { card: "summary_large_image", site: SITE.twitter },
+  twitter: {
+    card: "summary_large_image",
+    site: SITE.twitter,
+    images: [url("/og-cover.png")],
+  },
   robots: { index: true, follow: true },
   verification: {
     google: "nKaVlvQp8iHoBw79VTMOPQ7ub0Fc_NRQHH-ICMgV8t4",

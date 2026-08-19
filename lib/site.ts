@@ -1,9 +1,10 @@
-// Central site config. Replace DOMAIN with your real (brand, non-EMD) domain before launch.
+// Central site config. Swap `domain` when the real registered domain goes live.
 export const SITE = {
   name: "WalkHub",
   tagline: "Big Walk guides, tools & co-op puzzle solutions",
-  // TODO: replace with the real domain you register (brand word, NOT an EMD like bigwalkguide.com)
-  domain: "https://walkhub.example.com",
+  // TODO: replace with the registered brand domain (e.g. https://big-walk-guide.com)
+  // once it is bound on Vercel, then 301 the vercel.app URL to it.
+  domain: "https://big-walk-ten.vercel.app",
   description:
     "WalkHub is a fan-made guide hub for Big Walk — tower puzzle solutions, co-op troubleshooting, tool walkthroughs and head-to-head comparisons. Built for players who want the answer on the first screen.",
   steamAppId: "1478500",
