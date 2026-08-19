@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --fg: #0f172a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-ink antialiased;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+/* Three-segment game-guide page rhythm */
+.lead {
+  @apply text-lg text-muted leading-relaxed;
+}
+
+.prose-guide h2 {
+  @apply mt-10 mb-3 text-2xl font-bold text-ink scroll-mt-24;
+}
+.prose-guide h3 {
+  @apply mt-6 mb-2 text-xl font-semibold text-ink scroll-mt-24;
+}
+.prose-guide p {
+  @apply my-3 leading-7 text-slate-700;
+}
+.prose-guide ol {
+  @apply my-3 list-decimal list-inside space-y-2 text-slate-700 pl-1;
+}
+.prose-guide ul {
+  @apply my-3 list-disc list-inside space-y-2 text-slate-700 pl-1;
+}
+.prose-guide a {
+  @apply text-brand-600 underline underline-offset-2;
+}
+
+.card {
+  @apply rounded-xl border border-slate-200 bg-white p-5 shadow-sm transition hover:shadow-md hover:border-brand-100;
+}
