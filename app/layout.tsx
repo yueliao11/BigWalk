@@ -54,6 +54,11 @@ export default function RootLayout({
             gtag('config', 'G-WX2ZGFWH78');
           `}
         </Script>
+        <Script
+          src="https://app.pageview.app/js/script.js"
+          data-domain="bigwalkredtowers.com"
+          strategy="afterInteractive"
+        />
         <JsonLd data={ORGANIZATION_JSONLD} />
         <SiteHeader />
         <div className="flex-1">{children}</div>
