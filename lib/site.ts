@@ -2,9 +2,8 @@
 export const SITE = {
   name: "WalkHub",
   tagline: "Big Walk guides, tools & co-op puzzle solutions",
-  // TODO: replace with the registered brand domain (e.g. https://big-walk-guide.com)
-  // once it is bound on Vercel, then 301 the vercel.app URL to it.
-  domain: "https://big-walk-ten.vercel.app",
+  // Production domain (Cloudflare Pages). Vercel preview URL is kept as an alias only.
+  domain: "https://bigwalkredtowers.com",
   description:
     "WalkHub is a fan-made guide hub for Big Walk — tower puzzle solutions, co-op troubleshooting, tool walkthroughs and head-to-head comparisons. Built for players who want the answer on the first screen.",
   steamAppId: "1478500",
