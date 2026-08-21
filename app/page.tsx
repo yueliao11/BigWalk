@@ -6,7 +6,7 @@ import { ROUTES, relatedLinks } from "@/lib/routes";
 
 export const metadata: Metadata = pageMetadata({
   path: "/",
-  title: "Big Walk Guides, Tools & Co-op Solutions",
+  title: ROUTES.home.title,
   description: ROUTES.home.desc,
   keywords: ROUTES.home.keywords,
 });
