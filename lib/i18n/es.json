@@ -1,0 +1,2155 @@
+{
+  "meta": {
+    "code": "es",
+    "name": "Español",
+    "ogLocale": "es_ES",
+    "tagline": "Guías de Big Walk, herramientas y soluciones de puzles cooperativos",
+    "siteDescription": "WalkHub es un centro de guías hecho por fans para Big Walk: soluciones de los puzles de las torres, ayuda con el modo cooperativo, guías de herramientas y comparativas cara a cara."
+  },
+  "nav": {
+    "home": "Inicio",
+    "guide": "Guía",
+    "tools": "Herramientas",
+    "towers": "Torres",
+    "coop": "Arreglos co-op",
+    "price": "Precio"
+  },
+  "ui": {
+    "language": "Idioma",
+    "adLabel": "Publicidad",
+    "relatedHeading": "Guías relacionadas de Big Walk",
+    "stepsHeading": "Paso a paso",
+    "faqHeading": "Preguntas frecuentes",
+    "videoLabel": "Guía en video",
+    "breadcrumbHome": "Inicio",
+    "footerDisclaimer": "WalkHub es un centro de guías hecho por fans y no está afiliado al desarrollador ni al editor de Big Walk. Big Walk es una marca registrada de su respectivo propietario."
+  },
+  "slugs": {
+    "home": "",
+    "guide": "guide",
+    "tools": "tools",
+    "redTower": "red-tower",
+    "blackTower": "black-tower",
+    "greenTower": "green-tower",
+    "blueTower": "blue-tower",
+    "yellowTower": "yellow-tower",
+    "coop": "co-op-not-working",
+    "achievements": "achievements",
+    "price": "price",
+    "vsWitness": "vs-witness",
+    "vsIttakesTwo": "vs-it-takes-two",
+    "vsGrounded": "vs-grounded-2"
+  },
+  "pages": {
+    "redTower": {
+      "slug": "red-tower",
+      "title": "Big Walk Torre Roja: solución del puzle paso a paso + mapa",
+      "desc": "¿Atascado en la Torre Roja de Big Walk? Solución completa del puzle con la ubicación en el mapa, el orden de cruce con la placa ancla y la trampa del puente que arruina la mayoría de los intentos.",
+      "keywords": [
+        "big walk torre roja solución",
+        "big walk torre roja puzle",
+        "cómo resolver la torre roja big walk",
+        "big walk torre roja ubicación",
+        "big walk torre roja mapa",
+        "big walk torre roja atascado"
+      ],
+      "h1": "Solución del puzle de la Torre Roja de Big Walk",
+      "lead": "La Torre Roja es la torre introductoria. La solución es: formar una fila sobre la placa roja, llevar al caminante delantero hasta la placa de presión y hacer que el resto cruce de uno en uno para que el puente siga bajado. El intento falla si dos caminantes se bajan de la placa al mismo tiempo. Abajo encontrarás la ubicación exacta en el mapa, el orden de cruce completo y los errores que arruinan la mayoría de los intentos.",
+      "sections": [
+        {
+          "h2": "Resumen",
+          "paras": [
+            "La Torre Roja enseña el ciclo básico de Big Walk: una fila de caminantes, placas de presión y puentes que solo se mantienen bajados mientras tengan peso encima. Tómala como el tutorial de todas las torres que vienen después. Nada aquí tiene límite de tiempo y nada reaparece en tu contra: el único enemigo es un grupo que se mueve antes de tener un plan.",
+            "El puzle tiene tres partes activas: la placa roja inicial en la base, el puente que esta baja y la placa ancla del otro lado. Entiende cómo esas tres se reparten el peso entre ellas y la torre se resuelve sola."
+          ],
+          "img": {
+            "src": "/images/red-tower-map.png",
+            "alt": "Mapa del puzle de la Torre Roja de Big Walk: placa inicial, placa ancla y orden de cruce en fila india"
+          }
+        },
+        {
+          "h2": "Dónde está la Torre Roja en el mapa",
+          "paras": [
+            "La Torre Roja es la primera torre de color del recorrido principal. Desde la pradera inicial, sigue el camino que sale del tramo del tutorial y busca la señal roja que brilla en el horizonte. La torre se alza en lo alto de una pequeña colina y la placa de presión roja está justo en su base, así que no puedes perderte el disparador una vez que llegas.",
+            "Como es la primera, el juego usa la aproximación para enseñarte dos hábitos que conviene mantener durante todo el recorrido: caminar en grupo en lugar de dispersarse, y leer el suelo en busca de placas antes de pisar un puente. Todas las torres posteriores dan por hecho que aprendiste ambas aquí.",
+            "Si la señal no es visible, te has salido del camino principal: da la vuelta hacia la puerta del tutorial y el resplandor rojo volverá a aparecer en pocos pasos."
+          ]
+        },
+        {
+          "h2": "Lo que necesitas",
+          "list": [
+            "Al menos 2 caminantes (el puzle se puede resolver en solitario, pero está pensado para el cooperativo).",
+            "Un caminante dispuesto a ser el «ancla» que nunca abandona la placa.",
+            "Una llamada de voz o un acuerdo por el chat rápido sobre el orden de cruce antes de que alguien pise la placa."
+          ]
+        },
+        {
+          "h2": "Estrategia en solitario y en cooperativo",
+          "paras": [
+            "Big Walk adapta sus puzles a quien esté caminando, y la Torre Roja es el ejemplo más claro. El diseño nunca cambia; solo cambia el número de caminantes que tienes que coordinar. Elige abajo la versión que corresponda a tu grupo y síguela al pie de la letra en tu primer intento."
+          ]
+        },
+        {
+          "h3": "En solitario",
+          "paras": [
+            "A solas, haces todos los papeles tú mismo. Pisa la placa roja para bajar el puente, cruza a un ritmo constante y quédate sobre la placa ancla. El margen es más estrecho porque no hay un segundo caminante que sostenga el peso mientras te reposicionas, así que muévete con calma y nunca saltes sobre el puente: rebotar y salir de la placa es el fallo más común en solitario."
+          ]
+        },
+        {
+          "h3": "En cooperativo",
+          "paras": [
+            "En grupo, repartan dos papeles antes de empezar. El ancla cruza primero y se compromete con la placa del otro lado durante todo el intento. Todos los demás cruzan en fila india detrás de él, con un caminante completamente al otro lado antes de que el siguiente pise el puente. Dos caminantes funcionan bien; cuatro o más solo significan una cola más larga, no un puzle más difícil.",
+            "Si juegas en Switch 2 o PS5 con amigos en casa, pon al jugador más tranquilo de ancla: es un trabajo aburrido, y de eso se trata. En Steam, con jugadores a distancia, marca la placa del otro lado en el chat antes del primer cruce para que el papel quede fijado por escrito."
+          ]
+        },
+        {
+          "h2": "Los tres errores que arruinan más intentos",
+          "list": [
+            "Cruzar el puente a la carrera y juntos. En el momento en que la placa se queda vacía, el puente se retrae y todos los que están encima caen. La solución es disciplina: el ancla aguanta y los demás cruzan en fila india.",
+            "No asignar un ancla. Si nadie es dueño de la placa del otro lado, el primer caminante en cruzar suele irse a explorar, el puente se retrae de golpe y el resto del grupo queda varado en el lado equivocado. Nombren al ancla en voz alta antes de tocar la placa.",
+            "Dejar atrás a un rezagado. Los grupos que se reagrupan arriba sin contarse obligan a alguien a volver sobre un puente activo. Cuenten cabezas en el otro lado antes de subir."
+          ],
+          "ordered": true,
+          "paras": [
+            "Fíjate en lo que los tres tienen en común: ninguno es un error de resolución de puzles. La Torre Roja falla por comunicación, no por lógica. Baja el ritmo, di el plan en voz alta y la torre se convierte en un trámite de dos minutos."
+          ]
+        },
+        {
+          "h2": "Lista de verificación para un intento limpio",
+          "list": [
+            "Asignen al ancla antes de empezar: díganlo en el chat de voz.",
+            "Acuerden el orden de cruce mientras todos siguen sobre la placa.",
+            "El ancla cruza primero y no vuelve a moverse hasta la campanada.",
+            "Crucen de uno en uno; esperen a una parada completa antes de que el siguiente caminante pise el puente.",
+            "Si un caminante cae, el ancla se queda; el caminante caído reaparece en la placa inicial.",
+            "Reagrúpense y cuenten caminantes en el otro lado antes de la subida.",
+            "Activen la placa de salida con la fila completa para completar la torre de forma limpia."
+          ],
+          "ordered": true
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Dónde está la Torre Roja en Big Walk?",
+          "a": "La Torre Roja es la primera torre de color a la que llegas en el recorrido principal, poco después del tramo del tutorial. Sigue la señal roja en el horizonte desde la pradera inicial; la torre está al final de una pequeña colina con la placa de presión roja en su base."
+        },
+        {
+          "q": "¿Cuál es la solución de la Torre Roja en Big Walk?",
+          "a": "Formen una fila sobre la placa roja para bajar el puente, envíen a un caminante al otro lado para sostener la placa ancla lejana y luego crucen el resto en fila india. Terminen colocando a todo el grupo sobre la placa de salida, en lo alto."
+        },
+        {
+          "q": "¿Por qué el puente de la Torre Roja se retrae una y otra vez?",
+          "a": "El puente se sostiene con una placa de presión. Si la placa queda vacía —por ejemplo, si dos caminantes se bajan a la vez—, se retrae. Mantén siempre al menos un caminante sobre una placa: primero la placa inicial y luego la placa ancla del otro lado."
+        },
+        {
+          "q": "¿Se puede resolver la Torre Roja en solitario?",
+          "a": "Sí. Un solo caminante puede bajar el puente, cruzar corriendo y sostener la placa ancla él solo. Es más lento y más ajustado que en cooperativo, pero no hay un requisito mínimo de jugadores."
+        },
+        {
+          "q": "¿La Torre Roja es obligatoria?",
+          "a": "Es la torre de acceso: completarla abre el camino a las torres posteriores, así que sí. Además enseña la lógica de las placas de presión sobre la que se construyen las torres Negra, Verde, Azul y Amarilla."
+        },
+        {
+          "q": "¿Qué pasa si un caminante se cae del puente?",
+          "a": "El caminante caído reaparece en la placa inicial. El ancla de la placa lejana no debe moverse; el caminante que reapareció simplemente cruza de nuevo cuando el puente está estable."
+        },
+        {
+          "q": "¿Cuánto tiempo lleva la Torre Roja?",
+          "a": "Un grupo coordinado la supera en unos minutos. La mayor parte del tiempo se va en acordar el ancla y el orden de cruce, no en el puzle en sí."
+        }
+      ],
+      "howTo": {
+        "name": "Resolver la Torre Roja de Big Walk",
+        "steps": [
+          {
+            "title": "Párate sobre la placa roja",
+            "text": "Todos los caminantes se reúnen sobre la placa de presión roja en la base de la torre. Mientras la placa tenga peso encima, el primer puente se mantiene bajado. No dejes que nadie se aleje antes de acordar el orden."
+          },
+          {
+            "title": "Envía al caminante delantero al otro lado",
+            "text": "El caminante de adelante pisa el puente y se detiene sobre la placa ancla lejana. Esa placa mantiene el puente bajado para el grupo, así que el resto de la placa inicial puede quedar vacía sin peligro."
+          },
+          {
+            "title": "Cruza de uno en uno",
+            "text": "Los caminantes restantes avanzan en fila india, cada uno esperando hasta que el de adelante haya cruzado por completo. Nunca dejes que ambas placas queden vacías al mismo tiempo o el puente se retraerá y dejará caer a quien esté encima."
+          },
+          {
+            "title": "Reagrúpate antes de la subida",
+            "text": "Espera en el otro lado hasta que todos los caminantes hayan cruzado. Un rezagado en la placa inicial significa que alguien tiene que volver sobre sus pasos, y ahí es donde ocurren la mayoría de los reinicios."
+          },
+          {
+            "title": "Sube en fila",
+            "text": "Avanza por la torre en grupo y mantén la fila compacta. La Torre Roja no tiene cronómetro, así que no hay razón para subir las escaleras corriendo."
+          },
+          {
+            "title": "Pisa la placa final todos juntos",
+            "text": "En lo alto, toda la fila se coloca sobre la placa de salida al mismo tiempo. Eso activa la campanada de finalización de la torre y abre el camino hacia adelante."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop",
+        "guide"
+      ]
+    },
+    "blackTower": {
+      "slug": "black-tower",
+      "title": "Big Walk Torre Negra: solución del puzle, guía de ritmo",
+      "desc": "Solución de la Torre Negra de Big Walk: la puerta de ritmo de tres pulsos explicada, el pulso exacto en el que cruzar y por qué los grupos se reinician sin parar. Paso a paso con diagrama.",
+      "keywords": [
+        "big walk torre negra solución",
+        "big walk torre negra puzle",
+        "cómo resolver la torre negra big walk",
+        "big walk torre negra ritmo",
+        "big walk torre negra pulsos",
+        "big walk torre negra se reinicia"
+      ],
+      "h1": "Solución del puzle de la Torre Negra de Big Walk",
+      "lead": "La Torre Negra añade una puerta de ritmo: las luces emiten pulsos en un orden fijo y los caminantes deben pisar al compás. La solución es dejar que el ancla cuente dos pulsos completos y cruzar en el tercero: no te muevas en el primer pulso o la puerta se reinicia.",
+      "sections": [
+        {
+          "h2": "Resumen",
+          "paras": [
+            "La Torre Negra es donde Big Walk deja de tomarte de la mano. La placa de la Torre Roja sigue ahí, pero ahora una puerta de luz pulsante decide cuándo puedes cruzar. Pisa en el tiempo equivocado y la puerta se reinicia, lo que convierte una simple caminata en el primer puzle que la mayoría de los grupos realmente tiene que resolver junto.",
+            "La solución es una sola regla: cuenta dos pulsos y muévete en el tercero. Todo lo que sigue trata de hacer que esa regla se cumpla cuando cuatro caminantes gritan al mismo tiempo."
+          ],
+          "img": {
+            "src": "/images/black-tower-map.png",
+            "alt": "Mapa del ritmo de pulsos de la Torre Negra de Big Walk: muévete en el tercer pulso"
+          }
+        },
+        {
+          "h2": "El patrón de pulsos explicado",
+          "paras": [
+            "Las luces negras de la puerta emiten pulsos en un ciclo fijo de tres tiempos. Los dos primeros pulsos son avisos: iluminan la puerta pero no la abren. El tercer pulso es la ventana abierta, y es el único momento en el que se registra un cruce.",
+            "Dos detalles importan. Primero, el ciclo nunca cambia: no importa cuántas veces te reinicies, el orden siempre es uno-dos-abierto. Segundo, la puerta lee tu posición en el tiempo, no tu velocidad. Un caminante lento que pisa en el tercer pulso cruza sin problemas; un velocista que arranca en el primer pulso reinicia la puerta para todos.",
+            "Si el patrón te cuesta leerse al principio, escucha en lugar de mirar: los pulsos tienen un tic audible y el tercer tiempo suena con un tono más grave. Muchos jugadores llevan el ritmo de oído una vez que lo notan."
+          ]
+        },
+        {
+          "h2": "El truco del ritmo",
+          "paras": [
+            "Los grupos nuevos entran en pánico y se mueven en el primer pulso. La puerta solo registra un cruce en el tercer pulso de cada ciclo, así que la paciencia le gana a la velocidad. Deja que el ancla marque el ritmo y que el resto lo imite.",
+            "El método más limpio es una cuenta hablada. El ancla mira las luces y dice «uno, dos, ya», con el «ya» cayendo exactamente en el tercer pulso. Todos los demás caminan con el «ya» e ignoran las luces por completo. Repartir el trabajo de este modo elimina el fallo más común: dos caminantes leyendo las mismas luces con retrasos ligeramente distintos."
+          ]
+        },
+        {
+          "h2": "Un ejercicio de ritmo en solitario",
+          "paras": [
+            "Si tu grupo no deja de fallar, deja de cruzar y practica el ritmo. Párate en el borde de la puerta, donde un paso provocaría el reinicio, y repite este ciclo cinco veces:",
+            "Cinco repeticiones limpias bastan para que el ritmo se quede grabado. Parece lento, pero es más rápido que otros diez minutos de reinicios en grupo, y una vez que un jugador domina el ritmo puede marcar la cuenta para todos los demás."
+          ],
+          "list": [
+            "Mira los pulsos y cuenta «uno, dos» en tu cabeza.",
+            "En el tercer pulso, da un paso adelante y detente.",
+            "Comprueba si la puerta marcó un cruce o un reinicio.",
+            "Retrocede y repite hasta encadenar cinco tiempos limpios seguidos."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Por qué los grupos se reinician una y otra vez",
+          "paras": [
+            "Casi todos los intentos fallidos de la Torre Negra se reducen a las mismas tres causas:",
+            "Fíjate en lo que no está en la lista: la torre en sí. La Torre Negra nunca cambia su patrón, así que un grupo que se reinicia diez veces está peleando contra su propia coordinación, no contra el puzle."
+          ],
+          "list": [
+            "Moverse en el primer pulso. El primer destello parece una luz verde. No lo es: es el inicio de la cuenta.",
+            "Que cada uno lea las luces por su cuenta. Cuatro cuentas privadas se desfasan. Usa un solo ancla y una sola llamada compartida.",
+            "Pasos de pánico en cadena. Un caminante se adelanta, el siguiente lo copia y la puerta se reinicia a mitad de la fila. Deja un hueco entre caminantes para que un tropiezo no se propague."
+          ]
+        },
+        {
+          "h2": "Dificultad de la Torre Negra frente a la Roja",
+          "paras": [
+            "La Torre Roja enseña el peso: mantén un cuerpo sobre la placa y el puente sigue bajado. La Torre Negra conserva esa placa y le suma ritmo, y por eso se siente como el primer pico de dificultad real de Big Walk. La Roja perdona el juego lento y cuidadoso; la Negra castiga el juego rápido y descuidado.",
+            "Pero las habilidades se transfieren. Un grupo que aprendió a asignar un ancla en la Roja ya tiene el hábito que exige la Torre Negra: el único músculo nuevo es contar hasta tres antes de moverse. La mayoría de los grupos supera la Roja al primer intento y necesita dos o tres para la Negra, y esa diferencia es enteramente culpa de la puerta de ritmo."
+          ]
+        },
+        {
+          "h2": "Consejos",
+          "list": [
+            "Di la cuenta en voz alta en cooperativo para que todos se muevan a la vez.",
+            "Si alguien se equivoca de tiempo, el ancla aguanta y el grupo lo reintenta: no hace falta un reinicio completo.",
+            "Mira al caminante de arriba; su posición les indica a los que llegan tarde cuándo está abierta la puerta.",
+            "Cruza en fila india con un hueco entre caminantes para que un paso adelantado no haga cadena.",
+            "Haz primero el ejercicio en solitario si alguien es nuevo: cinco tiempos limpios le ganan a diez reinicios.",
+            "Ignora la longitud del pasillo; el ritmo de los pulsos es idéntico en cada cruce."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Por qué la Torre Negra se reinicia todo el rato?",
+          "a": "La puerta se reinicia si un caminante se mueve en el pulso equivocado. Cuenta dos pulsos completos, muévete en el tercero y la puerta se mantiene abierta."
+        },
+        {
+          "q": "¿Se puede hacer la Torre Negra en solitario?",
+          "a": "Sí: el ritmo es el mismo, solo que cruzas la placa tú mismo en el pulso abierto. Muchos jugadores encuentran el ritmo más fácil a solas porque no hay un segundo caminante desfasándose."
+        },
+        {
+          "q": "¿La Torre Negra es más difícil que la Roja?",
+          "a": "Añade ritmo sobre la mecánica de la placa, así que la mayoría de los jugadores la siente como el primer pico de dificultad real."
+        },
+        {
+          "q": "¿El patrón de pulsos de la Torre Negra cambia alguna vez?",
+          "a": "No. El ciclo de tres pulsos es fijo en toda la torre. Lo único que cambia es tu posición: los cruces posteriores parecen más rápidos porque el pasillo es más largo, no porque las luces aceleren."
+        },
+        {
+          "q": "¿Cuántos jugadores hacen falta para la Torre Negra?",
+          "a": "El puzle se adapta al tamaño de tu grupo como el resto de Big Walk. Dos jugadores es el mínimo cómodo: uno marca la cuenta mientras el otro cruza en el pulso abierto."
+        },
+        {
+          "q": "¿Cuánto tiempo está abierta la puerta en el tercer pulso?",
+          "a": "Lo suficiente para que una fila india la cruce si todos se mueven con la llamada. No es una prueba de reflejos: si ya estás caminando en el tercer pulso, llegarás de sobra."
+        },
+        {
+          "q": "¿Qué es la Torre Negra en Big Walk?",
+          "a": "Una de las cinco torres de color del juego de puzles cooperativo de House House. Parte de la idea de la placa de presión de la Torre Roja añadiendo una puerta de luz temporizada, y es la primera torre que la mayoría de los grupos tiene que reintentar."
+        },
+        {
+          "q": "¿Hace falta chat de voz para la Torre Negra?",
+          "a": "Ayuda mucho. Toda la solución descansa sobre una única cuenta compartida, así que un «uno, dos, ya» hablado es mucho más fiable que mirarse mover. Los avisos por texto funcionan si se envían con antelación."
+        }
+      ],
+      "howTo": {
+        "name": "Resolver la Torre Negra de Big Walk",
+        "steps": [
+          {
+            "title": "Observa un ciclo completo",
+            "text": "Las luces negras emiten pulsos en un patrón fijo. Quédate quieto en la puerta y aprende el orden antes de que nadie se mueva: el ciclo se repite idéntico, así que una buena observación te lo dice todo."
+          },
+          {
+            "title": "Asigna al ancla",
+            "text": "Elige a un caminante para llevar la cuenta. Todos los demás se quedan en silencio y siguen el ritmo del ancla en lugar de leer las luces por su cuenta."
+          },
+          {
+            "title": "El ancla cuenta dos pulsos",
+            "text": "El caminante que guía cuenta dos pulsos completos en voz alta y luego pisa en el tercero: es el único tiempo en el que la puerta registra un cruce."
+          },
+          {
+            "title": "Cruza en el pulso abierto",
+            "text": "Los caminantes restantes siguen en el mismo pulso abierto, en fila india, con un pequeño hueco entre cada uno para que un paso adelantado no arrastre al siguiente."
+          },
+          {
+            "title": "Recupérate de un paso fuera de tiempo",
+            "text": "Si alguien se mueve en el pulso equivocado, la puerta se reinicia, pero el intento no. El ancla mantiene la posición, espera a que el ciclo vuelva a empezar y repite la cuenta."
+          },
+          {
+            "title": "Reagrúpate en lo alto",
+            "text": "Una vez al otro lado, mantén la posición para que los caminantes rezagados puedan leer tu fila y calcular su propio cruce con el mismo pulso abierto."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop"
+      ]
+    },
+    "greenTower": {
+      "slug": "green-tower",
+      "title": "Big Walk Torre Verde: solución del puzle paso a paso",
+      "desc": "Solución de la Torre Verde de Big Walk: dirige el rayo a ambos receptores en el orden correcto, extiende los dos puentes y evita los errores que los derriban.",
+      "keywords": [
+        "big walk torre verde solución",
+        "big walk torre verde puzle",
+        "cómo resolver la torre verde big walk",
+        "big walk torre verde rayo",
+        "big walk torre verde puentes",
+        "big walk torre verde receptores"
+      ],
+      "h1": "Solución del puzle de la Torre Verde de Big Walk",
+      "lead": "La Torre Verde usa una mecánica de luz y puentes: diriges un rayo verde hacia un receptor para extender un puente. La solución de la Torre Verde de Big Walk es apuntar el rayo primero al receptor cercano (extiende el puente 1), cruzar a la plataforma central y luego girarlo hacia el receptor lejano (extiende el puente 2), nunca ambos a la vez. Es un puzle de recorridos, no un reto de ritmo.",
+      "sections": [
+        {
+          "h2": "Resumen",
+          "paras": [
+            "La Torre Verde cambia la placa de presión por un rayo de luz. En lugar de peso, diriges un rayo hacia receptores que extienden puentes. El truco está en que el rayo solo alcanza un receptor por ángulo, así que todo el puzle de la Torre Verde de Big Walk gira en torno al orden en que iluminas las cosas, no a la velocidad. La ruta limpia más rápida es siempre la misma: receptor cercano, cruzar, receptor lejano, cruzar, placa de salida con la fila completa."
+          ],
+          "img": {
+            "src": "/images/green-tower-map.png",
+            "alt": "Mapa del recorrido del rayo de la Torre Verde de Big Walk: primero el receptor cercano, segundo el lejano"
+          }
+        },
+        {
+          "h2": "Cómo funcionan el rayo y los receptores",
+          "paras": [
+            "Un reflector en la base de la torre lanza un rayo verde a través del vacío. Dos receptores esperan al otro lado —uno cercano y uno lejano— y cada receptor alimenta exactamente un puente. Mientras el rayo toca un receptor, su puente se mantiene extendido. En el momento en que el rayo se aparta, ese puente se retrae.",
+            "El reflector gira, pero el rayo es una sola línea recta. Puede fijarse en un receptor por ángulo, nunca en ambos a la vez. No hay cronómetro ni consumo: un receptor aguanta todo el tiempo que mantengas el rayo sobre él. Eso es lo que hace de la Torre Verde un puzle de recorridos en lugar de una prueba de reflejos.",
+            "Sabrás que el rayo se ha fijado cuando el receptor se ilumina y el puente se desliza hacia fuera con un golpe sordo. Un casi acierto sigue pareciendo cercano: el rayo roza el borde y nada se extiende. Si un puente no sale, confía en el puente, no en tus ojos: ajusta el reflector hasta que el receptor se encienda de forma visible."
+          ]
+        },
+        {
+          "h3": "Qué alimentan realmente los receptores",
+          "paras": [
+            "El receptor cercano extiende el puente 1, que va de la base a la plataforma central. El receptor lejano extiende el puente 2, que va de la plataforma central a la cima. El puente 2 solo sirve una vez que tu grupo está sobre la plataforma central: iluminarlo antes te da un puente al que nadie puede llegar."
+          ]
+        },
+        {
+          "h2": "El orden de los dos puentes y por qué nunca quedan ambos extendidos",
+          "paras": [
+            "Los jugadores intentan iluminar ambos receptores y se preguntan por qué cae el primer puente. Extiendes uno, cruzas y luego reapuntas. Es una secuencia, no una resolución simultánea. Como un solo rayo alimenta a un solo receptor, mantener el puente 1 y el puente 2 a la vez es imposible por diseño: la torre está construida para que el grupo se comprometa por completo con cada cruce antes de empezar el siguiente.",
+            "El ritmo seguro es: fija el receptor cercano, cruza con todos por el puente 1 y luego gira el rayo con decisión hacia el receptor lejano. Que el puente 1 se retraiga detrás de ti no es un fallo: es la mecánica funcionando. Cuando el puente 2 esté extendido, crúzalo y coloca la fila completa sobre la placa de salida."
+          ]
+        },
+        {
+          "h2": "Quién debe controlar el reflector",
+          "paras": [
+            "Un caminante controla el reflector; el resto se queda quieto hasta que se le indique. Elige al controlador antes de empezar el intento y dilo en voz alta en el chat de voz. El controlador ideal es quien más tranquilo se quede quieto: el trabajo es noventa por ciento mantener un ángulo y diez por ciento girar a la señal.",
+            "El controlador cruza el último en cada puente, cuando todos los demás ya están a salvo, y retoma el reflector en la plataforma central para el segundo apuntado. Nadie más toca el reflector a mitad del intento. Dos jugadores peleando por el giro son la forma más común de que una solución limpia de la Torre Verde de Big Walk se venga abajo.",
+            "Todos los demás tienen un solo trabajo: anunciar los cruces. Un simple «crucé» de cada caminante le dice al controlador que el puente puede soltarse. Los grupos silenciosos obligan al controlador a adivinar, y adivinar es cuando los rayos se mueven antes de tiempo."
+          ]
+        },
+        {
+          "h2": "Errores comunes al dirigir el rayo",
+          "list": [
+            "Apuntar primero al receptor lejano. El puente 2 empieza en la plataforma central, así que desde la base es un puente a ninguna parte.",
+            "Mover el rayo mientras alguien está a mitad del cruce. Si el rayo cae, el controlador reapunta antes de que nadie vuelva a moverse.",
+            "Enviar caminantes de uno en uno con largas pausas. Crucen en grupo para que un solo reapuntado nunca deje a media fila varada.",
+            "Salir de la placa de salida para «ayudar» a un rezagado. La placa de salida solo se registra con la fila completa presente, así que espera al último caminante.",
+            "Girar en pánico cuando el puente 1 se retrae. Esa retracción debe ocurrir: mantén el rayo firme en el receptor lejano."
+          ]
+        },
+        {
+          "h2": "Consejos para un intento limpio",
+          "list": [
+            "Un caminante controla el reflector; el resto se queda quieto hasta que se le indique.",
+            "Si el rayo cae a mitad del cruce, el controlador reapunta antes de que nadie se mueva.",
+            "La placa de salida solo se registra con la fila completa presente.",
+            "Toma la Torre Verde como práctica para leer el orden de los receptores: las torres posteriores reutilizan la misma regla de un rayo, un objetivo, en condiciones más duras."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Por qué no se mantienen los dos puentes de la Torre Verde?",
+          "a": "El rayo solo alimenta un receptor a la vez, y cada receptor sostiene exactamente un puente. Iluminar el receptor lejano suelta el cercano, así que el puente 1 se retrae. Extiende y cruza el puente 1 y luego reapunta para el puente 2: no puedes mantener ambos."
+        },
+        {
+          "q": "¿Cuál es el orden correcto de la solución de la Torre Verde de Big Walk?",
+          "a": "Primero el receptor cercano, segundo el lejano. Apunta al receptor cercano para extender el puente 1, cruza a la plataforma central y luego gira el rayo hacia el receptor lejano para extender el puente 2 y terminar la subida."
+        },
+        {
+          "q": "¿Quién apunta el rayo en cooperativo?",
+          "a": "Quien llegue primero al reflector. El resto espera en la placa o la plataforma para que el rayo no caiga, y nadie más toca el reflector hasta que termina el intento."
+        },
+        {
+          "q": "¿Qué pasa si el rayo cae mientras alguien está en un puente?",
+          "a": "El puente se retrae bajo sus pies. El controlador reapunta al receptor antes de que nadie vuelva a moverse, y el caminante caído reaparece en la placa de la base."
+        },
+        {
+          "q": "¿La Torre Verde es un puzle o un reto de ritmo?",
+          "a": "Es un puzle de recorridos, no de ritmo: mucho más indulgente que la Torre Negra una vez que ves el orden de dos pasos. No hay cuenta atrás; el rayo sostiene un receptor todo el tiempo que lo dejes apuntado."
+        },
+        {
+          "q": "¿Por qué no se activa la placa de salida de la Torre Verde?",
+          "a": "La placa de salida solo se registra con la fila completa presente. Si un caminante sigue en la plataforma central o está reapareciendo en la base, espéralo antes de esperar la campanada de finalización."
+        },
+        {
+          "q": "¿Se puede saltar la plataforma central apuntando primero al receptor lejano?",
+          "a": "No. El puente 2 empieza en la plataforma central, así que iluminar el receptor lejano desde la base te da un puente al que no puedes llegar. El receptor cercano siempre va primero."
+        }
+      ],
+      "howTo": {
+        "name": "Resolver la Torre Verde de Big Walk",
+        "steps": [
+          {
+            "title": "Reúne al grupo en el reflector",
+            "text": "Lleva a todo el grupo al reflector de la base de la torre y acuerda quién lo controla antes de que nadie lo toque: cambiar a mitad del puzle es como fallan los intentos."
+          },
+          {
+            "title": "Apunta el rayo al receptor cercano",
+            "text": "Gira el reflector hasta que el rayo verde se fije en el primer receptor. Oirás cómo engancha y el puente 1 se extiende de la base a la plataforma central."
+          },
+          {
+            "title": "Cruza el puente 1",
+            "text": "Los caminantes cruzan a la plataforma central mientras el rayo aguanta. El controlador reapunta antes de que nadie se mueva si el rayo cae a mitad del cruce."
+          },
+          {
+            "title": "Gira hacia el receptor lejano",
+            "text": "Desde la plataforma central, aparta el rayo del receptor cercano y colócalo en el segundo. El puente 1 se retrae —es lo esperado— y el puente 2 se extiende hasta la cima."
+          },
+          {
+            "title": "Cruza el puente 2",
+            "text": "Todos los que están en la plataforma central cruzan el puente 2 hacia la cima mientras el rayo sigue fijado en el receptor lejano."
+          },
+          {
+            "title": "Termina la subida",
+            "text": "Cruza el puente 2 y coloca la fila completa sobre la placa de salida para completar la Torre Verde. La placa solo se registra cuando todos los caminantes están presentes."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "blackTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop"
+      ]
+    },
+    "blueTower": {
+      "slug": "blue-tower",
+      "title": "Big Walk Torre Azul: solución del puzle, guía paso a paso",
+      "desc": "¿Atascado en la Torre Azul de Big Walk? Solución completa del puzle: niveles de agua de la válvula, la regla de la cornisa a nivel medio y la trampa del vaciado total, con diagrama.",
+      "keywords": [
+        "big walk torre azul solución",
+        "big walk torre azul puzle",
+        "cómo resolver la torre azul big walk",
+        "big walk torre azul válvula",
+        "big walk torre azul nivel del agua",
+        "big walk torre azul atascado"
+      ],
+      "h1": "Solución del puzle de la Torre Azul de Big Walk",
+      "lead": "La Torre Azul es un puzle de nivel de agua: bajar una compuerta eleva el pasillo. La solución es enviar a un caminante hasta la válvula, mantener el pasillo a nivel medio y dejar que el resto cruce antes de vaciarla del todo: si la vacías por completo, la cornisa de cruce desaparece.",
+      "sections": [
+        {
+          "h2": "Resumen",
+          "paras": [
+            "La Torre Azul introduce un puzle vertical de agua. A diferencia de las torres de placa y de rayo, el éxito depende de cuánto cambies el entorno, no solo del orden. Una válvula controla el nivel del agua, y el nivel del agua decide qué cornisas existen. Acertar con el nivel una vez convierte la torre en un paseo corto; equivocarse deja a tu propio equipo varado en el lado equivocado de un vacío que tú creaste.",
+            "También es la primera torre en la que un jugador pasa la mayor parte del intento quieto. Es a propósito. Big Walk premia a los grupos que saben repartirse tareas y confiar los unos en los otros, y la Torre Azul es la prueba más clara de esa confianza en todo el juego: los caminantes que cruzan no pueden ver la válvula, y el caminante de la válvula no puede ver la cornisa."
+          ],
+          "img": {
+            "src": "/images/blue-tower-map.png",
+            "alt": "Mapa del nivel del agua de la Torre Azul de Big Walk: estados lleno, medio y vacío"
+          }
+        },
+        {
+          "h2": "Los tres estados del agua",
+          "paras": [
+            "La Torre Azul tiene exactamente tres estados de agua, y cada uno cambia sobre qué puedes pararte:",
+            "Todo el puzle es una sola decisión: parar en medio. Lo demás es caminar. Los grupos que fracasan aquí casi siempre entienden la mecánica sin problema; simplemente no pueden resistirse a girar la válvula un punto más para «hacerlo más seguro», y la torre castiga exactamente ese instinto. Si tu grupo no deja de fallar, mira el agua, no los caminantes: todo fallo de la Torre Azul se puede rastrear hasta un giro de válvula que no debió ocurrir."
+          ],
+          "list": [
+            "Lleno. El estado inicial. La zona inferior está bajo el agua, la cornisa de cruce está sumergida y nadie puede ir a ningún sitio útil. La única jugada productiva en este estado es bajar a un caminante hasta la válvula.",
+            "Medio. El estado de resolución. El agua baja lo suficiente para dejar al descubierto la cornisa de cruce entre los dos lados, pero se mantiene lo bastante alta para que la cornisa siga salvando el vacío. El caminante de la válvula abajo no se inunda y la ruta de cruce de arriba está abierta. Casi todo el intento ocurre en este estado.",
+            "Vacío. El estado de fallo. Sin agua, la cornisa de cruce pierde su soporte y desaparece. Cualquier caminante que siga en el lado equivocado queda atrapado, y hay que volver a llenar la torre para recuperarlo."
+          ]
+        },
+        {
+          "h2": "El papel del caminante de la válvula",
+          "paras": [
+            "Todo intento de la Torre Azul necesita un caminante de la válvula designado. Este jugador baja al punto más bajo, gira la válvula de lleno a medio y luego hace lo más difícil del cooperativo: nada. Mantiene la posición mientras el resto del grupo cruza por encima de él y resiste todas las ganas de ayudar.",
+            "Dos reglas mantienen vivo al caminante de la válvula. Primero, nunca subas el agua mientras esté abajo: el agua llena inunda la zona de la válvula. Segundo, nunca termines el vaciado mientras esté abajo: en vacío, su ruta de subida cambia y no puede reincorporarse hasta que la torre esté completa. Cuando la fila pisa la placa de salida allá arriba, el caminante de la válvula sube por el lado ya drenado y el intento termina.",
+            "En el chat de voz, trata la válvula como un arma cargada: nadie la toca sin anunciarlo, y nadie lo anuncia mientras un caminante está a mitad del cruce. Un simple «nivel fijado, cruzando» y «libre, todos cruzaron» es todo el protocolo de comunicación que la torre necesita."
+          ]
+        },
+        {
+          "h2": "Por qué un vaciado total arruina el intento",
+          "paras": [
+            "El instinto es vaciarlo todo para tener un camino despejado. Se siente seguro: sin agua, sin ahogos, sin problema. Pero la Torre Azul está construida para que la cornisa de cruce dependa del agua que la sostiene en su sitio. A nivel medio la cornisa está al descubierto y se puede pisar; en vacío el soporte cede y los dos lados de la torre dejan de estar conectados.",
+            "Este es el fracaso más común de la Torre Azul: el grupo cruza limpio, alguien «servicial» abre la válvula del todo y el caminante que sigue en el otro lado —normalmente el propio caminante de la válvula— se queda sin ruta de regreso. La solución es disciplina, no habilidad. Para la válvula en medio, anuncia que el nivel está fijado y no la toques hasta que la placa de salida se haya activado desde la plataforma superior.",
+            "Si pasa de todos modos, la recuperación es sencilla: vuelve a llenar la torre y fija el nivel medio desde cero. Los estados son repetibles y nada se pierde para siempre, así que toma un mal vaciado como un reinicio, no como una sesión fallida."
+          ]
+        },
+        {
+          "h2": "Ruta de la Torre Azul en solitario",
+          "paras": [
+            "Jugando solo, haces ambos trabajos tú mismo, en este orden:",
+            "En solitario es más indulgente que en cooperativo: no hay compañero que vacíe el agua antes de tiempo, y el único ritmo que importa es el tuyo. La subida de vuelta desde la válvula es la única parte delicada: tómatela con calma y no corras por la cornisa, porque el soporte es estrecho y una caída significa volver a llenar desde lleno. Solo resiste la tentación de vaciar la torre «para después»: el nivel medio es la meta, no un punto de control.",
+            "Una nota específica del modo solitario: como eres a la vez el caminante de la válvula y el que cruza, nunca necesitas el tercer estado de agua. Si en algún momento te encuentras en vacío, has girado una vez de más: vuelve a llenar y fija el medio otra vez."
+          ],
+          "list": [
+            "Baja a la válvula y fija el agua a nivel medio.",
+            "Sube de vuelta al lado de entrada: el estado medio deja al descubierto tu camino de regreso.",
+            "Cruza la cornisa hasta la plataforma superior, despacio y centrado.",
+            "Párate sobre la placa de salida para completar la torre."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Avisos de voz en la Torre Azul",
+          "paras": [
+            "La torre es mecánicamente simple, así que casi todos los fallos son fallos de comunicación. Acuerden tres avisos cortos antes de que nadie baje:",
+            "Con tres o cuatro caminantes, envía primero al jugador más lento o menos seguro para que el grupo no lo esté esperando al final. Con dos caminantes los papeles son fijos —uno a la válvula, uno a cruzar— y quien cruza debe esperar al aviso de «nivel fijado» antes de pisar la cornisa, ya que el soporte solo aparece cuando el agua se asienta."
+          ],
+          "list": [
+            "«Fijando medio.» El caminante de la válvula está a punto de girarla. Nadie se mueve hasta el siguiente aviso.",
+            "«Nivel fijado, cruzando.» La cornisa está lista y los caminantes están sobre ella. La válvula ahora es intocable.",
+            "«Todos cruzaron.» Todos están en la plataforma superior y la placa de salida es lo siguiente. Solo ahora el caminante de la válvula puede dejar su puesto y subir."
+          ]
+        },
+        {
+          "h2": "Errores comunes en la Torre Azul",
+          "paras": [
+            "Más allá del vaciado total, tres errores menores explican la mayoría de los intentos fallidos. Primero, que todo el grupo baje junto: si todos están en la válvula, nadie está en posición de cruzar cuando aparece la cornisa, y alguien tiene que subir de vuelta de todos modos. Segundo, cruzar antes de que el agua se asiente: la cornisa solo se vuelve sólida a nivel medio, así que salir durante la transición te deja caer al vacío. Tercero, el caminante de la válvula que se va a «explorar» la zona inferior drenada mientras el grupo está a mitad del cruce; si roza la válvula en el camino, el intento se acabó.",
+            "Ninguno de estos es un problema de mecánicas. Son problemas de paciencia, y todos tienen la misma solución: un trabajo por caminante, un cambio cada vez y un aviso antes de cada cambio."
+          ]
+        },
+        {
+          "h2": "Consejos",
+          "list": [
+            "Designen al caminante de la válvula antes de empezar, y díganlo en voz alta en el chat de voz.",
+            "Cruza a nivel medio; no vuelvas a tocar la válvula hasta que la fila esté arriba.",
+            "Cruza en fila india por la cornisa para que un caminante empujado no arrastre a otros.",
+            "Si un intento sale mal, vuelve a llenar y reinicia: los tres estados son repetibles.",
+            "La placa de salida completa la torre para todo el grupo, incluido el caminante de la válvula que sigue abajo."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Por qué desaparece la cornisa de cruce de la Torre Azul?",
+          "a": "La cornisa solo existe a nivel medio. El agua sostiene físicamente el soporte en su sitio, así que si vacías la torre por completo, la cornisa que conecta los dos lados desaparece. Mantén el nivel en medio y déjala al descubierto hasta que todos los caminantes hayan cruzado a la plataforma superior."
+        },
+        {
+          "q": "¿Qué hace la válvula en la Torre Azul?",
+          "a": "La válvula fija la altura del agua, y la altura del agua decide qué cornisas se pueden pisar. El agua llena lo sumerge todo, el nivel medio deja al descubierto la cornisa de cruce y el vacío la elimina por completo. El nivel medio es el punto justo: fíjalo una vez y déjalo quieto."
+        },
+        {
+          "q": "¿Puede la Torre Azul hacer fallar a todo el grupo?",
+          "a": "Solo si el agua se vacía mientras los caminantes aún necesitan la cornisa. Mantén al caminante de la válvula aislado en la válvula, comunícate antes de cualquier cambio y el resto del grupo cruzará a salvo. Un caminante varado reaparece, pero el intento pierde su finalización limpia."
+        },
+        {
+          "q": "¿Quién debería ser el caminante de la válvula?",
+          "a": "Elige al jugador más paciente del grupo. El caminante de la válvula casi no hace nada durante la mayor parte del intento: fija el nivel una vez, lo mantiene y sube el último. Es un papel de poca acción y mucha responsabilidad, así que dáselo a alguien que no se aburra e improvise."
+        },
+        {
+          "q": "¿Se puede resolver la Torre Azul en solitario?",
+          "a": "Sí. Fija tú mismo la válvula a nivel medio, sube de vuelta al lado de entrada, cruza la cornisa y pisa la placa de salida. Es más lento que en cooperativo porque un caminante hace ambos trabajos, pero nada en el puzle exige estrictamente un segundo jugador."
+        },
+        {
+          "q": "¿Qué pasa si el caminante de la válvula se inunda?",
+          "a": "El caminante de la válvula solo se inunda si el agua se queda en lleno o se sube de nuevo mientras está abajo. Fija el nivel medio antes de enviar a cualquier otro y estará seguro durante todo el intento. Si pasa de todos modos, reaparece y vuelves a fijar el nivel."
+        },
+        {
+          "q": "¿La Torre Azul es obligatoria para terminar Big Walk?",
+          "a": "Sí. La Torre Azul es una de las cinco torres de color del recorrido principal del puzle cooperativo de House House, y completar las cinco abre la ruta al final del juego. No hay atajo ni camino alternativo para evitarla."
+        }
+      ],
+      "howTo": {
+        "name": "Resolver la Torre Azul de Big Walk",
+        "steps": [
+          {
+            "title": "Envía a un caminante a la válvula",
+            "text": "El caminante de más abajo desciende y llega a la válvula de agua que controla el nivel de la torre. Todos los demás se quedan quietos en el lado de entrada y esperan."
+          },
+          {
+            "title": "Mantén el nivel medio",
+            "text": "Gira la válvula solo hasta medio: esto deja al descubierto la cornisa de cruce sin inundar al caminante de la válvula abajo ni vaciar el camino por completo."
+          },
+          {
+            "title": "Cruza por la cornisa",
+            "text": "Los caminantes restantes usan la cornisa del nivel medio para llegar a la plataforma superior. Cruza en fila india para que nadie sea empujado fuera del estrecho soporte."
+          },
+          {
+            "title": "No toques la válvula",
+            "text": "Mientras alguien esté a mitad del cruce, el caminante de la válvula mantiene la posición y no cambia nada. Un giro extra baja el agua, y la cornisa cae con ella."
+          },
+          {
+            "title": "Completa desde arriba",
+            "text": "Desde la plataforma superior, la fila pisa la placa de salida; solo entonces el caminante de la válvula sube por el lado ya drenado para reunirse con el grupo."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "yellowTower",
+        "tools",
+        "coop"
+      ]
+    },
+    "yellowTower": {
+      "slug": "yellow-tower",
+      "title": "Big Walk Torre Amarilla: solución del puzle, guía del final",
+      "desc": "Solución de la Torre Amarilla de Big Walk: la torre final resuelta de abajo hacia arriba —placa, rayo y luego agua— además de asignación de papeles y recuperación de reinicios.",
+      "keywords": [
+        "big walk torre amarilla solución",
+        "big walk torre amarilla puzle",
+        "cómo resolver la torre amarilla big walk",
+        "big walk torre final",
+        "big walk última torre",
+        "big walk torre amarilla final"
+      ],
+      "h1": "Solución del puzle de la Torre Amarilla de Big Walk",
+      "lead": "La Torre Amarilla es el final y combina todas las mecánicas anteriores: placa, rayo y agua en una sola subida. La solución es resolverla de abajo hacia arriba —primero la placa para el puente de la base, el rayo para el tramo central y el agua al final para la cima— y pisar la placa de salida únicamente con la fila completa.",
+      "sections": [
+        {
+          "h2": "Resumen",
+          "paras": [
+            "La Torre Amarilla es la vuelta de honor. No es una mecánica nueva: son las cuatro torres anteriores apiladas. Si resolviste la Roja, la Verde y la Azul, ya conoces cada movimiento; el reto es hacerlos en secuencia sin un reinicio. La subida tiene tres pisos claros: una sección de placa en la base, una sección de rayo en el medio y una sección de agua que custodia la cima. Cada piso termina con un puente o una cornisa que lleva al grupo hacia arriba, y la placa de la cima, en lo más alto, es la línea de meta de todo el recorrido."
+          ],
+          "img": {
+            "src": "/images/yellow-tower-map.png",
+            "alt": "Mapa del final de la Torre Amarilla de Big Walk: orden de abajo hacia arriba —placa, rayo y agua—"
+          }
+        },
+        {
+          "h2": "Por qué el orden es de abajo hacia arriba",
+          "paras": [
+            "Cada mecánica de la Torre Amarilla extiende exactamente un puente, y cada puente cuelga de la sección que está debajo. El puente de la base sale de la placa roja, el puente central del receptor del rayo amarillo y la cornisa final de la válvula de agua. Como cada sección se apoya físicamente en la anterior, activar una mecánica antes de tiempo no ahorra tiempo: derriba el puente bajo tus pies y obliga a volver a subir.",
+            "La regla práctica es simple: nunca toques el siguiente mecanismo hasta que el puente que tienes delante esté completamente extendido y estable. El encargado del rayo debe esperar la señal del ancla de que la placa de la base está sostenida, y el encargado de la válvula debe esperar hasta que el puente central se pueda pisar. Los grupos que se apresuran con el orden son los que suben clips de toda la fila cayendo al agua.",
+            "Piénsalo como tres soluciones de torre cosidas entre sí. No te saltarías pasos en las torres Roja, Verde o Azul, y la Torre Amarilla castiga exactamente los mismos atajos."
+          ]
+        },
+        {
+          "h2": "Asignación de papeles para un grupo completo",
+          "paras": [
+            "La Torre Amarilla es mucho más fácil cuando todos tienen un trabajo con nombre antes de empezar la subida. Anuncien los papeles en el chat de voz mientras siguen en la base."
+          ]
+        },
+        {
+          "h3": "El ancla",
+          "paras": [
+            "El ancla es dueño de la placa roja de la base. Pisa, se queda y no se mueve por ningún motivo hasta que el puente central esté estable y el grupo dé el visto bueno. Es el mismo trabajo que el ancla de la Torre Roja, y es el papel más importante de la torre: si el ancla se va antes de tiempo, el puente de la base se retrae y todos los que están por debajo de la sección central caen."
+          ]
+        },
+        {
+          "h3": "El encargado del rayo",
+          "paras": [
+            "El encargado del rayo cruza primero el puente de la base y dirige el rayo amarillo hacia el receptor central. Es pura memoria muscular de la Torre Verde: coloca el rayo, confirma que el receptor se enciende y mantén hasta que el segundo puente se extienda. El encargado del rayo debería ser tu jugador de puzles más seguro, ya que trabaja solo mientras el resto del grupo espera."
+          ]
+        },
+        {
+          "h3": "El encargado de la válvula",
+          "paras": [
+            "El encargado de la válvula espera a nivel medio y gira la válvula una vez confirmado el puente central. El agua que sube deja al descubierto la cornisa final, exactamente como en la Torre Azul. Cuando aparece la cornisa, el encargado de la válvula se reincorpora a la fila para la subida final."
+          ]
+        },
+        {
+          "h3": "Todos los demás",
+          "paras": [
+            "Los caminantes restantes tienen un solo trabajo: no estorbar y cruzar en orden. Sigan la fila india, nunca adelanten a los jugadores con papel y esperen una confirmación verbal antes de pisar cualquier puente nuevo."
+          ]
+        },
+        {
+          "h2": "Cómo recuperarse de un reinicio a mitad de la torre",
+          "paras": [
+            "Los reinicios pasan. Un caminante resbala, alguien se baja de una placa antes de tiempo o el rayo se desalinea, y parte del grupo acaba de vuelta en un piso inferior. La clave es que un reinicio rara vez es total. Cualquier puente que se estabilizó se mantiene arriba mientras su mecanismo siga sostenido, así que una caída suele costarte una sección, no la torre entera.",
+            "Cuando alguien cae, no se dispersen. El ancla sigue sosteniendo la placa de la base pase lo que pase: es la única posición que jamás debe abandonarse. El caminante caído reaparece más abajo y vuelve a subir por los puentes que siguen en pie. Todos los demás se quedan congelados en su sitio hasta que la fila vuelve a estar completa.",
+            "Si el reinicio hizo cadena y un puente sí se retrajo, simplemente resuelve de nuevo esa sección en el mismo orden de abajo hacia arriba: placa, luego rayo, luego válvula. Resiste la tentación de improvisar una nueva secuencia bajo presión: la torre no cambia, y el orden que funcionó la primera vez vuelve a funcionar."
+          ]
+        },
+        {
+          "h2": "Qué desbloquea completar la Amarilla",
+          "paras": [
+            "Pararse sobre la placa de la cima con la fila completa termina la Torre Amarilla y completa el propio recorrido: este es el final de Big Walk. Suena la campanada de finalización, rueda la cinemática final y tu grupo ve los créditos junto, que es todo el sentido del diseño cooperativo de House House: nadie cruza la línea de meta solo.",
+            "Después de los créditos puedes seguir explorando el mundo con tu grupo, completar los logros que te saltaste por el camino o empezar un recorrido nuevo con jugadores nuevos. Si vas por el 100 % de finalización, revisa la lista de logros para ver los desbloqueos específicos de torre: varios solo cuentan si la fila completa estaba presente en la meta."
+          ]
+        },
+        {
+          "h2": "Consejos",
+          "list": [
+            "Mantén un ancla en la placa roja en todo momento mientras los demás manejan el rayo y la válvula.",
+            "Confirma que cada puente esté completamente extendido y estable antes de que nadie toque la siguiente mecánica.",
+            "Cruza en fila india y nunca adelantes a los jugadores con papel en un puente.",
+            "Si un caminante cae, el ancla se queda quieto: el caminante caído vuelve a subir por los puentes que siguen en pie.",
+            "Anuncia cada cambio de estado en el chat de voz: placa sostenida, rayo dirigido, válvula girada, puente estable.",
+            "Termina con la fila completa sobre la placa de la cima para el final limpio: una fila parcial no se registra."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿La Torre Amarilla es la última torre?",
+          "a": "Sí: es el final de Big Walk y reutiliza las mecánicas de placa, rayo y agua de las torres anteriores. Terminarla concluye el recorrido."
+        },
+        {
+          "q": "¿En qué orden resuelvo la Torre Amarilla?",
+          "a": "De abajo hacia arriba: placa para el puente de la base, rayo para el puente central, agua para la cornisa de la cima. Activar una mecánica antes de que la de abajo esté estable derriba el puente bajo tus pies."
+        },
+        {
+          "q": "¿Por qué no termina la Torre Amarilla?",
+          "a": "La placa de la cima solo se registra con la fila completa presente. Si un caminante sigue subiendo, reapareciendo o varado en un nivel inferior, la torre no se completa. Espera a todos antes de pisarla."
+        },
+        {
+          "q": "¿Tengo que terminar las otras torres primero?",
+          "a": "En la práctica, sí. La Torre Amarilla da por hecho que ya conoces la sujeción de placa de la Torre Roja, el recorrido del rayo de la Verde y el ritmo de la válvula de la Azul, y no ofrece tutoriales de ninguna."
+        },
+        {
+          "q": "¿Cuántos jugadores necesito para la Torre Amarilla?",
+          "a": "Está diseñada para una fila cooperativa completa, porque los trabajos de ancla, rayo y válvula se solapan. Los grupos pequeños pueden arreglárselas rotando papeles, pero espera una subida más lenta y pausada."
+        },
+        {
+          "q": "¿Qué pasa si alguien cae cerca de la cima?",
+          "a": "El caminante caído reaparece más abajo, pero cada puente que ya estabilizaste se mantiene arriba mientras el ancla sostenga la placa de la base. El caminante caído simplemente vuelve a subir y se reincorpora a la fila."
+        },
+        {
+          "q": "¿Hay límite de tiempo en la Torre Amarilla?",
+          "a": "No. La única presión es la coordinación. Tómate la subida con calma, confirma cada puente antes de seguir y la torre es muy indulgente."
+        }
+      ],
+      "howTo": {
+        "name": "Resolver la Torre Amarilla de Big Walk",
+        "steps": [
+          {
+            "title": "Reagrupa a todos en la base",
+            "text": "Reúne a todo el grupo al pie de la Torre Amarilla y asigna papeles antes de que nadie toque un mecanismo: un ancla para la placa, un encargado del rayo y un encargado de la válvula."
+          },
+          {
+            "title": "Activa la placa de la base",
+            "text": "El ancla pisa la placa roja y se queda ahí para extender el puente de la base: la misma disciplina de sostener la placa que enseñó la Torre Roja."
+          },
+          {
+            "title": "Dirige el rayo en el centro",
+            "text": "Con el puente de la base estable, el encargado del rayo dirige el rayo amarillo hacia el receptor central para extender el segundo puente, exactamente como en la Torre Verde."
+          },
+          {
+            "title": "Sube el agua en la cima",
+            "text": "El encargado de la válvula gira la válvula a nivel medio para subir el agua y dejar al descubierto la cornisa final, el movimiento que la Torre Azul te grabó a fuego."
+          },
+          {
+            "title": "Sube en fila",
+            "text": "Todos cruzan los tres puentes en orden, en fila india, sin que nadie se adelante al puente que tiene delante."
+          },
+          {
+            "title": "Sal por la placa de la cima",
+            "text": "Todo el grupo se coloca junto sobre la placa de la cima para terminar la torre y el recorrido: el final solo se registra cuando la fila completa está presente."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "tools",
+        "coop",
+        "guide"
+      ]
+    },
+    "coop": {
+      "slug": "co-op-not-working",
+      "title": "¿El cooperativo / crossplay de Big Walk no funciona? Soluciones",
+      "desc": "Solución de problemas del cooperativo y el crossplay de Big Walk: códigos de invitación, NAT, límites por plataforma y los arreglos de desconexión famosos en Reddit.",
+      "keywords": [
+        "big walk cooperativo no funciona",
+        "big walk co-op no funciona",
+        "big walk crossplay",
+        "big walk multijugador no funciona",
+        "big walk código de invitación no funciona",
+        "big walk nat estricta solución",
+        "big walk se desconecta"
+      ],
+      "h1": "¿El cooperativo / crossplay de Big Walk no funciona? Soluciones",
+      "lead": "Big Walk está hecho para el cooperativo, pero la conexión falla más a menudo de lo que debería. Las causas habituales: un código de invitación malo, NAT estricta o una plataforma con la que el anfitrión de la sesión no puede hacer crossplay. Revisa los pasos de abajo en orden: la mayoría de las desconexiones se resuelven en el paso 2.",
+      "sections": [
+        {
+          "paras": [
+            "Big Walk es un juego de puzles cooperativo de House House, publicado por Panic, lanzado el 4 de agosto de 2026 en Steam, Nintendo Switch 2 y PS5. Cada recorrido es una sesión alojada entre pares: un jugador hace de anfitrión y todos los demás se unen directamente a su partida. Ese diseño es la razón de que los problemas de conexión peguen más fuerte aquí que en los juegos con servidores: si la red del anfitrión te rechaza, no hay un servidor de respaldo que capture la conexión. La buena noticia: casi todos los reportes de «el cooperativo de Big Walk no funciona» se reducen a una de cuatro causas, y las cuatro se arreglan en unos minutos."
+          ],
+          "img": {
+            "src": "/images/coop-platforms.png",
+            "alt": "Lista de verificación para arreglar el cooperativo de Big Walk: reinicia la sesión, revisa la NAT, iguala versiones, vuelve a agregar al amigo"
+          }
+        },
+        {
+          "h2": "Arreglos rápidos que resuelven la mayoría de los casos",
+          "paras": [
+            "Recorre esta lista antes de nada más profundo. Cada revisión lleva menos de un minuto, y juntas resuelven la gran mayoría de las uniones fallidas y las desconexiones a mitad del recorrido."
+          ],
+          "list": [
+            "Código rechazado: los códigos de invitación distinguen mayúsculas y minúsculas y caducan. Pídele al anfitrión que genere un código nuevo y pégalo exactamente como aparece: un solo carácter mal falla sin un error útil.",
+            "Atascado en «conectando»: el apretón de manos entre pares está bloqueado, casi siempre por NAT estricta. Cambia a una conexión por cable o activa UPnP en tu router y reintenta.",
+            "Se une y luego cae: el enlace se abrió pero no aguanta. Haz que el jugador con NAT abierta aloje el recorrido y que todos los demás se unan a él.",
+            "Crossplay invisible: el interruptor de crossplay está apagado en uno de los extremos. Ambos jugadores deben activarlo; el ajuste no se sincroniza entre plataformas.",
+            "La sesión ni aparece en la lista: versiones distintas. Actualiza Big Walk en ambas máquinas y reinicia el juego por completo, no solo reanudarlo."
+          ]
+        },
+        {
+          "h2": "Revisiones plataforma por plataforma",
+          "paras": [
+            "Big Walk ejecuta el mismo código de red entre pares en las tres plataformas de lanzamiento, pero cada sistema tiene su propia forma de romperlo. Salta a la plataforma que está fallando."
+          ]
+        },
+        {
+          "h3": "Steam",
+          "paras": [
+            "En Steam, empieza por verificar los archivos del juego: clic derecho en Big Walk en tu biblioteca, abre Propiedades, luego Archivos instalados, y ejecuta la verificación. Una descarga parcial tras un parche rompe los apretones de mano de sesión sin ningún síntoma evidente. Después, revisa el firewall de Windows: la primera vez que Big Walk alojó una sesión pidió acceso a la red, y si descartaste ese aviso, el alojamiento queda bloqueado hasta que lo permitas en redes privadas. Por último, confirma que ambos jugadores están en la misma rama de Steam; apuntarse a una rama beta o de pruebas vuelve tu versión invisible para los jugadores de la versión estable."
+          ]
+        },
+        {
+          "h3": "PS5",
+          "paras": [
+            "En PS5, revisa primero dos cosas a nivel de sistema. Abre Configuración, Red, y ejecuta la prueba de conexión para ver tu tipo de NAT: el Tipo 1 y el Tipo 2 van bien, el Tipo 3 es el caso estricto que causa la mayoría de los fallos. Luego asegúrate de que la consola no se despertó del modo de reposo a mitad de sesión; reanudar Big Walk desde el reposo a veces deja la sesión anterior medio abierta, así que cierra el juego por completo y vuelve a abrirlo. El crossplay está en los ajustes del juego, no en los del sistema, así que actívalo dentro del propio Big Walk. Si PSN tiene una caída parcial, las uniones por lista de amigos fallan aunque los códigos directos sigan funcionando: usa un código."
+          ]
+        },
+        {
+          "h3": "Nintendo Switch 2",
+          "paras": [
+            "En Switch 2, abre Configuración de la consola, Internet, y prueba la conexión para leer tu grado de NAT. Los grados A y B se comportan como NAT abierta y moderada; C o inferior tendrá problemas para unirse a recorridos alojados entre pares. El wifi es el otro culpable habitual: la base de la Switch 2 queda detrás de televisores y muebles, y una señal débil tumba los enlaces entre pares a mitad del recorrido aunque la unión haya funcionado. Acerca la base al router o usa un adaptador con cable. Como en toda plataforma, ambos jugadores necesitan la misma versión del juego, así que busca una actualización desde el menú de inicio antes de asumir que la culpa es de la red."
+          ]
+        },
+        {
+          "h2": "Los tipos de NAT explicados",
+          "paras": [
+            "La NAT —traducción de direcciones de red— decide con qué facilidad tu máquina acepta conexiones entrantes entre pares, y Big Walk depende de eso por completo porque no hay servidores dedicados. La NAT abierta significa que tu router deja pasar el tráfico entrante libremente; puedes alojar y unirte a cualquier cosa. La NAT moderada filtra parte del tráfico; puedes unirte a anfitriones abiertos con fiabilidad pero deberías evitar alojar. La NAT estricta bloquea por completo las conexiones entrantes no solicitadas; fallarán la mayoría de tus uniones y se caerán las que conecten.",
+            "Para pasar de estricta a abierta, haz esto en orden: conecta un cable ethernet, activa UPnP en los ajustes de tu router y reinicia el router para que reconstruya su tabla. Si tu proveedor te tiene detrás de una NAT de nivel operador —común en puntos de acceso móviles y algunas redes de apartamentos—, ningún ajuste local la abrirá del todo, así que deja que un amigo con NAT abierta aloje en tu lugar. Una forma rápida de confirmar que el arreglo funcionó: ejecuta de nuevo la prueba de red de tu plataforma y comprueba la lectura de NAT antes de volver a abrir Big Walk."
+          ]
+        },
+        {
+          "h2": "Códigos de invitación y crossplay",
+          "paras": [
+            "Big Walk no tiene un buscador público de servidores. A cada sesión se entra con un código corto que el anfitrión genera desde el menú de recorrido del juego, y ese código es todo el sistema de invitaciones. Los códigos distinguen mayúsculas y minúsculas, caducan tras una ventana corta y un código de una sesión caída está muerto: el anfitrión debe generar uno nuevo en cada intento. Pega el código en lugar de escribirlo; los caracteres que se parecen son el fallo habitual.",
+            "El crossplay abarca Steam, PS5 y Switch 2, pero es opcional en ambos extremos. Si cualquiera de los dos jugadores lo tiene apagado, los códigos de la otra plataforma fallan en silencio: sin error, solo una negativa. Las listas de amigos de plataforma son un sistema aparte: un amigo de PSN sigue necesitando crossplay activado y un código válido para llegar a tu sesión de Steam. En caso de duda, ambos jugadores abren los ajustes, confirman que el crossplay está activado y se intercambian un código nuevo."
+          ]
+        },
+        {
+          "h2": "Cuando nada funciona",
+          "paras": [
+            "Si tienes un código nuevo, NAT abierta o moderada, versiones iguales y crossplay activado en ambos extremos, y aun así falla, aísla el lado roto. Trae a un tercer jugador: si él puede unirse al anfitrión pero tú no, el problema es tu red; si nadie puede unirse, es la del anfitrión. Intercambien quién aloja y repitan la prueba: un recorrido que falla en una dirección suele funcionar de inmediato en la otra.",
+            "La mayoría de los hilos de «el cooperativo no funciona» se resuelven con los pasos de arriba. Si el tuyo no, anota el texto exacto del error, tu plataforma, el tipo de NAT y la versión del juego antes de publicarlo o contactar con el soporte de Panic. «No funciona» recibe conjeturas; un mensaje de error concreto recibe un arreglo."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Por qué mi amigo no puede unirse a mi sesión de Big Walk?",
+          "a": "Nueve de cada diez veces es un código de invitación caducado o mal escrito, o NAT estricta en uno de los lados. Regenera el código y revisa primero el tipo de NAT: esas dos comprobaciones resuelven la mayoría de los reportes."
+        },
+        {
+          "q": "¿Big Walk tiene crossplay entre PC y consola?",
+          "a": "Sí, entre Steam, PS5 y Nintendo Switch 2, con crossplay activado en ambas cuentas. Si un jugador lo tiene apagado, la unión falla en silencio, sin mensaje de error."
+        },
+        {
+          "q": "Big Walk se desconecta a mitad del recorrido, ¿por qué?",
+          "a": "Una NAT estricta o inestable tumba el enlace entre pares una vez que la sesión está en marcha. Aloja en la conexión con NAT abierta y usa red por cable para el caminante ancla."
+        },
+        {
+          "q": "¿Por qué mi código de invitación de Big Walk dice que no es válido?",
+          "a": "El código caducó o un carácter se escribió mal: los códigos distinguen mayúsculas y minúsculas. Pídele al anfitrión que genere uno nuevo y pégalo directamente en lugar de teclearlo a mano."
+        },
+        {
+          "q": "¿Big Walk tiene servidores dedicados?",
+          "a": "No. Cada recorrido lo aloja entre pares un jugador, y por eso el tipo de NAT y la calidad de conexión del anfitrión deciden si todos los demás pueden unirse y mantenerse conectados."
+        },
+        {
+          "q": "¿Puedo jugar al cooperativo de Big Walk con versiones distintas del juego?",
+          "a": "No. Las versiones distintas ni siquiera ven las sesiones del otro. Ambos jugadores necesitan el mismo parche instalado, así que actualiza antes de diagnosticar cualquier otra cosa."
+        },
+        {
+          "q": "¿Qué tipo de NAT necesito para Big Walk?",
+          "a": "Abierta o moderada sirve para unirse; abierta es muy recomendable para alojar. La NAT estricta a veces puede unirse a un anfitrión abierto, pero tumba o bloquea la mayoría de las sesiones."
+        }
+      ],
+      "howTo": {
+        "name": "Arreglar el cooperativo / crossplay de Big Walk",
+        "steps": [
+          {
+            "title": "Vuelve a copiar el código de invitación",
+            "text": "Los códigos distinguen mayúsculas y minúsculas y caducan tras una ventana corta. Genera un código nuevo con el anfitrión y pégalo exactamente como aparece: un solo carácter mal es un fallo silencioso."
+          },
+          {
+            "title": "Revisa el tipo de NAT",
+            "text": "La NAT estricta bloquea las conexiones entre pares. Usa una conexión por cable o activa UPnP en tu router; la NAT moderada suele funcionar, la estricta casi nunca."
+          },
+          {
+            "title": "Confirma que el crossplay está activado",
+            "text": "Ambos jugadores deben tener el crossplay activado en los ajustes; un jugador de consola y uno de PC lo necesitan en ambos extremos o la unión falla sin avisar."
+          },
+          {
+            "title": "Iguala las versiones del juego",
+            "text": "Si uno de ustedes se saltó el último parche, el buscador de sesiones no los emparejará. Actualiza Big Walk en ambas máquinas y reinicia el juego por completo."
+          },
+          {
+            "title": "Reinicia la sesión desde cero",
+            "text": "Cierra Big Walk, reinicia el router si la NAT parecía mal y haz que el anfitrión empiece un recorrido completamente nuevo en lugar de resucitar uno caído."
+          },
+          {
+            "title": "Aloja en la conexión más fuerte",
+            "text": "Haz que el jugador con NAT abierta aloje el recorrido; todos los demás se unen. Alojar detrás de una NAT estricta es la causa más común de las caídas a mitad del recorrido."
+          }
+        ]
+      },
+      "related": [
+        "tools",
+        "redTower",
+        "guide",
+        "price",
+        "achievements"
+      ]
+    },
+    "guide": {
+      "slug": "guide",
+      "title": "Guía completa de Big Walk y recorrido paso a paso",
+      "desc": "Un recorrido completo de Big Walk: progresión, las cinco torres, lo básico del cooperativo y qué hacer primero.",
+      "keywords": [
+        "big walk guía",
+        "big walk guía completa",
+        "big walk walkthrough",
+        "big walk consejos",
+        "guía big walk principiantes",
+        "big walk orden de las torres"
+      ],
+      "h1": "Guía completa de Big Walk y recorrido paso a paso",
+      "lead": "Big Walk es una caminata de puzles cooperativa: una fila de jugadores avanza junta por un mundo hecho a mano, resolviendo cinco torres de colores. Haz las torres en orden (Roja → Negra → Verde → Azul → Amarilla), mantén un ancla en cada placa y terminarás el recorrido.",
+      "sections": [
+        {
+          "h2": "Qué hacer en tu primera hora",
+          "paras": [
+            "Big Walk —el juego cooperativo de caminantes del estudio de Untitled Goose Game, House House, publicado por Panic— arranca con suavidad, pero la primera hora decide lo fluido que será el resto del recorrido. Dedícala a tres cosas: aprender a moverte en fila, conocer tu kit de herramientas y superar la Torre Roja."
+          ],
+          "list": [
+            "Camina despacio por el tramo del tutorial. Practica arrancar, parar y girar como una sola fila. Todas las torres posteriores dan por hecho que tu grupo puede hacerlo por el chat de voz sin pensar.",
+            "Prueba cada herramienta una vez. Recoge el Reflector, la Válvula, el Ancla de Placa, el Contador y la Baliza a medida que aparezcan y dispara cada una. No conseguirás aparatos nuevos más adelante, así que aprende estos cinco ahora.",
+            "Acuerden los papeles en voz alta. Antes de la Torre Roja, nombren un ancla de placa y un contador de pulsos. Los intentos se desarman cuando todos asumen que otro sostiene la placa.",
+            "Supera la Torre Roja antes de desconectar. Enseña la regla de las placas de presión sobre la que se construye todo el juego, y terminarla abre el camino a las torres posteriores."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Las cinco torres de un vistazo",
+          "paras": [
+            "Cada torre enseña una mecánica, y la siguiente torre la reutiliza. Por eso el orden de abajo no es opcional en la práctica: si te saltas una, te faltará una habilidad que el puzle da por aprendida.",
+            "Fíjate en el patrón: las torres Negra, Azul y Amarilla se apoyan en la disciplina de placas de presión que enseña la Torre Roja. Cuando una torre avanzada no deja de fallar, la solución suele ser un hábito anterior, no un truco nuevo."
+          ],
+          "table": {
+            "headers": [
+              "Torre",
+              "Mecánica principal",
+              "El hábito que la resuelve"
+            ],
+            "rows": [
+              [
+                "Roja",
+                "Placas de presión y puentes",
+                "Un ancla sostiene la placa mientras la fila cruza en fila india"
+              ],
+              [
+                "Negra",
+                "Ritmo de pulsos de luz",
+                "Cuenta dos pulsos y muévete en el tercero"
+              ],
+              [
+                "Verde",
+                "Recorrido del rayo",
+                "Dirige el rayo con el Reflector y nunca lo sueltes a mitad del cruce"
+              ],
+              [
+                "Azul",
+                "Nivel del agua",
+                "Mantén el agua a nivel medio: un vaciado total elimina la cornisa de cruce"
+              ],
+              [
+                "Amarilla",
+                "Las cuatro mecánicas combinadas",
+                "Ejecuta todos los hábitos anteriores a la vez, terminando con la fila completa"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Progresión",
+          "paras": [
+            "El recorrido principal es lineal. Atraviesas estas etapas en orden:",
+            "La lista refleja el mapa del juego: la señal de cada torre se enciende cuando cae la anterior. No puedes llegar antes de tiempo a la Torre Amarilla, y no querrías: da por hecho que ya dominas cada hábito de esta página."
+          ],
+          "list": [
+            "Tramo del tutorial: aprende a caminar en fila.",
+            "Torre Roja: placas de presión y puentes.",
+            "Torre Negra: ritmo de pulsos.",
+            "Torre Verde: recorrido del rayo.",
+            "Torre Azul: nivel del agua.",
+            "Torre Amarilla: todas las mecánicas combinadas."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Introducción a las herramientas",
+          "paras": [
+            "Big Walk te da cinco herramientas y ninguna más. Ninguna es complicada por sí sola; los triunfos llegan al combinarlas bajo presión.",
+            "Para practicar, repite una torre temprana centrándote en una herramienta. Para la Torre Amarilla tu grupo debería combinar el Reflector, la Válvula y el Ancla de Placa sin discusión: ese es todo el sentido del kit. El desglose completo herramienta por herramienta, con los combos que rompen puzles, está en la página de herramientas."
+          ],
+          "list": [
+            "Reflector: dirige el rayo verde hacia los receptores; alimenta las torres Verde y Amarilla.",
+            "Válvula: fija el nivel del agua en las torres Azul y Amarilla. Para en el nivel medio.",
+            "Ancla de Placa: el caminante que sostiene una placa de presión para que los puentes sigan bajados. Asigna este papel primero en cada intento.",
+            "Contador: lleva el ritmo de los pulsos de luz en las torres Negra y Amarilla: cuenta dos y muévete en el tercero.",
+            "Baliza: marca la siguiente torre en el mapa para que los que llegan tarde encuentren tu fila."
+          ]
+        },
+        {
+          "h2": "Cómo configurar bien el cooperativo",
+          "paras": [
+            "Big Walk está hecho para el cooperativo en Steam, Nintendo Switch 2 y PlayStation 5, con crossplay entre plataformas. Técnicamente se puede resolver en solitario, pero los puzles asumen un reparto de papeles, así que trae al menos a un amigo. Configura bien la sesión y evitarás la mayoría de los problemas con los que se topa la gente:",
+            "Si una unión sigue fallando después de estos pasos, recorre la página de soluciones del cooperativo: la mayoría de las desconexiones se resuelven en la revisión de la NAT."
+          ],
+          "list": [
+            "Aloja en la conexión más fuerte. El jugador con NAT abierta y conexión por cable debería alojar el recorrido.",
+            "Comparte un código de invitación nuevo. Los códigos distinguen mayúsculas y minúsculas y caducan: genera uno nuevo en lugar de releer uno viejo.",
+            "Activa el crossplay en ambos extremos. Un jugador de consola y uno de PC necesitan el interruptor activado, o la unión falla en silencio.",
+            "Pon a todos en el chat de voz. Los avisos del ancla y las cuentas de pulsos dependen del tiempo; el chat de texto es demasiado lento."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Orden de finalización sugerido",
+          "paras": [
+            "Haz las torres en el orden en que el juego las presenta: Roja, luego Negra, Verde, Azul y la Amarilla al final. Cada una enseña una mecánica que la siguiente reutiliza, así que el orden previsto también es el orden más fácil.",
+            "La Roja enseña la disciplina de placa. La Negra añade el ritmo de pulsos sobre una placa sostenida. La Verde dirige un rayo a través de puentes que tu ancla mantiene. La Azul te hace gestionar el nivel del agua sin abandonar tus placas. La Amarilla luego pide los cuatro hábitos a la vez, y por eso se siente justa en lugar de cruel cuando llegas a ella al final.",
+            "Si una torre frena a tu grupo, retrocede una torre y repítela limpiamente en lugar de forzarla a la brava. Después de la Torre Amarilla, el recorrido ha terminado: a partir de ahí queda limpiar logros, repetir torres de forma impecable y soltar una Baliza para guiar por la ruta a los amigos que lleguen tarde."
+          ]
+        },
+        {
+          "h2": "Hábitos básicos que ganan intentos",
+          "paras": [
+            "La mayoría de los intentos fallidos se remonta a uno de estos cuatro hábitos rompiéndose, no a un puzle injusto. Nombra el hábito en voz alta en el momento en que decaiga y el intento suele recuperarse."
+          ],
+          "list": [
+            "Asigna un ancla de placa antes de cada torre.",
+            "Cuenta dos pulsos y muévete en el tercero (Negra/Amarilla).",
+            "Mantén el agua a nivel medio, nunca la vacíes del todo (Azul/Amarilla).",
+            "Termina cada torre con la fila completa sobre la placa de salida."
+          ]
+        },
+        {
+          "h2": "Adónde ir después",
+          "paras": [
+            "Abre cualquier página de torre de arriba para el paso a paso exacto, o la página de herramientas para los combos de aparatos. ¿Cooperativo atascado? Mira la página de soluciones. ¿Vas por el 100 %? La página de logros enumera cada desbloqueo y los que se pueden perder."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿En qué orden debería hacer las torres de Big Walk?",
+          "a": "Roja, luego Negra, Verde, Azul y la Amarilla al final. Cada torre enseña una mecánica que la siguiente reutiliza, así que el orden previsto también es el más fácil."
+        },
+        {
+          "q": "¿Algún consejo para principiantes?",
+          "a": "Asigna un caminante ancla para sostener cada placa de presión, cuenta dos pulsos de luz y muévete en el tercero en las torres Negra y Amarilla, y nunca vacíes el agua del todo en la Azul. Digan los papeles en voz alta antes de cada torre."
+        },
+        {
+          "q": "¿Cuánto dura Big Walk?",
+          "a": "Unas cuantas sesiones cooperativas centradas para el recorrido principal: una tarde por torre es un ritmo relajado. Las partidas completistas que persiguen cada logro y las repeticiones limpias de torres llevan bastante más."
+        },
+        {
+          "q": "¿Se puede jugar a Big Walk en solitario?",
+          "a": "Sí, todas las torres se pueden resolver en solitario, pero el juego está hecho para el cooperativo. Las placas de presión, las cuentas de pulsos y el recorrido del rayo asumen un reparto de papeles, así que espera intentos más lentos y metódicos a solas."
+        },
+        {
+          "q": "¿En qué plataformas está Big Walk?",
+          "a": "Big Walk se lanzó el 4 de agosto de 2026 para Steam, Nintendo Switch 2 y PlayStation 5. Está desarrollado por House House y publicado por Panic, y el cooperativo funciona entre plataformas con el crossplay activado."
+        },
+        {
+          "q": "¿Cuál es la torre más difícil de Big Walk?",
+          "a": "La Torre Amarilla, porque combina placas, pulsos, recorrido del rayo y nivel del agua en un solo intento. Sin embargo, la Torre Negra es la que más primeros intentos falla: su ritmo de pulsos castiga a los grupos que se saltan la cuenta."
+        },
+        {
+          "q": "¿Cuál es la razón más común de que fallen los intentos?",
+          "a": "Una placa de presión vacía. En el momento en que el ancla se baja antes de tiempo —o dos caminantes dejan una placa juntos—, los puentes se retraen y la fila cae. La disciplina del ancla arregla más intentos que cualquier truco."
+        },
+        {
+          "q": "¿Necesito chat de voz para Big Walk?",
+          "a": "No es obligatorio, pero casi. Los avisos del ancla, las cuentas de pulsos y las paradas de nivel de agua dependen del tiempo, y el chat de texto es demasiado lento. Un grupo con voz supera las torres en la mitad de intentos."
+        }
+      ],
+      "videoId": "c30AAvpS6do",
+      "gameWidget": true,
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop",
+        "achievements",
+        "price"
+      ]
+    },
+    "tools": {
+      "slug": "tools",
+      "title": "Herramientas de Big Walk y cómo usarlas",
+      "desc": "Cada herramienta de Big Walk explicada una por una: qué hace, cuándo usarla y los combos que rompen puzles.",
+      "keywords": [
+        "big walk herramientas",
+        "big walk todas las herramientas",
+        "big walk cómo usar las herramientas",
+        "big walk reflector",
+        "big walk válvula herramienta",
+        "big walk baliza"
+      ],
+      "h1": "Herramientas de Big Walk y cómo usarlas",
+      "lead": "Big Walk te da un pequeño kit de aparatos. Ninguno es complicado por sí solo, pero los triunfos llegan al combinarlos. Aquí está cada herramienta, qué hace, cuándo usarla y el combo que de verdad rompe un puzle.",
+      "sections": [
+        {
+          "h2": "Todas las herramientas de Big Walk de un vistazo",
+          "paras": [
+            "Abajo está el kit completo en una vista. Sigue bajando para el análisis a fondo de cada herramienta de Big Walk: qué hace, el momento exacto de sacarla y el error que la desperdicia."
+          ]
+        },
+        {
+          "h3": "1. El Reflector",
+          "paras": [
+            "Dirige el rayo verde hacia los receptores; alimenta las torres Verde y Amarilla.",
+            "Combo: combínalo con un ancla firme para que el rayo nunca caiga a mitad del cruce."
+          ]
+        },
+        {
+          "h3": "2. La Válvula",
+          "paras": [
+            "Fija el nivel del agua en las torres Azul y Amarilla.",
+            "Combo: para en el nivel medio: el vaciado total elimina la cornisa de cruce."
+          ]
+        },
+        {
+          "h3": "3. El Ancla de Placa",
+          "paras": [
+            "Un caminante que sostiene una placa de presión para que los puentes sigan bajados.",
+            "Combo: asigna este papel primero en cada intento cooperativo."
+          ]
+        },
+        {
+          "h3": "4. El Contador",
+          "paras": [
+            "Lleva el ritmo de los pulsos de luz en las torres Negra y Amarilla.",
+            "Combo: cuenta dos pulsos y muévete en el tercero."
+          ]
+        },
+        {
+          "h3": "5. La Baliza",
+          "paras": [
+            "Marca la siguiente torre en el mapa para los que llegan tarde.",
+            "Combo: suéltala en la cima para que los rezagados puedan leer tu fila."
+          ]
+        },
+        {
+          "h2": "El Reflector: dirigir el rayo verde",
+          "paras": [
+            "El Reflector capta el rayo del emisor verde y lo dirige hacia un receptor. Un receptor encendido alimenta los mecanismos de la Torre Verde, y la Torre Amarilla reutiliza el mismo truco en su final. El rayo se dobla en un ángulo fijo, y cualquier cosa que rompa la línea de visión —un muro, un puente levantado, un caminante errante— corta la conexión al instante.",
+            "Úsalo en el momento en que veas un emisor verde apuntando a un receptor apagado. Esa pareja es el puzle diciéndote que el Reflector es la solución. El error clásico es que el portador se reposicione a mitad del cruce para «ayudar» al grupo: el rayo cae, el puente se retrae y todos nadan. Planta al portador como un ancla antes de que nadie salga, y solo ajusta el ángulo mientras el cruce esté vacío."
+          ]
+        },
+        {
+          "h2": "La Válvula: fijar el nivel del agua",
+          "paras": [
+            "La Válvula controla el nivel del agua en la Torre Azul y de nuevo dentro de la Torre Amarilla. Cada nivel hace flotar unas cornisas y hunde otras, así que el operador de la válvula está, en efecto, redibujando el mapa para el resto del grupo. Es la única herramienta cuyo operador nunca cruza: se queda en el mando y guía a todos los demás.",
+            "Sácala cuando una ruta esté bloqueada por agua demasiado alta o por un vacío que necesita una cornisa flotante. El error caro es vaciar a cero «para ver qué pasa»: el vaciado total elimina la cornisa de cruce por completo y deja varado a cualquiera que ya esté fuera. Para en el nivel medio y empareja al operador con un Ancla de Placa para que el puente lejano siga bajado mientras el agua se asienta."
+          ]
+        },
+        {
+          "h2": "El Ancla de Placa: el papel que lo sostiene todo",
+          "paras": [
+            "El Ancla de Placa no es un aparato: es un caminante que se para sobre una placa de presión y no se mueve. Las placas de presión mantienen los puentes bajados, y los puentes se retraen en el instante en que una placa queda vacía. La Torre Roja enseña este papel, la Torre Negra te castiga por olvidarlo y la Torre Amarilla da por hecho que lo dominas.",
+            "Asigna al ancla antes de cada intento cooperativo, en voz alta, por su nombre. El fallo que todos han vivido: el ancla se baja para agarrar un coleccionable o ayudar a un rezagado, el puente se retrae y toda la fila cae. Si el ancla se aburre, el intento va bien: el aburrimiento es el trabajo. Combina el papel con una Baliza soltada en la cima para que el ancla al menos pueda ver el progreso del grupo en el mapa."
+          ]
+        },
+        {
+          "h2": "El Contador: marcar el ritmo de los pulsos de luz",
+          "paras": [
+            "El Contador lleva el ritmo de los pulsos de luz en la Torre Negra y la Torre Amarilla. Los pulsos controlan cuándo es seguro moverse, y el contador es el caminante que marca el tiempo para que el grupo cruce en sincronía. Una voz tranquila le gana a cuatro caminantes adivinando.",
+            "Usa la regla del ritmo: cuenta dos pulsos y muévete en el tercero. El error que desincroniza a grupos enteros es contar desde el primer pulso que ves por casualidad en lugar del tiempo de reinicio de la torre: acabas permanentemente un tiempo tarde y cada cruce roza la ventana de peligro. Quédate quieto, mira un ciclo completo y luego empieza a contar. Y nunca rotes el papel de Contador a mitad del intento: reaprender el ritmo cuesta más tiempo del que el cambio ahorra jamás."
+          ]
+        },
+        {
+          "h2": "La Baliza: marcar la siguiente torre",
+          "paras": [
+            "La Baliza deja un marcador de mapa en la siguiente torre para que los que llegan tarde y los grupos divididos encuentren la fila. No hace nada a los puzles en sí: es la herramienta que mantiene unida una sesión cooperativa cuando alguien se desconecta, se une tarde o se aleja de la ruta.",
+            "Suéltala en el momento en que el grupo acuerda un destino, y suéltala en la cima de la torre, no en la base. Un marcador en la base les dice a los rezagados dónde estuviste; un marcador en la cima les permite leer toda tu fila y reincorporarse a mitad de la ruta. El desperdicio común es tratarla como un juguete y soltarla de nuevo cada pocos pasos: una Baliza, bien colocada, vale más que diez señales dispersas que nadie lee."
+          ]
+        },
+        {
+          "h2": "Combos de herramientas que rompen puzles",
+          "paras": [
+            "Las torres avanzadas de Big Walk están construidas para resolverse con pares de herramientas, no con aparatos sueltos. Estas son las combinaciones que colapsan una discusión de diez minutos en una solución de treinta segundos."
+          ],
+          "list": [
+            "Reflector + Ancla de Placa (Torre Amarilla): el ancla sostiene la placa de salida mientras el portador termina la línea del rayo: el puente y el receptor se activan en el mismo momento, que es la única forma de que el cruce final se mantenga.",
+            "Válvula + Contador: deja que el agua se asiente primero en el nivel medio y luego haz que el Contador marque el tiempo para el cruce. Moverse mientras el agua aún sube o baja es como las cornisas desaparecen bajo los pies de los caminantes.",
+            "Contador + Reflector (Torre Negra): mantén el rayo firme y mueve al grupo en el tercer pulso. Los pulsos y el rayo comparten ritmo, así que el portador nunca debe reposicionarse entre pulsos.",
+            "Baliza + Ancla de Placa: el ancla suelta la Baliza en la cima antes de sentarse sobre la placa. Los que llegan tarde aterrizan en el marcador, ven el puente sostenido y se insertan directamente en la fila."
+          ]
+        },
+        {
+          "h2": "Herramientas que deberías dejar de desperdiciar",
+          "paras": [
+            "A la mayoría de los intentos fallidos no les falta una herramienta: usan mal una. Estos hábitos les cuestan torres enteras a los grupos."
+          ],
+          "list": [
+            "Deja de llevar el Reflector por la Torre Roja. No hay receptores verdes ahí; es peso muerto que tienta a su portador a pasear en lugar de anclar una placa.",
+            "Deja de vaciar la Válvula a cero por curiosidad. El nivel medio es casi siempre la respuesta, y el vaciado total borra la cornisa de cruce.",
+            "Deja de soltar la Baliza otra vez. Un marcador en la cima de la torre es información; un rastro de señales es ruido.",
+            "Deja de dejar que el Ancla de Placa haga varias cosas. Un ancla que colecciona, explora o rescata es un ancla que tarde o temprano se bajará de la placa en el peor momento.",
+            "Deja de cambiar al Contador a mitad del intento. Una voz, un ritmo, para toda la torre."
+          ]
+        },
+        {
+          "h2": "Cómo practicar con las herramientas",
+          "paras": [
+            "Repite las torres tempranas centrándote en una herramienta por intento: la Torre Roja para la disciplina de placa, la Verde para el Reflector, la Azul para la Válvula y la Negra para el Contador. Anuncia cada acción en voz alta mientras aprendes: contar los tiempos audiblemente es la forma más rápida de interiorizar el ritmo. Para cuando llegues a la Torre Amarilla deberías estar combinando el Reflector, la Válvula y el Ancla de Placa sin pensar, porque esa torre da por hecho que ya puedes."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Cuántas herramientas hay en Big Walk?",
+          "a": "Cinco herramientas básicas cubren todas las torres: el Reflector, la Válvula, el Ancla de Placa, el Contador y la Baliza. Cada una corresponde a una mecánica de torre concreta."
+        },
+        {
+          "q": "¿Cuál es la herramienta más importante de Big Walk?",
+          "a": "El Ancla de Placa. Sostener una placa de presión es la base de las torres Roja, Negra y Amarilla, así que asignar este papel primero gana la mayoría de los intentos."
+        },
+        {
+          "q": "¿Las herramientas se conservan entre torres?",
+          "a": "Sí: el mismo kit se usa en las cinco torres, y por eso las torres avanzadas se sienten como combinaciones de las anteriores."
+        },
+        {
+          "q": "¿Se puede terminar Big Walk sin usar todas las herramientas?",
+          "a": "Puedes superar las torres tempranas con lo justo: la Torre Roja solo necesita un Ancla de Placa y la Verde necesita sobre todo el Reflector. La Torre Amarilla es la portera: espera el kit completo funcionando junto."
+        },
+        {
+          "q": "¿Qué herramienta debería llevar el jugador más nuevo?",
+          "a": "La Baliza. Es de bajo riesgo, enseña a leer el mapa y libera a los caminantes con experiencia para sostener el Reflector, la Válvula y las placas. Dales el papel de Contador cuando puedan marcar un ritmo estable."
+        },
+        {
+          "q": "¿Por qué el rayo del Reflector no deja de caerse?",
+          "a": "Dos causas: algo rompió la línea de visión entre el emisor y el receptor, o el portador se movió mientras el grupo estaba a mitad del cruce. Planta al portador como un ancla y vuelve a revisar la línea del rayo antes de que nadie salga."
+        },
+        {
+          "q": "¿Las herramientas funcionan igual en todas las plataformas?",
+          "a": "Sí. El kit es idéntico en Steam, Nintendo Switch 2 y PS5, y el crossplay cooperativo comparte las mismas mecánicas, así que todos los combos de esta página funcionan sin importar dónde juegue tu grupo."
+        }
+      ],
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "coop",
+        "guide"
+      ]
+    },
+    "achievements": {
+      "slug": "achievements",
+      "title": "Lista de logros de Big Walk y cómo conseguirlos",
+      "desc": "Cada logro de Big Walk con la ruta de desbloqueo más rápida y los que se pueden perder a los que hay que vigilar.",
+      "keywords": [
+        "big walk logros",
+        "big walk lista de logros",
+        "big walk guía de logros",
+        "big walk todos los logros",
+        "big walk logros perdibles",
+        "big walk 100% logros"
+      ],
+      "h1": "Lista de logros de Big Walk y cómo conseguirlos",
+      "lead": "Cada logro de Big Walk, qué lo desbloquea de verdad y la forma más rápida de ganarlo. Hay ocho en total, y la mayoría salta de forma natural mientras superas las cinco torres. Los que se pueden perder son los finales sin reapariciones y con la fila completa: asegúralos asignando un ancla y cruzando en fila india.",
+      "sections": [
+        {
+          "h2": "Lista de logros de Big Walk",
+          "paras": [
+            "Los ocho logros están listados abajo en el orden en que probablemente los ganarás. Cada entrada da la condición exacta de desbloqueo, la ruta más rápida para conseguirlo y un aviso de logro perdible donde corresponda. Seis de los ocho están ligados a torres concretas, así que una sola partida bien planificada puede cubrir casi todo."
+          ]
+        },
+        {
+          "h3": "1. Primeros pasos",
+          "paras": [
+            "Desbloqueo: completa el tramo del tutorial en fila. El tutorial es la caminata corta anterior a la primera torre de color, y todo el grupo tiene que mantenerse unido desde la placa inicial hasta la puerta del final.",
+            "Ruta más rápida: apenas puedes fallar este: salta en los primeros diez minutos mientras nadie se separe. Deja que el caminante más lento marque el paso y mantén la fila compacta en cada curva."
+          ]
+        },
+        {
+          "h3": "2. Roja superada",
+          "paras": [
+            "Desbloqueo: termina la Torre Roja con el puente sostenido. El puente de la Torre Roja solo se mantiene bajado mientras un caminante sostiene la placa de presión, así que la condición en realidad trata de disciplina en el cruce final.",
+            "Ruta más rápida: asigna un ancla que nunca deje la placa, envía a todos los demás al otro lado en fila india y reagrúpate en la placa de salida con la fila completa. Haz eso y se desbloquea junto con la torre.",
+            "Aviso de perdible: si la placa queda vacía en el momento equivocado, el puente se retrae y la finalización no cuenta. La torre se puede repetir, pero hacerlo bien a la primera te ahorra una repetición completa."
+          ]
+        },
+        {
+          "h3": "3. A ritmo",
+          "paras": [
+            "Desbloqueo: supera la Torre Negra sin un reinicio. La Torre Negra es un puzle de ritmo: los caminantes se mueven en un orden fijo, y un paso fuera de tiempo es lo que obliga a la mayoría de los grupos a reiniciar la sala.",
+            "Ruta más rápida: acuerda el orden de la caminata antes de que nadie se mueva y luego anuncia cada paso en voz alta por el chat de voz. Un intento lento y limpio le gana a tres rápidos y descuidados.",
+            "Aviso de perdible: un solo reinicio anula el logro en ese intento, así que si alguien resbala, termina la torre de todos modos y vuelve fresco: frustrarse a mitad del intento es como los grupos queman una hora aquí."
+          ]
+        },
+        {
+          "h3": "4. Maestro del rayo",
+          "paras": [
+            "Desbloqueo: dirige la luz a ambos receptores de la Torre Verde en un solo intento. La Torre Verde gira en torno a un rayo de luz que diriges hacia receptores, y la mayoría de las rutas naturales solo alimentan uno antes de que el grupo siga adelante.",
+            "Ruta más rápida: reparte los trabajos: un caminante mantiene el rayo firme mientras otro se reposiciona para encender el segundo receptor. Completa ambos antes de que nadie active la salida.",
+            "Aviso de perdible: salir de la torre con un solo receptor encendido significa un intento nuevo desde la entrada, así que comprueba que ambos tienen energía antes de que el grupo pise la placa de salida."
+          ]
+        },
+        {
+          "h3": "5. Nivel medio",
+          "paras": [
+            "Desbloqueo: cruza la Torre Azul con el agua a nivel medio. La Torre Azul es un puzle de nivel de agua, y este logro solo cuenta cuando el cruce final ocurre con el medidor en la marca central.",
+            "Ruta más rápida: sube el agua a medio antes del último tramo y deja de ajustar cuando la aguja se asiente. Un caminante vigila el medidor mientras el resto se forma para cruzar.",
+            "Aviso de perdible: cruzar con el agua baja o alta no cuenta, y pasarse del nivel es el error clásico: toca los controles en toques cortos cerca de la marca central."
+          ]
+        },
+        {
+          "h3": "6. Recorrido completado",
+          "paras": [
+            "Desbloqueo: termina la Torre Amarilla con la fila completa. La Torre Amarilla es la torre final, y la condición de victoria es todo el grupo parado junto cuando se activa la placa del final.",
+            "Ruta más rápida: cuenta cabezas antes de la placa final. Si alguien cayó o se quedó atrás, espera a que reaparezca y se reincorpore a la fila antes de pisar todos juntos.",
+            "Aviso de perdible: es el logro más fácil de estropear porque los grupos corren el final. Si falta un solo caminante en la fila, no saltará y repetirás la torre."
+          ]
+        },
+        {
+          "h3": "7. Bien equipado",
+          "paras": [
+            "Desbloqueo: usa las cinco herramientas en un solo recorrido. Un recorrido significa una sesión continua: el contador está ligado a esa partida, así que salir y reincorporarse a mitad te cuesta el progreso.",
+            "Ruta más rápida: lleva una lista mental y dispara cada aparato una vez, incluso donde el puzle no lo pide. Las herramientas más discretas son las que todos olvidan, así que úsalas pronto.",
+            "Aviso de perdible: no es realmente perdible, pero es el logro que más grupos creen haber ganado sin haberlo hecho. Si no ha saltado para la Torre Azul, empieza a usarlo todo a la vista."
+          ]
+        },
+        {
+          "h3": "8. Sin caídas",
+          "paras": [
+            "Desbloqueo: supera cualquier torre con cero reapariciones. Cualquier torre cuenta, así que tú eliges la arena. Nadie del grupo puede caer y reaparecer entre la primera placa y la campanada de salida.",
+            "Ruta más rápida: hazlo en la Torre Roja: es la más corta y el único peligro real es el puente. El ancla sostiene la placa, todos cruzan de uno en uno y listo.",
+            "Aviso de perdible: una caída anula el intento sin aviso, así que trata cada vacío como letal y nunca apresures un cruce para alcanzar al grupo."
+          ]
+        },
+        {
+          "h2": "Logros perdibles con los que planificar",
+          "paras": [
+            "Tres logros causan casi todas las listas incompletas: A ritmo, Recorrido completado y Sin caídas. Los tres castigan las prisas, y los tres fallan en silencio: el juego no te avisa de que el intento está anulado hasta que la campanada de finalización nunca suena.",
+            "La solución es un intento lento dedicado. Asigna un ancla para cada placa de presión, anuncia cada movimiento por el chat de voz y acuerda desde el principio que nadie corre el tramo final de ninguna torre. Bien equipado es el cuarto con el que planificar: no es perdible, pero es fácil de olvidar, así que marca las herramientas pronto en lugar de guardarlas para un puzle que quizá nunca las pida.",
+            "Nada en Big Walk queda bloqueado para siempre. Todas las torres se pueden repetir, así que un logro fallado te cuesta una repetición, no un archivo de guardado."
+          ]
+        },
+        {
+          "h2": "La ruta más rápida al 100 %",
+          "paras": [
+            "Jugadas en orden, el recorrido principal encaja casi perfectamente con la lista de logros. Un grupo coordinado puede completar Big Walk al 100 % en una sola sesión apilando cada logro condicional sobre la torre donde es más fácil:",
+            "Si algo falla por el camino, termina la torre de todos modos y vuelve al final: repetir una torre es mucho más rápido que reiniciar una sesión entera por una sola campanada perdida."
+          ],
+          "list": [
+            "Tramo del tutorial: camina en fila y Primeros pasos se desbloquea solo. Empieza aquí tu lista de Bien equipado usando las primeras herramientas que recojas.",
+            "Torre Roja: sostén el puente para Roja superada y juega limpio para Sin caídas. Es la torre más fácil, así que es el mejor sitio para el intento de cero reapariciones.",
+            "Torre Negra: acuerda el orden de la caminata en voz alta y supérala sin reinicios para A ritmo.",
+            "Torre Verde: dirige la luz a ambos receptores antes de la salida para Maestro del rayo.",
+            "Torre Azul: fija el agua a medio y mantenla ahí para Nivel medio. Dispara cualquier herramienta que aún falte en tu lista de Bien equipado.",
+            "Torre Amarilla: reagrúpate con la fila completa en la placa del final para Recorrido completado y el 100 %."
+          ],
+          "ordered": true
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Cuántos logros hay en Big Walk?",
+          "a": "Ocho. Seis están ligados al tutorial y a las cinco torres de color, y dos —Bien equipado y Sin caídas— se pueden ganar en cualquier torre."
+        },
+        {
+          "q": "¿Hay logros perdibles en Big Walk?",
+          "a": "Ninguno es permanentemente perdible, ya que todas las torres se pueden repetir después de los créditos. Los que los grupos se pierden en la primera partida son los finales sin reapariciones y con la fila completa, así que baja el ritmo en la última torre."
+        },
+        {
+          "q": "¿Los logros necesitan cooperativo?",
+          "a": "La mayoría se puede hacer en solitario, pero los de sabor cooperativo —el final con la fila completa y Bien equipado— son mucho más fáciles con un grupo que de verdad se habla."
+        },
+        {
+          "q": "¿La ruta de logros más rápida?",
+          "a": "Tutorial → Roja → Negra → Verde → Azul → Amarilla en orden. Apila Sin caídas sobre la Torre Roja y reparte Bien equipado por todo el recorrido, y todo se desbloquea en una pasada."
+        },
+        {
+          "q": "¿Cuál es el logro más difícil de Big Walk?",
+          "a": "A ritmo es el que más problemas da a la mayoría de los grupos, porque un solo reinicio anula el intento. Sin caídas le pisa los talones si tu grupo juega suelto cerca de los vacíos."
+        },
+        {
+          "q": "¿Se pueden repetir las torres para limpiar logros perdidos?",
+          "a": "Sí. Todas las torres se pueden volver a entrar después de los créditos, y los logros condicionales como Maestro del rayo y Nivel medio siguen desbloqueándose en una repetición."
+        },
+        {
+          "q": "¿Los logros de Big Walk se desbloquean en todas las plataformas?",
+          "a": "Sí: los mismos ocho logros están en las versiones de Steam, Nintendo Switch 2 y PS5 del juego."
+        }
+      ],
+      "related": [
+        "guide",
+        "tools",
+        "redTower",
+        "blackTower",
+        "yellowTower",
+        "coop"
+      ]
+    },
+    "price": {
+      "slug": "price",
+      "title": "Precio, plataformas y ediciones de Big Walk",
+      "desc": "El precio de Big Walk en Steam y consolas, qué ediciones existen y si vale la pena el paquete cooperativo.",
+      "keywords": [
+        "big walk precio",
+        "big walk precio steam",
+        "big walk plataformas",
+        "cuánto cuesta big walk",
+        "big walk nintendo switch 2 precio",
+        "big walk ediciones"
+      ],
+      "h1": "Precio, plataformas y ediciones de Big Walk",
+      "lead": "Big Walk se lanzó el 4 de agosto de 2026 del desarrollador House House y el editor Panic, y se vende en Steam (app 1478500), Nintendo Switch 2 y PlayStation 5, con crossplay entre las tres. El precio varía por región y oferta; revisa el widget de la tienda de arriba para ver el precio actual en Steam antes de comprar.",
+      "sections": [
+        {
+          "h2": "Dónde comprar Big Walk",
+          "paras": [
+            "Big Walk es una compra premium de pago único: sin suscripción, sin nivel gratuito. Se lanzó el 4 de agosto de 2026 en tres tiendas:",
+            "Compra donde tu grupo ya juega. Como el crossplay conecta las tres versiones, un grupo mixto —un caminante en PC, uno en Switch 2, uno en PS5— funciona desde el primer momento."
+          ],
+          "list": [
+            "Steam: la versión de PC. Mira el precio actual en el widget de arriba y añádelo a tu lista de deseados ahí para recibir avisos de descuentos.",
+            "Nintendo Switch 2: busca «Big Walk» en la eShop de tu consola; el precio es regional.",
+            "PlayStation 5: busca «Big Walk» en la PlayStation Store; el precio es regional."
+          ]
+        },
+        {
+          "h2": "Precio de Big Walk por plataforma",
+          "paras": [
+            "Las cifras exactas cambian por región, moneda y oferta, así que toma esto como un mapa de dónde mirar y no como una lista de precios fija. El widget de la tienda de arriba siempre muestra el precio actual en Steam.",
+            "Las tres versiones son el mismo juego con las mismas cinco torres y las mismas herramientas, así que no hay una «mejor edición» por plataforma: elige la que tengan tus amigos."
+          ],
+          "table": {
+            "headers": [
+              "Plataforma",
+              "Tienda",
+              "Crossplay",
+              "Notas"
+            ],
+            "rows": [
+              [
+                "PC",
+                "Steam",
+                "Sí",
+                "La primera en bajar de precio en las ofertas de temporada; lista de deseados para alertas"
+              ],
+              [
+                "Nintendo Switch 2",
+                "Nintendo eShop",
+                "Sí",
+                "Juego portátil; las ofertas de la eShop siguen su propio calendario"
+              ],
+              [
+                "PlayStation 5",
+                "PlayStation Store",
+                "Sí",
+                "La mejor opción para jugar en el sofá; vigila las ofertas de la PS Store"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Big Walk en Steam o en consola: ¿cuál deberías comprar?",
+          "paras": [
+            "Si tu grupo está dividido, compra en la plataforma donde ya haya más caminantes y deja que el crossplay cubra al resto. Si de verdad puedes elegir, Steam es la opción pragmática por defecto: históricamente es la primera tienda en bajar de precio, las reglas de reembolso son claras y el precio actual está a un vistazo en el widget de arriba.",
+            "Elige Switch 2 si quieres el recorrido portátil: los puzles son cortos y pensados para sesiones breves, lo que encaja con el juego en portátil. Elige PS5 si tus noches de cooperativo ocurren frente al televisor y el sofá. Ninguna de estas opciones te aleja de los amigos de las otras plataformas."
+          ]
+        },
+        {
+          "h2": "Ediciones de Big Walk y qué incluyen",
+          "paras": []
+        },
+        {
+          "h3": "Juego base",
+          "paras": [
+            "La edición estándar es el juego completo: el recorrido entero, las cinco torres de color, todas las herramientas y el final. Nada mecánico está bloqueado tras un nivel superior, así que la mayoría de los jugadores debería comprar esta y parar ahí. No hay pase de temporada que sumar al precio: lo que compras el primer día es el puzle completo."
+          ]
+        },
+        {
+          "h3": "Opción cooperativa / multipropietario",
+          "paras": [
+            "Algunas tiendas ofrecen una compra cooperativa o multipropietario pensada para grupos que compran juntos. El contenido es idéntico al del juego base: la diferencia es puramente cuántas copias obtienes en una transacción y cuánto pagas por jugador. Revisa la página de la tienda de tu región para ver las condiciones exactas del paquete antes de pagar."
+          ]
+        },
+        {
+          "h2": "¿Vale la pena el paquete cooperativo de Big Walk?",
+          "paras": [
+            "Normalmente sí, si tienes un grupo fijo. Big Walk gira en torno al cooperativo: los puzles de las torres asumen varios caminantes, las placas de presión necesitan cuerpos encima y el juego sencillamente es mejor con gente que conoces. Un paquete que baja el costo de las copias por separado es la forma más barata de meter a todo el grupo.",
+            "No vale la pena si juegas sobre todo en solitario o con desconocidos. En ese caso, una sola copia base hace todo lo que necesitas, y siempre puedes comprar para tus amigos más adelante, cuando una oferta baje el precio por copia de todos modos.",
+            "Regla rápida de decisión: si puedes nombrar a las personas con las que jugarás esta noche, compara el paquete; si no puedes, compra una copia.",
+            "Una última comprobación antes de decidirte: confirma que todos en el grupo compran en una tienda que realmente venda el paquete en tu región. La disponibilidad y el precio de los paquetes pueden variar entre Steam y las tiendas de consola, y una «oferta» que deja a un caminante pagando el precio completo en otra plataforma no es ninguna oferta."
+          ]
+        },
+        {
+          "h2": "¿Cuándo entra Big Walk en oferta?",
+          "paras": [
+            "En Steam, los lanzamientos del editor Panic suelen unirse a las grandes ofertas de temporada —verano, otoño, invierno— además de alguna que otra oferta entre semana o de fin de semana del editor. El primer descuento decente suele llegar unos meses después del lanzamiento, con rebajas más profundas al año siguiente. Añade el juego a tu lista de deseados en Steam y recibirás un correo en el momento en que empiece cualquier descuento; es la forma de cazarlo con menos esfuerzo.",
+            "Los descuentos en consola siguen su propio ritmo. La eShop y la PlayStation Store tienen eventos de ofertas independientes, así que las versiones de Switch 2 y PS5 pueden no estar rebajadas al mismo tiempo que Steam. Si el precio importa más que la plataforma, Steam es históricamente la apuesta más segura para una oferta temprana.",
+            "¿Deberías esperar a un descuento? Si tienes un grupo listo para jugar ahora, compra ahora: Big Walk es una experiencia compartida, y el valor está en caminar juntos mientras todos siguen resolviendo las torres a ciegas. Si compras en solitario y sin prisa, añadirlo a la lista de deseados y esperar a la primera oferta de temporada es la jugada paciente y razonable."
+          ]
+        },
+        {
+          "h2": "Nota sobre el crossplay",
+          "paras": [
+            "El crossplay está activado entre PC y consola, así que dónde compres no te excluye de jugar con amigos: solo mantén el crossplay activado en ambas cuentas (mira la página de soluciones del cooperativo si una unión falla). Eso también significa que puedes perseguir la tienda más barata sin dividir al grupo: compra donde esté de oferta y todos acaban en el mismo recorrido."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Cuánto cuesta Big Walk?",
+          "a": "El precio varía por región y oferta. El widget de Steam en esta página muestra el precio actual en vivo, y las tiendas de consola listan sus propios precios regionales. Espera que las tres versiones estén muy cercanas en el lanzamiento, con Steam normalmente como la primera en bajar de precio."
+        },
+        {
+          "q": "¿En qué plataformas está Big Walk?",
+          "a": "Steam en PC, Nintendo Switch 2 y PlayStation 5, todos lanzados el 4 de agosto de 2026. El crossplay está activado entre las tres versiones, así que tu elección de plataforma no limita con quién puedes caminar."
+        },
+        {
+          "q": "¿Hay un paquete cooperativo de Big Walk que valga la pena?",
+          "a": "Si juegas a menudo con el mismo grupo, la opción cooperativa/multipropietario suele ser mejor valor que comprar copias sueltas una a una. Compara el precio del paquete con el precio por copia en tu región antes de pagar."
+        },
+        {
+          "q": "¿Big Walk tiene crossplay entre Steam y consola?",
+          "a": "Sí. El crossplay está activado entre Steam, Switch 2 y PS5, así que puedes comprar en la plataforma que prefieras y seguir jugando con amigos en las otras. Mantén el crossplay activado en los ajustes de ambos extremos."
+        },
+        {
+          "q": "¿Big Walk entrará en oferta?",
+          "a": "Casi con seguridad en Steam, donde los títulos del editor Panic suelen unirse a las grandes ofertas de temporada. Los descuentos en consola suelen llegar después. Si no tienes prisa, añadir el juego a la lista de deseados te trae un correo en el momento en que empiece un descuento."
+        },
+        {
+          "q": "¿Big Walk es gratis o está en algún servicio de suscripción?",
+          "a": "No. Big Walk es una compra premium de pago único en las tres plataformas. No hay nivel gratuito ni inclusión confirmada en un servicio de suscripción en el lanzamiento, así que presupuesta el precio completo o espera una oferta."
+        },
+        {
+          "q": "¿Qué edición de Big Walk debería comprar?",
+          "a": "La mayoría de los jugadores solo necesita el juego base: contiene el recorrido completo, las cinco torres y todas las herramientas. Mira la opción cooperativa/multipropietario solo si compras para un grupo fijo, donde el costo por jugador suele ganarle a las copias sueltas."
+        },
+        {
+          "q": "¿El precio de Big Walk es el mismo en todos los países?",
+          "a": "No. Las tres tiendas usan precios regionales, así que la cifra que ves depende de la región y la moneda de tu tienda. El widget de Steam de arriba refleja tu región automáticamente; en consola, revisa la ficha en tu propia cuenta de eShop o PlayStation Store."
+        }
+      ],
+      "gameWidget": true,
+      "related": [
+        "guide",
+        "coop",
+        "vsWitness",
+        "vsIttakesTwo",
+        "vsGrounded"
+      ]
+    },
+    "home": {
+      "slug": "",
+      "title": "Guías de Big Walk: soluciones de los puzles de las torres, herramientas y arreglos del cooperativo",
+      "desc": "¿Atascado en una torre de Big Walk? Soluciones paso a paso para las cinco torres, todas las herramientas explicadas y arreglos de conexión del cooperativo: la respuesta en la primera pantalla.",
+      "keywords": [
+        "big walk",
+        "big walk guía",
+        "big walk juego",
+        "big walk soluciones puzles",
+        "big walk torres solución",
+        "big walk house house"
+      ],
+      "h1": "Big Walk: soluciones de torres, herramientas y arreglos del cooperativo",
+      "lead": "Big Walk es una caminata de puzles cooperativa de los creadores de Untitled Goose Game. Abajo están las soluciones exactas que los jugadores buscan: las torres Roja/Negra/Verde/Azul/Amarilla, cada herramienta y los arreglos del cooperativo para los que los sitios grandes nunca se molestaron en escribir una página. Todo aquí responde primero a la pregunta y explica después, para que puedas volver a tu partida en menos de un minuto.",
+      "sections": [
+        {
+          "h2": "¿Qué es el juego Big Walk?",
+          "paras": [
+            "Big Walk es un juego de puzles cooperativo de House House, publicado por Panic y lanzado el 4 de agosto de 2026 para Steam, Nintendo Switch 2 y PlayStation 5. Tus amigos y tú forman una fila de caminantes y cruzan a pie un mundo hecho a mano. El progreso está bloqueado por torres con código de colores, y cada torre es un puzle autocontenido que solo se abre cuando el grupo descubre su truco junto.",
+            "Los controles son simples a propósito: el reto es la comunicación, no la ejecución. La mayoría de los intentos fallidos viene de un caminante que se mueve antes de que el resto de la fila esté lista, así que las guías de este sitio se centran en avisos de voz, reparto de papeles y órdenes de caminata exactos en lugar de reflejos."
+          ]
+        },
+        {
+          "h2": "Las cinco torres",
+          "paras": [
+            "La mayoría de las búsquedas sobre Big Walk son de torres concretas. Cada página da la solución en la primera pantalla, y después el orden de caminata y la trampa que arruina la mayoría de los intentos.",
+            "Las cinco torres comparten un idioma —placas de presión, puentes y orden de caminata—, pero cada una añade una mecánica nueva. La Torre Roja es el puzle introductorio y enseña el ciclo de placa y puente. La Torre Negra añade ritmo. La Torre Verde está construida en torno a la luz y los puentes. La Torre Azul divide al grupo entre niveles de agua, y la Torre Amarilla es el final que lo combina todo. Si estás atascado en una torre, abre su página y lee la primera pantalla: la solución está ahí antes de desplazarte."
+          ]
+        },
+        {
+          "h2": "Herramientas y cooperativo",
+          "paras": [
+            "Las páginas de herramientas explican cada aparato uno por uno, y la página del cooperativo arregla las desconexiones que los jugadores publican en Reddit. Las herramientas son como Big Walk mantiene frescos los puzles avanzados: cada una es simple por sí sola, pero combinar dos en el momento justo es lo que rompe las torres más duras. Si tu sesión no conecta en absoluto, empieza por la página de arreglos del cooperativo: cubre códigos de invitación, problemas de NAT y límites de plataforma en el orden en que deberías probarlos."
+          ]
+        },
+        {
+          "h2": "Big Walk frente a otros puzles cooperativos",
+          "paras": [
+            "¿No sabes qué juego cooperativo comprar? Las páginas de comparativas lo resuelven. Big Walk se compara con The Witness en estilo de puzles, con It Takes Two en sensación cooperativa y con Grounded 2 en ritmo de supervivencia frente a puzles. Cada comparación cubre duración, dificultad, número de jugadores y para quién es realmente cada juego, para que elijas el correcto para tu grupo antes de gastar nada."
+          ]
+        },
+        {
+          "h2": "Cómo usar este sitio",
+          "paras": [
+            "Todas las páginas de WalkHub siguen el mismo diseño. La respuesta o solución directa está en la primera pantalla, justo debajo del título. Después vienen las instrucciones paso a paso, luego el fallo común y su arreglo, y un FAQ corto al final cubre las preguntas de seguimiento.",
+            "Si estás atascado ahora mismo, abre la página de la torre que coincida con el color de tu marcador en el mapa y lee el primer párrafo. Si el juego en sí se comporta mal, ve directo a los arreglos del cooperativo. Si aún estás decidiendo si comprarlo, la página de precio y las comparativas son las lecturas más rápidas.",
+            "Los jugadores nuevos deberían empezar con la guía completa, que recorre todo el juego en orden: progresión, las cinco torres, lo básico del cooperativo y qué hacer primero. Los que vuelven pueden usar la página de logros para limpiar los desbloqueos perdibles antes de dar el juego por terminado."
+          ]
+        },
+        {
+          "h2": "Una guía rápida de Big Walk para tu primera sesión",
+          "paras": [
+            "Antes de tu primera sesión, acuerden tres cosas en el chat de voz: quién guía la fila, quién ancla las placas de presión y el aviso que usarán antes de que alguien se baje de una placa. La mayoría de los fracasos tempranos son fallos de comunicación, no de puzles.",
+            "Muévanse como una fila, no como una multitud. Cuando una torre pida papeles divididos, digan su papel en voz alta antes de tocar nada. Y cuando un intento falle, reinicien de inmediato: las torres son cortas, y un reintento rápido le gana a una larga discusión sobre qué salió mal."
+          ]
+        },
+        {
+          "h2": "Las preguntas más buscadas sobre Big Walk",
+          "paras": [
+            "Respuestas cortas a las consultas que traen a la mayoría de los jugadores aquí:"
+          ],
+          "list": [
+            "¿Cuál es la solución de la Torre Roja de Big Walk? El paso a paso completo está en la página de la Torre Roja: la respuesta está en la primera pantalla.",
+            "¿Cómo se supera la Torre Negra? El orden de caminata y el ritmo están en la página de la Torre Negra, incluida la trampa que arruina la mayoría de los intentos cooperativos.",
+            "¿Por qué no funciona el cooperativo de Big Walk? Los códigos de invitación, la NAT y los límites de plataforma se arreglan paso a paso en la página de solución de problemas del cooperativo.",
+            "¿Cuánto cuesta Big Walk? Los precios actuales en Steam y consolas están en la página de precio.",
+            "¿Cómo conseguir todos los logros de Big Walk? La lista de logros tiene la ruta de desbloqueo más rápida de cada uno, además de los perdibles a vigilar.",
+            "¿Comprar Big Walk o It Takes Two? La comparación cara a cara lo resuelve por sensación cooperativa, dificultad y duración."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Qué es Big Walk?",
+          "a": "Big Walk es una aventura de puzles cooperativa en la que una fila de jugadores camina junta por un mundo hecho a mano, resolviendo puzles de torres y desafíos ambientales. Está desarrollado por House House, el estudio detrás de Untitled Goose Game."
+        },
+        {
+          "q": "¿Cuántas torres hay en Big Walk?",
+          "a": "Hay cinco torres con código de colores: Roja, Negra, Verde, Azul y Amarilla. Cada una tiene su propia mecánica; las soluciones completas paso a paso están enlazadas arriba."
+        },
+        {
+          "q": "¿Big Walk es cooperativo / tiene crossplay?",
+          "a": "Sí, está hecho para el cooperativo. Si tu sesión no conecta, mira la página de arreglos del cooperativo para códigos de invitación, NAT y límites de plataforma."
+        },
+        {
+          "q": "¿Quién hace Big Walk y cuándo salió?",
+          "a": "Big Walk está desarrollado por House House y publicado por Panic. Se lanzó el 4 de agosto de 2026 para Steam, Nintendo Switch 2 y PlayStation 5."
+        },
+        {
+          "q": "¿Cuánto se tarda en terminar Big Walk?",
+          "a": "Una primera pasada por las cinco torres lleva a la mayoría de los grupos unas cuantas tardes, y los grupos coordinados avanzan más rápido. La página de la guía completa detalla toda la progresión en orden para que puedas dosificar tus sesiones."
+        },
+        {
+          "q": "¿En qué plataformas está Big Walk?",
+          "a": "Big Walk se lanzó en Steam, Nintendo Switch 2 y PlayStation 5 el 4 de agosto de 2026. La página de precio compara plataformas, ediciones y si el paquete cooperativo vale la pena."
+        },
+        {
+          "q": "¿Se puede jugar a Big Walk en solitario?",
+          "a": "Big Walk está diseñado en torno a una fila de caminantes que se comunican, y sus puzles de torres asumen coordinación en grupo. Si planeas jugar con amigos, la página de la guía cubre lo básico del cooperativo y qué hacer primero."
+        }
+      ],
+      "videoId": "c30AAvpS6do",
+      "gameWidget": true,
+      "related": [
+        "guide",
+        "tools",
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "coop",
+        "achievements",
+        "price",
+        "vsWitness",
+        "vsIttakesTwo",
+        "vsGrounded"
+      ]
+    },
+    "vsWitness": {
+      "slug": "vs-witness",
+      "title": "Big Walk vs The Witness: ¿cuál deberías jugar?",
+      "desc": "Big Walk vs The Witness: estilo de puzles, cooperativo, duración y para quién es realmente cada juego.",
+      "keywords": [
+        "big walk vs the witness",
+        "big walk o the witness",
+        "big walk comparación the witness",
+        "big walk o the witness cuál comprar",
+        "big walk parecido a the witness"
+      ],
+      "h1": "Big Walk vs The Witness: ¿cuál deberías jugar?",
+      "lead": "El veredicto primero: son juegos distintos para estados de ánimo distintos. Big Walk es un puzle cooperativo de caminatas de House House (publicado por Panic, disponible desde el 4 de agosto de 2026 en Steam, Switch 2 y PS5) que juegas con amigos; The Witness es un puzle solitario de trazar líneas que juegas a solas. Elige Big Walk si quieres reírte con gente, The Witness si quieres pensar en silencio.",
+      "sections": [
+        {
+          "h2": "Big Walk vs The Witness: cara a cara",
+          "table": {
+            "headers": [
+              "Factor",
+              "Big Walk",
+              "The Witness"
+            ],
+            "rows": [
+              [
+                "Estilo de puzles",
+                "Puzles ambientales cooperativos de caminata",
+                "Laberintos solitarios de trazar líneas"
+              ],
+              [
+                "Cooperativo",
+                "Hecho para 2+ jugadores, chat de voz recomendado",
+                "Ninguno: estrictamente para un jugador"
+              ],
+              [
+                "Duración",
+                "Unas cuantas sesiones centradas con amigos",
+                "Largo, cerebral, decenas de horas"
+              ],
+              [
+                "Dificultad",
+                "Suave, indulgente, fallar es gracioso",
+                "Empinada, sin pistas, te enseñas a ti mismo"
+              ],
+              [
+                "Precio",
+                "Precio indie asequible en Steam, Switch 2 y PS5",
+                "Título antiguo, a menudo rebajado"
+              ],
+              [
+                "Ambiente",
+                "Cálido, tonto, social",
+                "Calmado, abstracto, solitario"
+              ],
+              [
+                "Mejor para",
+                "Jugar con amigos",
+                "Rompecabezas tranquilos en solitario"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Diseño de puzles comparado",
+          "paras": [
+            "The Witness es un juego de paneles. Recorres una isla hermosa y vacía resolviendo laberintos de líneas que no paran de añadir reglas —símbolos, colores, sonidos— sin explicarlas jamás. El puzle está dentro de tu cabeza: nota el patrón, pruébalo, siente cómo la regla encaja.",
+            "Big Walk pone el puzle en el espacio entre jugadores. Sus torres están hechas de placas de presión, puentes retráctiles, niveles de agua y rayos de luz que solo se comportan bien mientras tu grupo se coordina. El puzle no es «descubre la regla»: es «consigue que tres amigos hagan lo correcto en el momento correcto». En la Torre Roja, un caminante ancla una placa mientras el resto cruza en fila india; en la Torre Azul, los papeles se dividen en torno a un nivel de agua que sube. Cada mecánica es una conversación.",
+            "Los escenarios hacen el mismo truco en direcciones opuestas. The Witness esconde puzles en su entorno para el jugador que mira de cerca. Big Walk los esconde en los hábitos de tu grupo: la torre que parece imposible hasta que alguien sugiere dividir papeles."
+          ]
+        },
+        {
+          "h3": "Fallar se siente distinto",
+          "paras": [
+            "En The Witness, fallar es silencioso: una línea equivocada, un zumbido y lo intentas de nuevo a solas. En Big Walk, fallar es el entretenimiento: el puente se retrae, todos caen y el grupo se ríe y replantea. Un juego te hace sentir listo; el otro te hace sentir acompañado."
+          ]
+        },
+        {
+          "h2": "Cuál para tu grupo",
+          "paras": [
+            "Elige Big Walk si algo de esto te suena:",
+            "Elige The Witness si esto encaja mejor:",
+            "Una nota práctica: Big Walk necesita un grupo que pueda hablar, así que cuenta con chat de voz y revisa tu configuración de conexión antes de la primera sesión. The Witness no necesita nada más que tu paciencia."
+          ],
+          "lists": [
+            [
+              "Tienes dos o más amigos y una tarde libre a la semana.",
+              "Quieres una noche cooperativa de trabajo en equipo, no de reflejos.",
+              "Disfrutas de los juegos donde los errores se convierten en historias que cuentas después.",
+              "Quieres algo corto y completo, no un hobby de cien horas."
+            ],
+            [
+              "Juegas sobre todo solo, de noche, con auriculares.",
+              "Te gustan los puzles que te resisten durante horas antes de abrirse.",
+              "Quieres una enorme cantidad de contenido por un precio de oferta bajo."
+            ]
+          ]
+        },
+        {
+          "h3": "Si solo puedes comprar uno",
+          "paras": [
+            "Haz coincidir el juego con la noche, no con las reseñas. Un grupo de dos a cuatro saca muchas más horas de diversión por dólar de Big Walk. Un jugador en solitario saca mucho más puzle por dólar de The Witness. Ninguno es la elección equivocada: lo equivocado es comprar el que no encaja con tu situación."
+          ]
+        },
+        {
+          "h2": "Veredicto final",
+          "paras": [
+            "Esta no es una pelea real. Compra Big Walk cuando el plan sea una noche cooperativa: es el raro juego de puzles donde lo difícil es cooperar, y funciona perfecto para dos a cuatro jugadores. Busca The Witness cuando quieras un largo y silencioso viaje de puzles en solitario que respeta tu inteligencia y nunca te toma de la mano. No son competidores; son huecos distintos en tu biblioteca. Si tu presupuesto lo permite, compra Big Walk para el grupo y guarda The Witness para ti, y si las noches cooperativas se vuelven costumbre, nuestras guías de las cinco torres te llevarán por todo el recorrido."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Big Walk se parece a The Witness?",
+          "a": "Solo vagamente. Ambos son juegos de puzles en espacios abiertos y caminables, pero Big Walk es cooperativo y físico —resuelves cosas moviendo cuerpos sobre placas y a través de puentes— mientras que The Witness es un juego en solitario sobre trazar líneas en paneles. Si te encantó uno, el otro merece un vistazo, pero espera una tarde muy distinta."
+        },
+        {
+          "q": "¿Cuál es mejor para el cooperativo, Big Walk o The Witness?",
+          "a": "Big Walk, por goleada. Está diseñado en torno a dos o más caminantes coordinándose en tiempo real. The Witness no tiene modo cooperativo en absoluto: lo más parecido es un amigo mirando por encima de tu hombro y sugiriendo líneas."
+        },
+        {
+          "q": "¿Cuál es más largo?",
+          "a": "The Witness es el juego más largo y exigente, con cientos de paneles y desafíos opcionales de final de partida. Big Walk está hecho para sesiones sociales más cortas: la mayoría de los grupos termina el recorrido principal en unas cuantas tardes."
+        },
+        {
+          "q": "¿Cuál es más difícil?",
+          "a": "The Witness, por un amplio margen. Nunca explica sus reglas y espera que las inferas. Los puzles de torres de Big Walk tienen curva de aprendizaje, pero fallar es rápido y gracioso, y tu grupo lo resuelve hablando."
+        },
+        {
+          "q": "¿Debería comprar primero Big Walk o The Witness?",
+          "a": "Si tienes un grupo cooperativo habitual, compra primero Big Walk: nada más este año hace lo que él hace. Si juegas solo y quieres un puzle profundo en solitario, empieza con The Witness. Idealmente, ten ambos: llenan huecos distintos."
+        },
+        {
+          "q": "¿Se puede jugar a Big Walk en solitario como The Witness?",
+          "a": "Puedes caminar solo, pero los puzles de torres asumen al menos dos caminantes: uno sosteniendo una placa de presión mientras el otro cruza. Jugar en solitario es posible con apaños, pero el juego claramente cobra vida con un compañero."
+        }
+      ],
+      "related": [
+        "vsIttakesTwo",
+        "vsGrounded",
+        "guide",
+        "coop",
+        "price"
+      ]
+    },
+    "vsIttakesTwo": {
+      "slug": "vs-it-takes-two",
+      "title": "Big Walk vs It Takes Two: cooperativos comparados",
+      "desc": "Big Walk vs It Takes Two: sensación cooperativa, dificultad y qué juego cooperativo comprar primero.",
+      "keywords": [
+        "big walk vs it takes two",
+        "big walk o it takes two",
+        "big walk comparación it takes two",
+        "mejor juego cooperativo big walk o it takes two",
+        "big walk o it takes two cuál comprar"
+      ],
+      "h1": "Big Walk vs It Takes Two: cooperativos comparados",
+      "lead": "Big Walk vs It Takes Two es en realidad una pregunta sobre qué tipo de noche cooperativa quieres. Big Walk es un paseo sin presiones al que te sumas con amigos para risas rápidas; It Takes Two es una campaña más larga, guiada por la historia y hecha para exactamente dos jugadores. Elige Big Walk para el encuentro improvisado, It Takes Two para una partida de dúo comprometida.",
+      "sections": [
+        {
+          "h2": "Cara a cara",
+          "table": {
+            "headers": [
+              "Factor",
+              "Big Walk",
+              "It Takes Two"
+            ],
+            "rows": [
+              [
+                "Estilo cooperativo",
+                "Puzles de paseo relajados, entra y sal",
+                "Diseño ajustado y guionizado para dos jugadores"
+              ],
+              [
+                "Número de jugadores",
+                "En solitario o un grupo de amigos",
+                "Exactamente dos jugadores, siempre"
+              ],
+              [
+                "Duración de la sesión",
+                "Sesiones cortas, vete cuando quieras",
+                "Una campaña completa (más de 10 h)"
+              ],
+              [
+                "Dificultad",
+                "Ligera y accesible",
+                "Variada, a veces realmente difícil"
+              ],
+              [
+                "Precio",
+                "Una compra indie por jugador",
+                "Friend's Pass: una copia cubre a ambos jugadores"
+              ],
+              [
+                "Ambiente",
+                "Cooperativo de quedada",
+                "Cooperativo cinematográfico"
+              ],
+              [
+                "Mejor para",
+                "Noches casuales con amigos",
+                "Una partida cooperativa comprometida"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Sensación cooperativa comparada",
+          "paras": [
+            "Ambos juegos son cooperativos, pero gastan tu tiempo de forma distinta. Big Walk, del desarrollador de Untitled Goose Game, House House, y el editor Panic, es primero una caminata compartida y después un juego de puzles. Tus amigos y tú deambulan, toquetean herramientas y resuelven lo que el camino les eche encima. Nadie tiene que organizar un plan. Alguien puede unirse tarde, alguien puede irse pronto, y la caminata sigue.",
+            "It Takes Two tiene la forma opuesta. Hazelight lo construyó como una campaña lineal para dos jugadores donde cada capítulo te da habilidades nuevas diseñadas para encajar entre sí. Un jugador recibe los clavos, el otro el martillo. No puedes dejarte llevar: el progreso depende de que ambos jugadores ejecuten juntos hasta que rueden los créditos.",
+            "Ninguno es mejor; rascan picores distintos. Big Walk se siente como quedar con amigos en un parque. It Takes Two se siente como ensayar una obra de dos personajes.",
+            "La diferencia práctica se nota en el chat de voz. En Big Walk la charla divaga: la mitad de la diversión es la conversación mientras caminas. En It Takes Two la charla es el juego: avisos constantes, ritmo y coordinación del primer nivel al último."
+          ]
+        },
+        {
+          "h2": "Dificultad y duración de las sesiones",
+          "paras": [
+            "Big Walk se mantiene accesible. Los puzles de las torres —roja, negra, verde, azul y amarilla— piden coordinación y ritmo, no habilidad mecánica, y un intento fallido se reinicia rápido. La mayoría de las sesiones son cortas, lo que hace fácil encajarlas entre semana.",
+            "It Takes Two pide más. Las secciones de plataformas, los jefes y las mecánicas tardías pueden desafiar de verdad a los jugadores casuales, y la campaña espera sesiones de varias horas. Si uno de ustedes casi no juega, Big Walk es el punto de partida más amable."
+          ]
+        },
+        {
+          "h2": "Precio y valor",
+          "paras": [
+            "Big Walk se lanzó el 4 de agosto de 2026 en Steam, Nintendo Switch 2 y PS5 como una compra indie única, con cada jugador comprando su propia copia. Revisa nuestra guía de precios de Big Walk para precios actuales, ediciones y posibles paquetes cooperativos.",
+            "It Takes Two es más antiguo y se rebaja con regularidad, y su Friend's Pass significa que solo uno de ustedes necesita tener el juego: el segundo jugador se une gratis. En costo puro por dúo, It Takes Two suele ganar. En costo por noche de juego con un grupo más grande y rotativo, gana Big Walk."
+          ]
+        },
+        {
+          "h2": "Big Walk o It Takes Two: cuál comprar primero",
+          "paras": [
+            "Compra primero Big Walk si tu grupo cooperativo es fluido. Si la alineación cambia de semana a semana, si la gente entra y sale, o si quieres algo que funcione la noche en que aparece alguien nuevo, la estructura suelta de Big Walk absorbe todo eso. También es la mejor elección cuando tu grupo incluye jugadores que rebotan con los juegos duros.",
+            "Compra primero It Takes Two si tienes exactamente un compañero constante y unas cuantas tardes libres. Es una campaña completa y pulida, y sigue siendo una de las mejores experiencias para dos jugadores en cualquier plataforma, pero desperdicia sus puntos fuertes con un público rotativo.",
+            "Tener ambos es una respuesta razonable. No compiten por la misma noche."
+          ]
+        },
+        {
+          "h2": "Veredicto final",
+          "paras": [
+            "Big Walk e It Takes Two están en extremos opuestos del espectro cooperativo. Big Walk es el juego que abres cuando hay amigos cerca y nadie planeó nada. It Takes Two es el juego que agendan. Para risas rápidas esta noche, agarra Big Walk. Para una historia que terminan juntos en un par de semanas, agarra It Takes Two."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Big Walk es tan bueno como It Takes Two para el cooperativo?",
+          "a": "Para una quedada corta y tonta, sí. Big Walk entrega risas en los primeros diez minutos. Para una campaña de historia profunda con escenas espectaculares y jefes, It Takes Two es la experiencia más pesada."
+        },
+        {
+          "q": "¿Big Walk o It Takes Two para no jugadores?",
+          "a": "Big Walk. Los controles son simples, fallar es gracioso en lugar de castigar, y nadie necesita habilidad de plataformas. It Takes Two asume que ambos jugadores pueden con la puntería y los saltos temporizados."
+        },
+        {
+          "q": "¿Pueden jugar más de dos personas?",
+          "a": "En Big Walk, sí: está hecho para un grupo de amigos caminando juntos. It Takes Two es estrictamente un juego de dos jugadores, sin opción a un tercero."
+        },
+        {
+          "q": "¿Cuál es más fácil de empezar?",
+          "a": "Big Walk: casi no hay incorporación, y los amigos pueden unirse a mitad de sesión sin repetir un tutorial."
+        },
+        {
+          "q": "¿Necesito un gran bloque de tiempo?",
+          "a": "Big Walk no; las sesiones funcionan en ráfagas cortas. It Takes Two espera un compromiso de varias horas repartido en varias tardes."
+        },
+        {
+          "q": "¿It Takes Two necesita dos copias?",
+          "a": "No. Su Friend's Pass permite que un segundo jugador se una gratis, así que solo uno de ustedes compra el juego. En Big Walk, cada caminante necesita su propia copia."
+        }
+      ],
+      "related": [
+        "vsWitness",
+        "vsGrounded",
+        "coop",
+        "guide",
+        "price"
+      ]
+    },
+    "vsGrounded": {
+      "slug": "vs-grounded-2",
+      "title": "Big Walk vs Grounded 2: comparación",
+      "desc": "Big Walk vs Grounded 2: supervivencia frente a puzles cooperativos puros, número de jugadores y ambiente.",
+      "keywords": [
+        "big walk vs grounded 2",
+        "big walk o grounded 2",
+        "big walk comparación grounded 2",
+        "grounded 2 o big walk cuál comprar",
+        "big walk parecido a grounded 2"
+      ],
+      "h1": "Big Walk vs Grounded 2: comparación",
+      "lead": "Big Walk y Grounded 2 son ambos juegos cooperativos, pero apenas se solapan. Big Walk es una caminata de puzles pura: sin combate, sin fabricación, solo una fila de caminantes resolviendo puzles ambientales juntos. Grounded 2 es supervivencia y fabricación con construcción de bases y peleas de bichos. Elige Big Walk para pensar juntos, Grounded 2 para construir y pelear juntos. Aquí está el desglose completo.",
+      "sections": [
+        {
+          "h2": "Cara a cara",
+          "paras": [
+            "La versión corta de Big Walk vs Grounded 2, factor por factor:"
+          ],
+          "table": {
+            "headers": [
+              "Factor",
+              "Big Walk",
+              "Grounded 2"
+            ],
+            "rows": [
+              [
+                "Género",
+                "Caminata de puzles cooperativa",
+                "Supervivencia y fabricación cooperativa"
+              ],
+              [
+                "Estilo cooperativo",
+                "Fila de puzles compartida, sin combate",
+                "Construcción de bases, peleas de bichos, supervivencia compartida"
+              ],
+              [
+                "Número de jugadores",
+                "Fila cooperativa pequeña",
+                "Hasta 4 jugadores"
+              ],
+              [
+                "Duración de la sesión",
+                "Entra para una torre o dos",
+                "Sesiones de campaña a largo plazo"
+              ],
+              [
+                "Dificultad",
+                "Suave: fallar es un reintento rápido",
+                "Presión de supervivencia: hambre, equipo, enemigos"
+              ],
+              [
+                "Precio",
+                "Compra premium de pago único",
+                "Premium, también en Game Pass"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Supervivencia frente a puzles cooperativos puros",
+          "paras": [
+            "Big Walk viene de House House, el estudio detrás de Untitled Goose Game, y fue publicado por Panic el 4 de agosto de 2026 para Steam, Nintendo Switch 2 y PS5. Tus amigos y tú caminan como una fila de excursionistas por un parque de montaña, resolviendo puzles ambientales: placas de presión, puentes y las cinco torres de colores. No hay barra de vida, ni inventario, ni estado de fallo más allá de probar un puzle otra vez.",
+            "Grounded 2 va en la dirección opuesta. Te encogen a tamaño insecto y te sueltan en un parque hostil donde casi todo te quiere muerto. Recoges recursos, fabricas herramientas y armaduras, levantas una base y peleas contra bichos, con hasta cuatro jugadores repartiéndose el trabajo.",
+            "Así que la verdadera pregunta en Big Walk o Grounded 2 es la presión. Grounded 2 está construido sobre ella: medidores de hambre, asaltos, desgaste del equipo. Big Walk la elimina toda a propósito. El único enemigo es un puzle que aún no has descifrado, y la única penalización por fallar es caminar de vuelta al inicio.",
+            "Esa diferencia también moldea la sensación social. Las sesiones de Big Walk se convierten en charla constante —avisar de placas, debatir rutas— porque hablar es toda la mecánica. La charla de Grounded 2 es logística: quién farmea qué, quién sostiene la base."
+          ]
+        },
+        {
+          "h2": "Cuál encaja con tu grupo",
+          "paras": [
+            "Elige Big Walk si tu grupo:",
+            "Elige Grounded 2 si tu grupo:",
+            "Revisa también qué tiene tu grupo. Big Walk funciona en Steam, Nintendo Switch 2 y PS5; Grounded 2 está en Xbox y PC, donde se incluye con Game Pass. Muchos grupos acabarán teniendo ambos, porque los dos juegos rascan picores distintos: Big Walk es el juego de entre semana, fácil de empezar y fácil de dejar, mientras que Grounded 2 es el compromiso del fin de semana."
+          ],
+          "lists": [
+            [
+              "Quiere una noche cooperativa tranquila y habladora donde el reto es la comunicación, no los reflejos.",
+              "Incluye jugadores que no suelen jugar: los controles son caminar e interactuar, nada más.",
+              "Juega en sesiones cortas; pueden superar una torre o dos y parar sin abandonar una base a mitad de proyecto."
+            ],
+            [
+              "Le gusta la progresión a largo plazo: desbloquear recetas, mejorar equipo, expandir una base compartida durante semanas.",
+              "Disfruta del combate y quiere enemigos que pelear juntos, no solo puzles que resolver.",
+              "Tiene cuatro jugadores; Big Walk está construido en torno a una fila cooperativa más pequeña, mientras que Grounded 2 admite hasta cuatro."
+            ]
+          ]
+        },
+        {
+          "h2": "Veredicto final",
+          "paras": [
+            "Si solo puedes comprar uno: un dúo amante de los puzles o un grupo de habilidades mixtas debería comprar Big Walk; una pandilla de fans de la supervivencia con cuatro jugadores debería comprar Grounded 2. Big Walk es más amable con los principiantes, más barato de entrada y el único de los dos donde nadie tiene que saber qué es un banco de trabajo.",
+            "¿Quieres construir y sobrevivir con amigos? Grounded 2. ¿Quieres resolver puzles juntos sin ninguna presión? Big Walk: empieza con la guía completa, o revisa primero el precio en tu plataforma."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Big Walk se parece a Grounded 2?",
+          "a": "Solo en el sentido más amplio: ambos son cooperativos. Grounded 2 es supervivencia y fabricación con combate, bases y farmeo de recursos. Big Walk es una caminata de puzles sin combate donde todo el juego es un grupo resolviendo puzles ambientales juntos. Casi nada de lo que aprendes en uno se transfiere al otro."
+        },
+        {
+          "q": "¿Cuál admite más jugadores, Big Walk o Grounded 2?",
+          "a": "Grounded 2, con hasta cuatro jugadores en un mundo compartido. Big Walk está construido en torno a una fila cooperativa de caminantes más pequeña. Si tu grupo habitual es de cuatro personas, eso solo puede zanjar la cuestión de Big Walk o Grounded 2."
+        },
+        {
+          "q": "¿Cuál es más relajante?",
+          "a": "Big Walk, por un amplio margen. No hay enemigos, ni medidores de hambre, ni base que defender: fallar solo significa reintentar el puzle que tienes delante. Grounded 2 mantiene una presión de supervivencia constante, incluso cuando no estás peleando."
+        },
+        {
+          "q": "¿Cuál es mejor para sesiones cortas?",
+          "a": "Big Walk. Las torres y los tramos de puzles funcionan como paradas autocontenidas, así que una sesión de una hora por la tarde se siente completa. Grounded 2 premia sesiones más largas: las salidas de recolección, los proyectos de base y la preparación de jefes tienden a estirarse más allá del tiempo que planeaste."
+        },
+        {
+          "q": "¿Big Walk tiene combate o fabricación?",
+          "a": "No. Big Walk no tiene combate, ni fabricación, ni gestión de inventario. Cada desafío es un puzle ambiental: placas, puentes, rutas y las cinco torres de colores. Si tu grupo necesita peleas para mantener el interés, Grounded 2 es la apuesta más segura."
+        },
+        {
+          "q": "¿Big Walk o Grounded 2 es mejor para principiantes?",
+          "a": "Big Walk. Los controles se reducen a caminar e interactuar, y nada castiga el juego lento. Grounded 2 asume soltura con los sistemas de supervivencia —árboles de fabricación, niveles de equipo, tipos de enemigos— que pueden enterrar a un jugador primerizo."
+        }
+      ],
+      "related": [
+        "vsWitness",
+        "vsIttakesTwo",
+        "coop",
+        "guide",
+        "price"
+      ]
+    }
+  }
+}

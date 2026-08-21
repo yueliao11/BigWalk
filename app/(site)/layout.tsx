@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import Script from "next/script";
-import "./globals.css";
+import "../globals.css";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import JsonLd from "@/components/JsonLd";
+import Analytics from "@/components/Analytics";
 import { SITE, ORGANIZATION_JSONLD, url } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -42,23 +42,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="flex min-h-screen flex-col">
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-WX2ZGFWH78"
-          strategy="afterInteractive"
-        />
-        <Script id="gtag-init" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-WX2ZGFWH78');
-          `}
-        </Script>
-        <Script
-          src="https://app.pageview.app/js/script.js"
-          data-domain="bigwalkredtowers.com"
-          strategy="afterInteractive"
-        />
+        <Analytics />
         <JsonLd data={ORGANIZATION_JSONLD} />
         <SiteHeader />
         <div className="flex-1">{children}</div>

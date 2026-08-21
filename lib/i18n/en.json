@@ -1,0 +1,2119 @@
+{
+  "meta": {
+    "code": "en",
+    "name": "English",
+    "ogLocale": "en_US",
+    "tagline": "Big Walk guides, tools & co-op puzzle solutions",
+    "siteDescription": "WalkHub is a fan-made guide hub for Big Walk — tower puzzle solutions, co-op troubleshooting, tool walkthroughs and head-to-head comparisons."
+  },
+  "nav": {
+    "home": "Home",
+    "guide": "Guide",
+    "tools": "Tools",
+    "towers": "Towers",
+    "coop": "Co-op Fixes",
+    "price": "Price"
+  },
+  "ui": {
+    "language": "Language",
+    "adLabel": "Advertisement",
+    "relatedHeading": "Related Big Walk guides",
+    "stepsHeading": "Step-by-step",
+    "faqHeading": "Frequently asked questions",
+    "videoLabel": "Video guide",
+    "breadcrumbHome": "Home",
+    "footerDisclaimer": "WalkHub is a fan-made guide hub and is not affiliated with the developer or publisher of Big Walk. Big Walk is a trademark of its respective owner."
+  },
+  "slugs": {
+    "home": "",
+    "guide": "guide",
+    "tools": "tools",
+    "redTower": "red-tower",
+    "blackTower": "black-tower",
+    "greenTower": "green-tower",
+    "blueTower": "blue-tower",
+    "yellowTower": "yellow-tower",
+    "coop": "co-op-not-working",
+    "achievements": "achievements",
+    "price": "price",
+    "vsWitness": "vs-witness",
+    "vsIttakesTwo": "vs-it-takes-two",
+    "vsGrounded": "vs-grounded-2"
+  },
+  "pages": {
+    "redTower": {
+      "slug": "red-tower",
+      "title": "Big Walk Red Tower Puzzle Solution: Step-by-Step + Map",
+      "desc": "Stuck on the Red Tower in Big Walk? Full puzzle solution with map location, the anchor-plate walk order, and the bridge trap that fails most runs.",
+      "keywords": [
+        "big walk red tower puzzle",
+        "big walk red tower solution",
+        "big walk red tower location",
+        "how to solve red tower big walk",
+        "big walk red tower stuck"
+      ],
+      "h1": "Big Walk Red Tower Puzzle Solution",
+      "lead": "The Red Tower is the intro tower. The solution is: line up on the red pad, walk the lead walker onto the pressure plate, then have the rest cross one at a time so the bridge stays down. The run fails if two walkers step off the plate together. Below you will find the exact map location, the full walk order, and the mistakes that end most attempts.",
+      "sections": [
+        {
+          "h2": "Overview",
+          "paras": [
+            "The Red Tower teaches the core loop of Big Walk: a line of walkers, pressure plates, and bridges that only stay down while weight is on them. Treat it as the tutorial for every tower after it. Nothing here is timed, and nothing respawns against you — the only enemy is a group that moves before it has a plan.",
+            "The puzzle has three active parts: the red start pad at the base, the bridge it lowers, and the anchor plate on the far side. Understand how those three trade weight between them and the tower solves itself."
+          ],
+          "img": {
+            "src": "/images/red-tower-map.png",
+            "alt": "Big Walk Red Tower puzzle map — start pad, anchor plate and single-file bridge order"
+          }
+        },
+        {
+          "h2": "Where the Red Tower is on the map",
+          "paras": [
+            "The Red Tower is the first color tower on the main walk. From the starting meadow, follow the path out of the tutorial stretch and look for the red beacon glowing on the horizon. The tower stands at the top of a short rise, and the red pressure pad sits directly at its base, so you cannot miss the trigger once you arrive.",
+            "Because it comes first, the game uses the approach to teach you two habits worth keeping for the whole run: walk as a group instead of scattering, and read the ground for plates before you step onto a bridge. Every later tower assumes you learned both here.",
+            "If the beacon is not visible, you have walked off the main path — turn back toward the tutorial gate and the red glow comes back into view within a few steps."
+          ]
+        },
+        {
+          "h2": "What you need",
+          "list": [
+            "At least 2 walkers (the puzzle is solvable solo but built for co-op).",
+            "One walker willing to be the \"anchor\" who never leaves the plate.",
+            "A voice call or quick chat agreement on the crossing order before anyone steps on the pad."
+          ]
+        },
+        {
+          "h2": "Solo vs co-op strategy",
+          "paras": [
+            "Big Walk scales its puzzles to whoever is walking, and the Red Tower is the clearest example. The layout never changes; only the number of walkers you have to coordinate does. Pick the version below that matches your group and follow it exactly on your first attempt."
+          ]
+        },
+        {
+          "h3": "Solo",
+          "paras": [
+            "Alone, you play every role yourself. Step on the red pad to drop the bridge, then cross at a steady pace and park on the anchor plate. The margin is tighter because there is no second walker to hold weight while you reposition, so move deliberately and never jump on the bridge — a bounce off the plate is the most common solo fail."
+          ]
+        },
+        {
+          "h3": "Co-op",
+          "paras": [
+            "In a group, split into two roles before you start. The anchor crosses first and commits to the far plate for the entire run. Everyone else crosses single-file behind them, one walker fully across before the next steps on. Two walkers work fine; four or more just means a longer queue, not a harder puzzle.",
+            "If you are playing on Switch 2 or PS5 with local friends, put the calmest player on anchor duty — it is a boring job, and that is the point. On Steam with remote players, ping the far plate in chat before the first crossing so the role is locked in writing."
+          ]
+        },
+        {
+          "h2": "The three mistakes that fail most runs",
+          "list": [
+            "Rushing the bridge together. The moment the plate empties the bridge retracts and everyone on it falls. The fix is discipline: the anchor holds, the others cross single-file.",
+            "No assigned anchor. If nobody owns the far plate, the first walker across tends to wander off to explore, the bridge snaps back, and the rest of the group is stranded on the wrong side. Name the anchor out loud before the pad is touched.",
+            "Leaving a straggler behind. Groups that regroup at the top without checking the count force someone to backtrack across a live bridge. Count heads at the far side before climbing."
+          ],
+          "ordered": true,
+          "paras": [
+            "Notice what all three have in common: none of them are puzzle-solving errors. The Red Tower fails on communication, not logic. Slow down, say the plan out loud, and the tower becomes a two-minute formality."
+          ]
+        },
+        {
+          "h2": "A clean-run checklist",
+          "list": [
+            "Assign the anchor before you start — call it out in voice chat.",
+            "Agree on the crossing order while everyone is still on the pad.",
+            "Anchor crosses first and does not move again until the chime.",
+            "Cross one at a time; wait for a full stop before the next walker steps on.",
+            "If a walker falls, the anchor stays; the fallen walker respawns at the pad.",
+            "Regroup and count walkers at the far side before the climb.",
+            "Trigger the exit plate as a full line for the clean completion."
+          ],
+          "ordered": true
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Where is the Red Tower in Big Walk?",
+          "a": "The Red Tower is the first color tower you reach on the main walk, shortly after the tutorial stretch. Follow the red beacon on the horizon from the starting meadow; the tower sits at the end of a short rise with the red pressure pad at its base."
+        },
+        {
+          "q": "What is the Red Tower solution in Big Walk?",
+          "a": "Line up on the red pad to lower the bridge, send one walker across to hold the far anchor plate, then cross the rest single-file. Finish by standing the full group on the exit plate at the top."
+        },
+        {
+          "q": "Why does the Red Tower bridge keep retracting?",
+          "a": "The bridge is held by a pressure plate. If the plate is empty — e.g. two walkers step off at once — it retracts. Keep at least one walker on a plate at all times: first the start pad, then the anchor plate on the far side."
+        },
+        {
+          "q": "Can you solve the Red Tower solo?",
+          "a": "Yes. A single walker can lower the bridge, sprint across, and hold the anchor plate alone. It is slower and tighter than co-op, but there is no hard player-count requirement."
+        },
+        {
+          "q": "Is the Red Tower required?",
+          "a": "It is the gateway tower; completing it opens the path to the later towers, so yes. It also teaches the pressure-plate logic that the Black, Green, Blue and Yellow towers all build on."
+        },
+        {
+          "q": "What happens if a walker falls off the bridge?",
+          "a": "The fallen walker respawns at the start pad. The anchor on the far plate should not move; the respawned walker simply crosses again once the bridge is stable."
+        },
+        {
+          "q": "How long does the Red Tower take?",
+          "a": "A coordinated group clears it in a few minutes. Most of the time goes to agreeing on the anchor and the crossing order, not the puzzle itself."
+        }
+      ],
+      "howTo": {
+        "name": "Solve the Big Walk Red Tower",
+        "steps": [
+          {
+            "title": "Stand on the red pad",
+            "text": "All walkers gather on the red pressure pad at the tower base. While the pad has weight on it, the first bridge stays lowered. Do not let anyone wander off before the order is agreed."
+          },
+          {
+            "title": "Send the lead walker across",
+            "text": "The front walker steps onto the bridge and stops on the far anchor plate. That plate holds the bridge down for the group, so the rest of the pad can safely empty."
+          },
+          {
+            "title": "Cross one at a time",
+            "text": "Remaining walkers follow single-file, each waiting until the walker ahead is fully across. Never let both plates sit empty at the same moment or the bridge retracts and drops whoever is on it."
+          },
+          {
+            "title": "Regroup before the climb",
+            "text": "Wait at the far side until every walker is across. A straggler left on the start pad means someone has to backtrack, which is where most resets happen."
+          },
+          {
+            "title": "Climb as a line",
+            "text": "Move up the tower together and keep the group tight. The Red Tower has no timer, so there is no reason to sprint the stairs."
+          },
+          {
+            "title": "Hit the end plate together",
+            "text": "At the top, the whole line stands on the exit plate at the same time. That triggers the tower's completion chime and opens the path onward."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop",
+        "guide"
+      ]
+    },
+    "blackTower": {
+      "slug": "black-tower",
+      "title": "Big Walk Black Tower Puzzle Solution: Timing Guide",
+      "desc": "Big Walk Black Tower solution: the three-pulse timing gate explained, the exact pulse to cross on, and why groups keep resetting. Step-by-step with diagram.",
+      "keywords": [
+        "big walk black tower puzzle",
+        "big walk black tower solution",
+        "how to solve black tower big walk",
+        "big walk black tower timing"
+      ],
+      "h1": "Big Walk Black Tower Puzzle Solution",
+      "lead": "The Black Tower adds a timing gate: lights pulse in a set order and the walkers must step in rhythm. The solution is to let the anchor count two full pulses, then cross on the third — do not move on the first pulse or the gate resets.",
+      "sections": [
+        {
+          "h2": "Overview",
+          "paras": [
+            "The Black Tower is where Big Walk stops holding your hand. The plate from the Red Tower is still there, but now a pulsing light gate decides when you are allowed to cross. Step on the wrong beat and the gate resets, which turns a simple walk into the first puzzle most groups actually have to solve together.",
+            "The fix is one rule: count two pulses, move on the third. Everything below is about making that rule stick when four walkers are shouting over each other."
+          ],
+          "img": {
+            "src": "/images/black-tower-map.png",
+            "alt": "Big Walk Black Tower pulse timing map — move on the third pulse"
+          }
+        },
+        {
+          "h2": "The pulse pattern explained",
+          "paras": [
+            "The black lights at the gate pulse in a fixed three-beat cycle. The first two pulses are warning beats — they light the gate but do not open it. The third pulse is the open window, and it is the only moment a crossing registers.",
+            "Two details matter. First, the cycle never changes: no matter how many times you reset, the order is always one-two-open. Second, the gate reads your position on the beat, not your speed. A slow walker who steps on the third pulse crosses cleanly; a sprinter who launches on the first pulse resets the gate for everyone.",
+            "If the pattern feels hard to read at first, listen instead of looking: the pulses have an audible tick, and the third beat lands with a deeper tone. Many players keep the rhythm by ear once they notice it."
+          ]
+        },
+        {
+          "h2": "The timing trick",
+          "paras": [
+            "New groups panic and move on the first pulse. The gate only registers a crossing on the third pulse of each cycle, so patience beats speed. Let the anchor set the rhythm and the rest mirror it.",
+            "The cleanest method is a spoken count. The anchor watches the lights and calls \"one, two, go\" — with \"go\" landing exactly on the third pulse. Everyone else walks on \"go\" and ignores the lights entirely. Splitting the job this way removes the most common failure: two walkers reading the same lights at slightly different delays."
+          ]
+        },
+        {
+          "h2": "A solo timing drill",
+          "paras": [
+            "If your group keeps failing, stop crossing and drill the beat instead. Stand at the gate edge where a step would trigger the reset, and run this loop five times:",
+            "Five clean reps is enough for the rhythm to stick. It feels slow, but it is faster than another ten minutes of group resets, and once one player owns the beat they can anchor the count for everyone else."
+          ],
+          "list": [
+            "Watch the pulses and count \"one, two\" in your head.",
+            "On the third pulse, take one step forward and stop.",
+            "Check whether the gate flashed a crossing or a reset.",
+            "Step back and repeat until you land five clean beats in a row."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Why groups keep resetting",
+          "paras": [
+            "Almost every failed Black Tower run comes down to the same three causes:",
+            "Notice what is not on the list: the tower itself. The Black Tower never changes its pattern, so a group that resets ten times is fighting its own coordination, not the puzzle."
+          ],
+          "list": [
+            "Moving on the first pulse. The opening flash looks like a green light. It is not — it is the start of the count.",
+            "Everyone reading the lights alone. Four private counts drift apart. Use one anchor and one shared call.",
+            "Chained panic steps. One walker flinches early, the next copies them, and the gate resets mid-line. Leave a gap between walkers so a flinch does not spread."
+          ]
+        },
+        {
+          "h2": "Black Tower vs Red Tower difficulty",
+          "paras": [
+            "The Red Tower teaches weight: keep a body on the plate and the bridge stays down. The Black Tower keeps that plate and adds rhythm on top, which is why it lands as the first real difficulty spike in Big Walk. Red forgives slow, careful play; Black punishes fast, careless play.",
+            "The skills transfer, though. A group that learned to assign an anchor in Red already has the habit the Black Tower demands — the only new muscle is counting to three before moving. Most parties clear Red on the first attempt and need two or three tries for Black, and that gap is entirely the timing gate."
+          ]
+        },
+        {
+          "h2": "Tips",
+          "list": [
+            "Call the count out loud in co-op so everyone moves together.",
+            "If someone mistimes, the anchor holds and the group retries — no full reset needed.",
+            "Watch the top walker; their position tells late joiners when the gate is open.",
+            "Cross single-file with a gap between walkers so one early step cannot chain.",
+            "Run the solo drill first if anyone is new — five clean beats beats ten resets.",
+            "Ignore the walkway length; the pulse timing is identical at every crossing."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Why does the Black Tower keep resetting?",
+          "a": "The gate resets if a walker moves on the wrong pulse. Count two full pulses, move on the third, and the gate stays open."
+        },
+        {
+          "q": "Can the Black Tower be done solo?",
+          "a": "Yes — the timing is the same, you just cross the plate yourself on the open pulse. Many players actually find the rhythm easier alone because there is no second walker drifting off-beat."
+        },
+        {
+          "q": "Is the Black Tower harder than Red?",
+          "a": "It adds rhythm on top of the plate mechanic, so most players find it the first real difficulty spike."
+        },
+        {
+          "q": "Does the Black Tower pulse pattern ever change?",
+          "a": "No. The three-pulse cycle is fixed for the whole tower. The only thing that changes is your position — later crossings feel faster because the walkway is longer, not because the lights speed up."
+        },
+        {
+          "q": "How many players do you need for the Black Tower?",
+          "a": "The puzzle scales to your party size like the rest of Big Walk. Two players is the comfortable minimum: one anchors the count while the other crosses on the open pulse."
+        },
+        {
+          "q": "How long is the gate open on the third pulse?",
+          "a": "Long enough for a single-file line to step through if everyone moves on the call. It is not a reaction test — if you are already walking on the third pulse, you will make it with room to spare."
+        },
+        {
+          "q": "What is the Black Tower in Big Walk?",
+          "a": "One of the five color towers in House House's co-op puzzle game. It builds on the Red Tower's pressure-plate idea by adding a timed light gate, and it is the first tower most groups have to retry."
+        },
+        {
+          "q": "Do you need voice chat for the Black Tower?",
+          "a": "It helps a lot. The whole solution rests on one shared count, so a spoken 'one, two, go' is far more reliable than watching each other move. Text callouts work if they are sent early."
+        }
+      ],
+      "howTo": {
+        "name": "Solve the Big Walk Black Tower",
+        "steps": [
+          {
+            "title": "Watch one full cycle",
+            "text": "The black lights pulse in a fixed pattern. Stand still at the gate and learn the order before anyone moves — the cycle repeats identically, so one clean watch tells you everything."
+          },
+          {
+            "title": "Assign the anchor",
+            "text": "Pick one walker to lead the count. Everyone else stays silent and follows the anchor's rhythm instead of reading the lights themselves."
+          },
+          {
+            "title": "Anchor counts two pulses",
+            "text": "The lead walker counts two full pulses out loud, then steps on the third — this is the only beat where the gate registers a crossing."
+          },
+          {
+            "title": "Cross on the open pulse",
+            "text": "Remaining walkers follow on the same open pulse, single-file, with a small gap between each walker so one early step does not chain into the next."
+          },
+          {
+            "title": "Recover from a mistimed step",
+            "text": "If someone moves on the wrong pulse the gate resets, but the run does not. The anchor holds position, waits for the cycle to restart, and calls the count again."
+          },
+          {
+            "title": "Regroup at the top",
+            "text": "Once across, hold position so late walkers can read your line and time their own crossing off the same open pulse."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop"
+      ]
+    },
+    "greenTower": {
+      "slug": "green-tower",
+      "title": "Big Walk Green Tower Puzzle Solution: Step-by-Step",
+      "desc": "Big Walk Green Tower solution: route the beam to both receivers in the right order, extend the two bridges, and the mistakes that drop them.",
+      "keywords": [
+        "big walk green tower puzzle",
+        "big walk green tower solution",
+        "how to solve green tower big walk",
+        "green tower puzzles big walk"
+      ],
+      "h1": "Big Walk Green Tower Puzzle Solution",
+      "lead": "The Green Tower uses a light-and-bridge mechanic: you route a green beam onto a receiver to extend a bridge. The Big Walk Green Tower solution is to aim the beam at the near receiver first (extends bridge 1), cross to the middle platform, then rotate it to the far receiver (extends bridge 2) — never both at once. It is a routing puzzle, not a timing challenge.",
+      "sections": [
+        {
+          "h2": "Overview",
+          "paras": [
+            "The Green Tower swaps the pressure plate for a light beam. Instead of weight, you route a beam to receivers that extend bridges. The catch is the beam only reaches one receiver per angle, so the whole Big Walk Green Tower puzzle is about the order you light things in, not speed. The fastest clean route is always the same: near receiver, cross, far receiver, cross, exit plate as a full line."
+          ],
+          "img": {
+            "src": "/images/green-tower-map.png",
+            "alt": "Big Walk Green Tower beam routing map — near receiver first, far receiver second"
+          }
+        },
+        {
+          "h2": "How the beam and receivers work",
+          "paras": [
+            "A reflector at the tower base throws a green beam across the gap. Two receivers sit on the far side — a near one and a far one — and each receiver powers exactly one bridge. While the beam touches a receiver, its bridge stays extended. The moment the beam leaves, that bridge retracts.",
+            "The reflector rotates, but the beam is a single straight line. It can lock onto one receiver per angle, never both at once. There is no timer and no drain: a receiver holds for as long as you keep the beam on it. That is what makes the Green Tower a routing puzzle rather than a reflex test.",
+            "You will know the beam has locked when the receiver lights up and the bridge slides out with a solid thunk. A near miss still looks close — the beam grazes the edge and nothing extends. If a bridge will not come out, trust the bridge, not your eyes: nudge the reflector until the receiver visibly catches."
+          ]
+        },
+        {
+          "h3": "What the receivers actually power",
+          "paras": [
+            "The near receiver extends bridge 1, which runs from the base to the middle platform. The far receiver extends bridge 2, which runs from the middle platform to the summit. Bridge 2 is only useful once your group is standing on the middle platform — lighting it early gives you a bridge nobody can reach."
+          ]
+        },
+        {
+          "h2": "The two-bridge order and why both never stay up",
+          "paras": [
+            "Players try to light both receivers and wonder why the first bridge drops. You extend one, cross, then re-aim. It is a sequence, not a simultaneous solve. Because one beam feeds one receiver, holding bridge 1 and bridge 2 together is impossible by design — the tower is built so the group commits to each crossing fully before starting the next.",
+            "The safe rhythm is: lock the near receiver, walk everyone across bridge 1, then deliberately swing the beam to the far receiver. Bridge 1 retracting behind you is not a failure — it is the mechanic working. Once bridge 2 is up, cross it and stack the full line on the exit plate."
+          ]
+        },
+        {
+          "h2": "Who should control the reflector",
+          "paras": [
+            "One walker controls the reflector; the rest stay put until told. Pick the controller before the run starts and say it out loud in voice chat. The ideal controller is whoever is calmest about standing still — the job is ninety percent holding an angle and ten percent rotating on cue.",
+            "The controller crosses last on each bridge, after everyone else is safely over, and re-takes the reflector on the middle platform for the second aim. Nobody else touches the reflector mid-run. Two players fighting over the rotation is the single most common way a clean Big Walk Green Tower solution falls apart.",
+            "Everyone else has one job: call crossings. A simple \"over\" from each walker tells the controller the bridge is clear to drop. Silent groups make the controller guess, and guessing is when beams get moved early."
+          ]
+        },
+        {
+          "h2": "Common routing mistakes",
+          "list": [
+            "Aiming at the far receiver first. Bridge 2 starts at the middle platform, so from the base it is a bridge to nowhere.",
+            "Moving the beam while someone is mid-cross. If the beam drops, the controller re-aims before anyone moves again.",
+            "Sending walkers across one at a time with long gaps. Cross as a group so a single re-aim never strands half the line.",
+            "Walking off the exit plate to \"help\" a straggler. The exit plate only registers with the full line present, so wait for the last walker instead.",
+            "Panic-rotating after bridge 1 retracts. That retraction is supposed to happen — keep the beam steady on the far receiver."
+          ]
+        },
+        {
+          "h2": "Tips for a clean run",
+          "list": [
+            "One walker controls the reflector; the rest stay put until told.",
+            "If the beam drops mid-cross, the controller re-aims before anyone moves.",
+            "The exit plate only registers with the full line present.",
+            "Treat the Green Tower as practice for reading receiver order — later towers reuse the same one-beam-one-target rule under harsher conditions."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Why won't both Green Tower bridges stay up?",
+          "a": "The beam only powers one receiver at a time, and each receiver holds exactly one bridge. Lighting the far receiver drops the near one, so bridge 1 retracts. Extend and cross bridge 1, then re-aim for bridge 2 — you cannot hold both."
+        },
+        {
+          "q": "What is the correct Big Walk Green Tower solution order?",
+          "a": "Near receiver first, far receiver second. Aim at the near receiver to extend bridge 1, cross to the middle platform, then rotate the beam to the far receiver to extend bridge 2 and finish the climb."
+        },
+        {
+          "q": "Who aims the beam in co-op?",
+          "a": "Whoever reaches the reflector first. The rest wait on the pad or platform so the beam does not drop, and nobody else touches the reflector until the run is over."
+        },
+        {
+          "q": "What happens if the beam drops while someone is on a bridge?",
+          "a": "The bridge retracts under them. The controller re-aims onto the receiver before anyone moves again, and the fallen walker respawns at the base pad."
+        },
+        {
+          "q": "Is the Green Tower a puzzle or a timing challenge?",
+          "a": "It is a routing puzzle, not timing — much more forgiving than the Black Tower once you see the two-step order. There is no countdown; the beam holds a receiver for as long as you leave it aimed."
+        },
+        {
+          "q": "Why won't the Green Tower exit plate trigger?",
+          "a": "The exit plate only registers with the full line present. If one walker is still on the middle platform or respawning at the base, wait for them before expecting the completion chime."
+        },
+        {
+          "q": "Can you skip the middle platform by aiming at the far receiver first?",
+          "a": "No. Bridge 2 starts at the middle platform, so lighting the far receiver from the base gives you a bridge you cannot reach. The near receiver always comes first."
+        }
+      ],
+      "howTo": {
+        "name": "Solve the Big Walk Green Tower",
+        "steps": [
+          {
+            "title": "Gather at the reflector",
+            "text": "Bring the whole group to the reflector at the tower base and agree on who controls it before anyone touches it — swapping mid-puzzle is how runs fail."
+          },
+          {
+            "title": "Aim the beam at the near receiver",
+            "text": "Rotate the reflector until the green beam locks onto the first receiver. You will hear it catch, and bridge 1 extends from the base to the middle platform."
+          },
+          {
+            "title": "Cross bridge 1",
+            "text": "The walkers cross to the middle platform while the beam holds. The controller re-aims before anyone moves if the beam drops mid-cross."
+          },
+          {
+            "title": "Rotate to the far receiver",
+            "text": "From the middle platform, swing the beam off the near receiver and onto the second one. Bridge 1 retracts — that is expected — and bridge 2 extends to the top."
+          },
+          {
+            "title": "Cross bridge 2",
+            "text": "Everyone on the middle platform walks bridge 2 to the summit while the beam stays locked on the far receiver."
+          },
+          {
+            "title": "Finish the climb",
+            "text": "Cross bridge 2 and stand the full line on the exit plate to complete the Green Tower. The plate only registers when every walker is present."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "blackTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop"
+      ]
+    },
+    "blueTower": {
+      "slug": "blue-tower",
+      "title": "Big Walk Blue Tower Puzzle Solution: Step-by-Step Guide",
+      "desc": "Stuck on the Blue Tower in Big Walk? Full puzzle solution: valve water levels, the mid-state ledge rule, and the full-drain trap — with diagram.",
+      "keywords": [
+        "big walk blue tower puzzle",
+        "big walk blue tower solution",
+        "blue tower puzzles",
+        "how to solve blue tower big walk",
+        "big walk blue tower stuck"
+      ],
+      "h1": "Big Walk Blue Tower Puzzle Solution",
+      "lead": "The Blue Tower is a water-level puzzle: lowering a gate raises the walkway. The solution is to send one walker down to the valve, hold the walkway at mid-level, and let the rest cross before you fully drain it — drain it completely and the crossing ledge vanishes.",
+      "sections": [
+        {
+          "h2": "Overview",
+          "paras": [
+            "The Blue Tower introduces a vertical water puzzle. Unlike the plate and beam towers, success depends on how much you change the environment, not just the order. One valve controls the water level, and the water level decides which ledges exist. Get the level right once and the tower is a short walk; get it wrong and you strand your own team on the wrong side of a gap you created.",
+            "This is also the first tower where one player spends most of the run standing still. That is by design. Big Walk rewards groups that can split jobs and trust each other, and the Blue Tower is the clearest test of that trust in the game: the crossing walkers cannot see the valve, and the valve walker cannot see the ledge."
+          ],
+          "img": {
+            "src": "/images/blue-tower-map.png",
+            "alt": "Big Walk Blue Tower water level map — full, mid and empty states"
+          }
+        },
+        {
+          "h2": "The three water states",
+          "paras": [
+            "The Blue Tower has exactly three water states, and each one changes what you can stand on:",
+            "The whole puzzle is one decision: stop at mid. Everything else is walking. Groups that wipe here almost always understand the mechanic fine — they just cannot resist turning the valve one more notch to \"make it safer,\" and the tower punishes exactly that instinct. If your group keeps failing, watch the water, not the walkers: every Blue Tower failure can be traced back to a valve turn that should not have happened."
+          ],
+          "list": [
+            "Full. The starting state. The lower area is underwater, the crossing ledge is submerged, and nobody can go anywhere useful. The only productive move in this state is getting a walker down to the valve.",
+            "Mid. The solving state. The water drops enough to expose the crossing ledge between the two sides, but stays high enough that the ledge still spans the gap. The valve walker below is not flooded, and the crossing route above is open. Almost the entire run happens in this state.",
+            "Empty. The failure state. With no water left, the crossing ledge loses its span and vanishes. Any walker still on the wrong side is stuck, and the tower has to be refilled to recover."
+          ]
+        },
+        {
+          "h2": "The valve walker role",
+          "paras": [
+            "Every Blue Tower run needs one designated valve walker. This player drops to the lowest point, turns the valve from full to mid, and then does the hardest thing in co-op: nothing. They hold position while the rest of the group crosses above them, and they resist every urge to help.",
+            "Two rules keep the valve walker alive. First, never raise the water while they are below — full water floods the valve area. Second, never finish the drain while they are below — at empty, their climb route changes and they cannot rejoin until the tower is complete. Once the line hits the exit plate up top, the valve walker climbs the now-drained side and the run is done.",
+            "In voice chat, treat the valve like a loaded weapon: nobody touches it without calling it out, and nobody calls it out while a walker is mid-crossing. A simple \"level set, crossing now\" and \"clear, all across\" is the entire communication protocol the tower needs."
+          ]
+        },
+        {
+          "h2": "Why a full drain fails the run",
+          "paras": [
+            "The instinct is to drain everything for a clear path. It feels safe — no water, no drowning, no problem. But the Blue Tower is built so the crossing ledge depends on the water holding it in place. At mid-level the ledge is exposed and walkable; at empty the span collapses and the two sides of the tower are no longer connected.",
+            "This is the single most common Blue Tower wipe: the group crosses cleanly, someone \"helpfully\" opens the valve all the way, and the walker still on the far side — usually the valve walker themselves — has no route back. The fix is discipline, not skill. Stop the valve at mid, announce that the level is set, and leave it alone until the exit plate has been triggered from the upper platform.",
+            "If it happens anyway, the recovery is simple: refill the tower to full, then set mid again from scratch. The states are repeatable and nothing is permanently missable, so treat a bad drain as a reset, not a failed session."
+          ]
+        },
+        {
+          "h2": "Solo Blue Tower route",
+          "paras": [
+            "Playing alone, you do both jobs yourself, in this order:",
+            "Solo is actually more forgiving than co-op here: there is no teammate to drain the water early, and the only timing that matters is your own. The climb back from the valve is the only fiddly part — take it slowly and do not sprint the ledge, because the span is narrow and a fall means refilling from full. Just resist the urge to empty the tower \"for later\" — mid-level is the finish, not a checkpoint.",
+            "One solo-specific note: because you are both valve walker and crosser, you never need the third water state at all. If you find yourself at empty at any point, you have gone one turn too far — refill to full and set mid again."
+          ],
+          "list": [
+            "Drop to the valve and set the water to mid-level.",
+            "Climb back up to the entry side — the mid-level state exposes your return path.",
+            "Cross the ledge to the upper platform, slowly and centered.",
+            "Stand on the exit plate to complete the tower."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Blue Tower co-op callouts",
+          "paras": [
+            "The tower is mechanically simple, so nearly every failure is a communication failure. Agree on three short callouts before anyone drops down:",
+            "With three or four walkers, send the slowest or least confident player across first so the group is not waiting on them at the end. With two walkers the roles are fixed — one valve, one crosser — and the crosser should wait for the \"level set\" callout before stepping onto the ledge, since the span only appears once the water settles."
+          ],
+          "list": [
+            "\"Setting mid.\" The valve walker is about to turn the valve. Nobody moves until the next callout.",
+            "\"Level set, crossing.\" The ledge is up and walkers are on it. The valve is now untouchable.",
+            "\"All across.\" Everyone is on the upper platform and the exit plate is next. Only now can the valve walker leave their post and climb."
+          ]
+        },
+        {
+          "h2": "Common Blue Tower mistakes",
+          "paras": [
+            "Beyond the full drain, three smaller errors account for most failed attempts. First, the whole group dropping down together: if everyone is at the valve, nobody is in position to cross when the ledge appears, and someone has to climb back anyway. Second, crossing before the water settles — the ledge only becomes solid at mid-level, so stepping out during the transition drops you into the gap. Third, the valve walker wandering off to \"explore\" the drained lower area while the group is mid-crossing; if they bump the valve on the way, the run is over.",
+            "None of these are mechanics problems. They are patience problems, and they all have the same fix: one job per walker, one change at a time, and a callout before every change."
+          ]
+        },
+        {
+          "h2": "Tips",
+          "list": [
+            "Designate the valve walker before starting, and say it out loud in voice chat.",
+            "Cross on mid-level; do not touch the valve again until the line is up top.",
+            "Cross single-file on the ledge so a bumped walker does not knock others off.",
+            "If a run goes wrong, refill to full and reset — the three states are repeatable.",
+            "The exit plate completes the tower for the whole group, including the valve walker still below."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Why does the Blue Tower crossing ledge disappear?",
+          "a": "The ledge only exists at mid-level. The water physically holds the span in place, so if you fully drain the tower the ledge that connects the two sides is gone. Hold the level at mid and keep it exposed until every walker has crossed to the upper platform."
+        },
+        {
+          "q": "What does the valve do in the Blue Tower?",
+          "a": "The valve sets the water height, and the water height decides which ledges are walkable. Full water submerges everything, mid-level exposes the crossing ledge, and empty removes it completely. Mid-level is the sweet spot — set it once and leave it alone."
+        },
+        {
+          "q": "Can the Blue Tower fail the whole group?",
+          "a": "Only if the water is drained while walkers still need the ledge. Keep the valve walker isolated at the valve, communicate before any change is made, and the rest of the group crosses safely. A stranded walker respawns, but the run loses its clean completion."
+        },
+        {
+          "q": "Who should be the valve walker?",
+          "a": "Pick the most patient player in the group. The valve walker does almost nothing for most of the run — they set the level once, hold it, and climb out last. It is a low-action, high-responsibility role, so give it to someone who will not get bored and improvise."
+        },
+        {
+          "q": "Can you solve the Blue Tower solo?",
+          "a": "Yes. Set the valve to mid-level yourself, climb back up to the entry side, cross the ledge, and hit the exit plate. It is slower than co-op because one walker does both jobs, but nothing in the puzzle strictly requires a second player."
+        },
+        {
+          "q": "What happens if the valve walker gets flooded?",
+          "a": "The valve walker only floods if the water is left at full or raised again while they are down below. Set mid-level before sending anyone else across and they stay safe for the entire run. If it happens anyway, they respawn and you reset the level."
+        },
+        {
+          "q": "Is the Blue Tower required to finish Big Walk?",
+          "a": "Yes. The Blue Tower is one of the five color towers on the main walk in House House's co-op puzzler, and completing all five opens the route to the end of the game. There is no skip or alternate path around it."
+        }
+      ],
+      "howTo": {
+        "name": "Solve the Big Walk Blue Tower",
+        "steps": [
+          {
+            "title": "Send one walker to the valve",
+            "text": "The lowest walker drops down and reaches the water valve that controls the tower's level. Everyone else stays put on the entry side and waits."
+          },
+          {
+            "title": "Hold at mid-level",
+            "text": "Turn the valve only to mid — this exposes the crossing ledge without flooding the valve walker below or draining the path away entirely."
+          },
+          {
+            "title": "Cross on the ledge",
+            "text": "Remaining walkers use the mid-level ledge to reach the upper platform. Cross single-file so nobody gets bumped off the narrow span."
+          },
+          {
+            "title": "Do not touch the valve",
+            "text": "While anyone is mid-crossing the valve walker holds position and changes nothing. One extra turn drops the water, and the ledge drops with it."
+          },
+          {
+            "title": "Complete from the top",
+            "text": "From the upper platform, the line hits the exit plate; only then does the valve walker climb the now-drained side to rejoin the group."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "yellowTower",
+        "tools",
+        "coop"
+      ]
+    },
+    "yellowTower": {
+      "slug": "yellow-tower",
+      "title": "Big Walk Yellow Tower Puzzle Solution: Finale Guide",
+      "desc": "Big Walk Yellow Tower solution: the final tower solved bottom-up — plate, beam, then water — plus role assignments and reset recovery.",
+      "keywords": [
+        "big walk yellow tower puzzle",
+        "big walk yellow tower solution",
+        "how to solve yellow tower big walk",
+        "big walk final tower"
+      ],
+      "h1": "Big Walk Yellow Tower Puzzle Solution",
+      "lead": "The Yellow Tower is the finale and combines every prior mechanic: plate, beam and water in one climb. The solution is to solve it bottom-up — plate first for the base bridge, beam for the middle, water last for the summit — and only hit the exit plate as a full line.",
+      "sections": [
+        {
+          "h2": "Overview",
+          "paras": [
+            "The Yellow Tower is the victory lap. It is not a new mechanic — it is all four previous towers stacked. If you solved Red, Green and Blue, you already know every move; the challenge is doing them in sequence without a reset. The climb has three clear floors: a plate section at the base, a beam section in the middle, and a water section guarding the summit. Each floor ends with a bridge or ledge that carries the group upward, and the summit plate at the very top is the finish line for the whole walk."
+          ],
+          "img": {
+            "src": "/images/yellow-tower-map.png",
+            "alt": "Big Walk Yellow Tower finale map — plate, beam and water bottom-up order"
+          }
+        },
+        {
+          "h2": "Why the order is bottom-up",
+          "paras": [
+            "Each mechanic in the Yellow Tower extends exactly one bridge, and every bridge hangs off the section below it. The base bridge comes from the red plate, the middle bridge from the yellow beam receiver, and the final ledge from the water valve. Because each section is physically supported by the last one, triggering a mechanic early does not save time — it drops the bridge under you and forces a re-climb.",
+            "The practical rule is simple: never touch the next mechanism until the bridge in front of you is fully extended and stable. The beam runner should wait for the anchor's call that the base plate is held, and the valve handler should wait until the middle bridge is walkable. Groups that rush the order are the ones posting clips of the whole line falling into the water.",
+            "Think of it as three separate tower solutions stitched together. You would not skip steps in the Red, Green or Blue towers, and the Yellow Tower punishes exactly the same shortcuts."
+          ]
+        },
+        {
+          "h2": "Role assignment for a full group",
+          "paras": [
+            "The Yellow Tower is much easier when everyone has a named job before the climb starts. Call the roles out in voice chat while you are still at the base."
+          ]
+        },
+        {
+          "h3": "The anchor",
+          "paras": [
+            "The anchor owns the red plate at the base. They step on, stay on, and do not move for any reason until the middle bridge is stable and the group calls the all-clear. This is the same job as the Red Tower anchor, and it is the single most important role in the tower — if the anchor leaves early, the base bridge retracts and everyone below the middle section falls."
+          ]
+        },
+        {
+          "h3": "The beam runner",
+          "paras": [
+            "The beam runner crosses the base bridge first and routes the yellow beam to the middle receiver. This is pure Green Tower muscle memory: position the beam, confirm the receiver lights up, and hold until the second bridge extends. The beam runner should be your most confident puzzle player, since they work alone while the rest of the group waits."
+          ]
+        },
+        {
+          "h3": "The valve handler",
+          "paras": [
+            "The valve handler waits at mid-level and turns the valve once the middle bridge is confirmed. The rising water exposes the final ledge, exactly as it did in the Blue Tower. After the ledge appears, the valve handler rejoins the line for the final climb."
+          ]
+        },
+        {
+          "h3": "Everyone else",
+          "paras": [
+            "Remaining walkers have one job: stay out of the way and cross in order. Follow single file, never overtake the role players, and wait for a verbal confirmation before stepping onto any new bridge."
+          ]
+        },
+        {
+          "h2": "Recovering from a mid-tower reset",
+          "paras": [
+            "Resets happen. A walker slips, someone steps off a plate early, or the beam gets knocked out of alignment — and part of the group ends up back at a lower floor. The key is that a reset is rarely total. Any bridge that was stabilized stays up as long as its mechanism is still held, so a fall usually costs you one section, not the whole tower.",
+            "When someone falls, do not scatter. The anchor keeps holding the base plate no matter what — that is the one position that must never be abandoned. The fallen walker respawns lower down and re-climbs along the bridges that are still up. Everyone else freezes in place until the line is whole again.",
+            "If the reset cascaded and a bridge actually retracted, just re-solve that one section in the same bottom-up order: plate, then beam, then valve. Resist the urge to improvise a new sequence under pressure — the tower does not change, and the order that worked the first time works again."
+          ]
+        },
+        {
+          "h2": "What completing Yellow unlocks",
+          "paras": [
+            "Standing on the summit plate as a full line finishes the Yellow Tower and completes the walk itself — this is the ending of Big Walk. The completion chime plays, the finale cutscene rolls, and your group gets the credits together, which is the whole point of House House's co-op design: nobody crosses the finish line alone.",
+            "After the credits you can keep exploring the world with your group, mop up any achievements you missed along the route, or start a fresh walk with new players. If you are chasing 100% completion, check the achievements list for the tower-specific unlocks — several of them only count if the full line was present for the finish."
+          ]
+        },
+        {
+          "h2": "Tips",
+          "list": [
+            "Keep one anchor on the red plate at all times while others handle the beam and valve.",
+            "Confirm each bridge is fully extended and stable before anyone touches the next mechanic.",
+            "Cross single file and never overtake the role players on a bridge.",
+            "If a walker falls, the anchor stays put — the fallen walker re-climbs along the bridges still standing.",
+            "Call every state change in voice chat: plate held, beam routed, valve turned, bridge stable.",
+            "Finish as a full line on the summit plate for the clean ending — a partial line does not register."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is the Yellow Tower the last tower?",
+          "a": "Yes — it is the finale of Big Walk and reuses the plate, beam and water mechanics from the earlier towers. Finishing it ends the walk."
+        },
+        {
+          "q": "What order do I solve the Yellow Tower?",
+          "a": "Bottom-up: plate for the base bridge, beam for the middle bridge, water for the summit ledge. Triggering a mechanic before the one below it is stable drops the bridge under you."
+        },
+        {
+          "q": "Why won't the Yellow Tower finish?",
+          "a": "The summit plate only registers with the full line present. If a walker is still climbing, respawning or stranded on a lower level, the tower will not complete. Wait for everyone before stepping on."
+        },
+        {
+          "q": "Do I need to finish the other towers first?",
+          "a": "In practice, yes. The Yellow Tower assumes you already know the Red Tower plate hold, the Green Tower beam routing and the Blue Tower valve timing, and it gives no tutorial prompts for any of them."
+        },
+        {
+          "q": "How many players do I need for the Yellow Tower?",
+          "a": "It is designed for a full co-op line, because the anchor, beam runner and valve handler jobs overlap. Smaller groups can manage by rotating roles, but expect a slower, more deliberate climb."
+        },
+        {
+          "q": "What happens if someone falls near the top?",
+          "a": "A fallen walker respawns lower down, but every bridge you already stabilized stays up as long as the anchor holds the base plate. The fallen walker simply re-climbs and rejoins the line."
+        },
+        {
+          "q": "Is there a time limit on the Yellow Tower?",
+          "a": "No. The only pressure is coordination. Take the climb slowly, confirm each bridge before moving on, and the tower is very forgiving."
+        }
+      ],
+      "howTo": {
+        "name": "Solve the Big Walk Yellow Tower",
+        "steps": [
+          {
+            "title": "Regroup at the base",
+            "text": "Gather the whole group at the foot of the Yellow Tower and assign roles before anyone touches a mechanism: one anchor for the plate, one runner for the beam, one handler for the valve."
+          },
+          {
+            "title": "Plate the base",
+            "text": "The anchor steps onto the red plate and stays there to extend the base bridge — the same hold-the-plate discipline the Red Tower taught."
+          },
+          {
+            "title": "Beam the middle",
+            "text": "With the base bridge stable, the beam runner routes the yellow beam to the middle receiver to extend the second bridge, exactly as in the Green Tower."
+          },
+          {
+            "title": "Water the summit",
+            "text": "The valve handler turns the valve at mid-level to raise the water and expose the final ledge, the move the Blue Tower drilled into you."
+          },
+          {
+            "title": "Climb as a line",
+            "text": "Everyone crosses the three bridges in order, single file, with nobody rushing ahead of the bridge in front of them."
+          },
+          {
+            "title": "Exit on the summit plate",
+            "text": "The whole group stands on the summit plate together to finish the tower and the walk — the finale only registers when the full line is present."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "tools",
+        "coop",
+        "guide"
+      ]
+    },
+    "coop": {
+      "slug": "co-op-not-working",
+      "title": "Big Walk Co-op / Crossplay Not Working? Fixes",
+      "desc": "Big Walk co-op and crossplay troubleshooting: join codes, NAT, platform limits and the Reddit-famous disconnect fixes.",
+      "keywords": [
+        "big walk co op not working",
+        "big walk crossplay",
+        "big walk multiplayer fix"
+      ],
+      "h1": "Big Walk Co-op / Crossplay Not Working? Fixes",
+      "lead": "Big Walk is built for co-op, but the join fails more often than it should. The usual causes: a bad join code, strict NAT, or a platform the session host cannot crossplay with. Run the checks below in order — most disconnects clear at step 2.",
+      "sections": [
+        {
+          "paras": [
+            "Big Walk is a co-op puzzle game from House House, published by Panic, released August 4, 2026 on Steam, Nintendo Switch 2 and PS5. Every walk is a peer-hosted session: one player hosts, everyone else joins their game directly. That design is why connection problems hit harder here than in server-based games — if the host's network rejects you, there is no fallback server to catch the join. The good news: almost every \"Big Walk co-op not working\" report comes down to one of four causes, and all four are fixable in a few minutes."
+          ],
+          "img": {
+            "src": "/images/coop-platforms.png",
+            "alt": "Big Walk co-op fix checklist — restart session, check NAT, match versions, re-add friend"
+          }
+        },
+        {
+          "h2": "Quick fixes that solve most cases",
+          "paras": [
+            "Work through this list before anything deeper. Each check takes under a minute, and together they clear the large majority of failed joins and mid-walk disconnects."
+          ],
+          "list": [
+            "Code rejected: join codes are case-sensitive and expire. Ask the host to regenerate a fresh code and paste it exactly as shown — one wrong character fails with no useful error.",
+            "Stuck on \"connecting\": the peer handshake is blocked, almost always by strict NAT. Switch to a wired connection or enable UPnP on your router, then retry.",
+            "Joins then drops: the link opened but cannot hold. Have the player with the open NAT host the walk and everyone else join them.",
+            "Crossplay invisible: the crossplay toggle is off at one end. Both players must enable it; the setting does not sync between platforms.",
+            "Session not in list at all: version mismatch. Update Big Walk on both machines and fully restart the game, not just resume it."
+          ]
+        },
+        {
+          "h2": "Platform-by-platform checks",
+          "paras": [
+            "Big Walk runs the same peer-to-peer netcode on all three launch platforms, but each system has its own way of breaking it. Jump to the platform that is failing."
+          ]
+        },
+        {
+          "h3": "Steam",
+          "paras": [
+            "On Steam, start by verifying the game files: right-click Big Walk in your library, open Properties, then Installed Files, and run the verification. A partial download after a patch breaks session handshakes without any obvious symptom. Next, check the Windows firewall — the first time Big Walk hosted a session it asked for network access, and if you dismissed that prompt, hosting is blocked until you allow it on private networks. Finally, confirm both players are on the same Steam branch; opting into a beta or test branch makes your version invisible to players on the stable build."
+          ]
+        },
+        {
+          "h3": "PS5",
+          "paras": [
+            "On PS5, check two system-level items first. Open Settings, Network, and run the connection test to see your NAT type — Type 1 and Type 2 are fine, Type 3 is the strict case that causes most failures. Then make sure the console was not woken from rest mode mid-session; resuming Big Walk from rest sometimes leaves the old session half-open, so fully close the game and relaunch. Crossplay lives in the in-game settings, not the system settings, so toggle it inside Big Walk itself. If PSN is having a partial outage, friend-list joins fail even when direct codes still work — use a code instead."
+          ]
+        },
+        {
+          "h3": "Nintendo Switch 2",
+          "paras": [
+            "On Switch 2, open System Settings, Internet, and test the connection to read your NAT grade. Grades A and B behave like open and moderate NAT; C and below will struggle to join peer-hosted walks. Wireless is the other common culprit — the Switch 2 dock sits behind TVs and cabinets, and a weak signal drops peer links mid-walk even when the join succeeded. Move the dock closer to the router or use a wired adapter. As on every platform, both players need the same game version, so check for an update from the home screen before assuming the network is at fault."
+          ]
+        },
+        {
+          "h2": "NAT types explained",
+          "paras": [
+            "NAT — network address translation — decides how easily your machine accepts incoming peer connections, and Big Walk leans on that completely because there are no dedicated servers. Open NAT means your router passes incoming traffic freely; you can host and join anything. Moderate NAT filters some traffic; you can join open hosts reliably but should avoid hosting. Strict NAT blocks unsolicited inbound connections entirely; you will fail most joins and drop the ones that connect.",
+            "To move from strict toward open, do these in order: plug in an ethernet cable, enable UPnP in your router settings, and reboot the router so it rebuilds its table. If your ISP puts you behind carrier-grade NAT — common on mobile hotspots and some apartment networks — no local setting will fully open it, so let a friend with open NAT host instead. A quick way to confirm the fix worked: run your platform's network test again and check the NAT reading before relaunching Big Walk."
+          ]
+        },
+        {
+          "h2": "Join codes and crossplay",
+          "paras": [
+            "Big Walk has no public server browser. Every session is joined with a short code the host generates from the in-game walk menu, and that code is the whole invitation system. Codes are case-sensitive, they expire after a short window, and a code from a dropped session is dead — the host must generate a new one for each attempt. Paste the code rather than typing it; the characters that look alike are the usual failure.",
+            "Crossplay spans Steam, PS5 and Switch 2, but it is opt-in at both ends. If either player has the toggle off, codes from the other platform fail silently — no error, just a refusal. Platform friend lists are a separate system: a PSN friend still needs crossplay on and a valid code to reach your Steam session. When in doubt, both players open settings, confirm crossplay is on, then exchange a fresh code."
+          ]
+        },
+        {
+          "h2": "When nothing works",
+          "paras": [
+            "If you have a fresh code, open or moderate NAT, matching versions, and crossplay on at both ends, and it still fails, isolate the broken side. Bring in a third player: if they can join the host but you cannot, the problem is your network; if nobody can join, it is the host's. Swap who hosts and retest — a walk that fails one direction often works immediately the other way.",
+            "Most \"co-op not working\" threads are solved by the steps above. If yours is not, capture the exact error text, your platform, NAT type, and game version before you post or contact Panic support. \"It doesn't work\" gets guesses; a specific error message gets a fix."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Why won't my friend join my Big Walk session?",
+          "a": "Nine times out of ten it is a stale or mistyped join code, or strict NAT on one side. Regenerate the code and check NAT type first — those two checks solve most reports."
+        },
+        {
+          "q": "Is Big Walk crossplay between PC and console?",
+          "a": "Yes, between Steam, PS5 and Nintendo Switch 2, with crossplay enabled on both accounts. If one player has it off, the join fails silently with no error message."
+        },
+        {
+          "q": "Big Walk keeps disconnecting mid-walk — why?",
+          "a": "A strict or unstable NAT drops the peer link once the session is live. Host on the open-NAT connection and use a wired network for the anchor walker."
+        },
+        {
+          "q": "Why does my Big Walk join code say invalid?",
+          "a": "The code expired or a character was mistyped — codes are case-sensitive. Ask the host to generate a new one and paste it directly instead of typing it by hand."
+        },
+        {
+          "q": "Does Big Walk have dedicated servers?",
+          "a": "No. Every walk is hosted peer-to-peer by one player, which is why the host's NAT type and connection quality decide whether everyone else can join and stay connected."
+        },
+        {
+          "q": "Can I play Big Walk co-op on different game versions?",
+          "a": "No. Mismatched versions will not see each other's sessions at all. Both players need the same patch installed, so update before troubleshooting anything else."
+        },
+        {
+          "q": "What NAT type do I need for Big Walk?",
+          "a": "Open or moderate works for joining; open is strongly recommended for hosting. Strict NAT can sometimes join an open host but will drop or block most sessions."
+        }
+      ],
+      "howTo": {
+        "name": "Fix Big Walk co-op / crossplay",
+        "steps": [
+          {
+            "title": "Re-copy the join code",
+            "text": "Codes are case-sensitive and expire after a short window. Regenerate a fresh code from the host and paste it exactly as shown — one wrong character is a silent fail."
+          },
+          {
+            "title": "Check NAT type",
+            "text": "Strict NAT blocks peer connections. Use a wired connection or enable UPnP on your router; a moderate NAT usually works, strict rarely does."
+          },
+          {
+            "title": "Confirm crossplay is on",
+            "text": "Both players must have crossplay enabled in settings; a console player and a PC player need it on at both ends or the join fails quietly."
+          },
+          {
+            "title": "Match game versions",
+            "text": "If one of you skipped the latest patch, the session browser will not pair you. Update Big Walk on both machines and restart the game fully."
+          },
+          {
+            "title": "Restart the session clean",
+            "text": "Close Big Walk, reboot the router if NAT looked wrong, then have the host start a brand-new walk instead of reviving a dropped one."
+          },
+          {
+            "title": "Host on the stronger connection",
+            "text": "Have the player with open NAT host the walk; everyone else joins. Hosting behind strict NAT is the single most common cause of mid-walk drops."
+          }
+        ]
+      },
+      "related": [
+        "tools",
+        "redTower",
+        "guide",
+        "price",
+        "achievements"
+      ]
+    },
+    "guide": {
+      "slug": "guide",
+      "title": "Big Walk Complete Guide & Walkthrough",
+      "desc": "A complete Big Walk walkthrough: progression, the five towers, co-op basics and what to do first.",
+      "keywords": [
+        "big walk guide",
+        "big walk walkthrough",
+        "big walk tips"
+      ],
+      "h1": "Big Walk Complete Guide & Walkthrough",
+      "lead": "Big Walk is a co-op puzzle walk: a line of players moves together through a hand-built world, solving five color towers. Do the towers in order (Red → Black → Green → Blue → Yellow), keep one anchor on every plate, and you will finish the walk.",
+      "sections": [
+        {
+          "h2": "What to do in your first hour",
+          "paras": [
+            "Big Walk — the co-op walker from Untitled Goose Game studio House House, published by Panic — opens gently, but the first hour decides how smooth the rest of the walk goes. Spend it on three things: learning to move as a line, meeting your tool kit, and clearing the Red Tower."
+          ],
+          "list": [
+            "Walk the tutorial stretch slowly. Practice starting, stopping and turning as a single line. Every tower after it assumes your group can do this on voice chat without thinking.",
+            "Try every tool once. Pick up the Reflector, Valve, Plate Anchor, Counter and Beacon as they appear and fire each one. You will not get new gadgets later, so learn these five now.",
+            "Agree on roles out loud. Before the Red Tower, name one plate anchor and one pulse counter. Runs fall apart when everyone assumes someone else is holding the plate.",
+            "Clear the Red Tower before you log off. It teaches the pressure-plate rule the whole game is built on, and finishing it opens the path to the later towers."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "The five towers at a glance",
+          "paras": [
+            "Each tower teaches one mechanic, and the next tower reuses it. That is why the order below is not optional in practice — skip ahead and you will be missing a skill the puzzle assumes you already have.",
+            "Notice the pattern: the Black, Blue and Yellow towers all stand on the pressure-plate discipline the Red Tower teaches. When a late tower keeps failing, the fix is usually an earlier habit, not a new trick."
+          ],
+          "table": {
+            "headers": [
+              "Tower",
+              "Core mechanic",
+              "The habit that solves it"
+            ],
+            "rows": [
+              [
+                "Red",
+                "Pressure plates and bridges",
+                "One anchor holds the plate while the line crosses single-file"
+              ],
+              [
+                "Black",
+                "Light-pulse timing",
+                "Count two pulses, move on the third"
+              ],
+              [
+                "Green",
+                "Beam routing",
+                "Steer the beam with the Reflector and never drop it mid-cross"
+              ],
+              [
+                "Blue",
+                "Water level",
+                "Hold water at mid-level — a full drain removes the crossing ledge"
+              ],
+              [
+                "Yellow",
+                "All four mechanics combined",
+                "Run every earlier habit at once, finishing as a full line"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Progression",
+          "paras": [
+            "The main walk is linear. You pass through these stages in order:",
+            "The list mirrors the in-game map: each tower's beacon lights up as the previous one falls. You cannot reach the Yellow Tower early, and you would not want to — it assumes you already own every habit on this page."
+          ],
+          "list": [
+            "Tutorial stretch — learn to walk as a line.",
+            "Red Tower — pressure plates and bridges.",
+            "Black Tower — pulse timing.",
+            "Green Tower — beam routing.",
+            "Blue Tower — water level.",
+            "Yellow Tower — all mechanics combined."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Tools primer",
+          "paras": [
+            "Big Walk gives you five tools and no more. None is complicated alone; the wins come from combining them under pressure.",
+            "To practice, replay an early tower with one tool in focus. By the Yellow Tower your group should be combining the Reflector, Valve and Plate Anchor without discussion — that is the whole point of the kit. The full tool-by-tool breakdown, with the combos that break puzzles, lives on the tools page."
+          ],
+          "list": [
+            "Reflector — routes the green beam to receivers; powers the Green and Yellow towers.",
+            "Valve — sets the water level at the Blue and Yellow towers. Stop at mid-level.",
+            "Plate Anchor — the walker who holds a pressure plate so bridges stay down. Assign this role first in every run.",
+            "Counter — tracks the light-pulse rhythm at the Black and Yellow towers: count two, move on the third.",
+            "Beacon — marks the next tower on the map so late joiners can find your line."
+          ]
+        },
+        {
+          "h2": "Setting up co-op the right way",
+          "paras": [
+            "Big Walk is built for co-op on Steam, Nintendo Switch 2 and PlayStation 5, with crossplay between platforms. It is technically solvable solo, but the puzzles assume a role split, so bring at least one friend. Set the session up right and you avoid most of the problems people hit:",
+            "If a join still fails after these steps, work through the co-op fixes page — most disconnects clear at the NAT check."
+          ],
+          "list": [
+            "Host on the strongest connection. The player with open NAT and a wired connection should host the walk.",
+            "Share a fresh join code. Codes are case-sensitive and expire — regenerate one instead of re-reading an old one.",
+            "Turn crossplay on at both ends. A console player and a PC player both need the toggle enabled, or the join fails silently.",
+            "Get everyone on voice chat. Anchor calls and pulse counts are timing-critical; text chat is too slow."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Suggested completion order",
+          "paras": [
+            "Do the towers in the order the game presents them: Red, then Black, Green, Blue, and Yellow last. Each one teaches a mechanic the next reuses, so the intended order is also the easiest order.",
+            "Red teaches plate discipline. Black layers pulse timing on top of a held plate. Green routes a beam across bridges your anchor is holding. Blue makes you manage the water level without abandoning your plates. Yellow then asks for all four habits at once, which is why it feels fair instead of cruel when you reach it last.",
+            "If a tower walls your group, step back one tower and replay it cleanly rather than brute-forcing. After the Yellow Tower, the walk is done — from there it is achievement cleanup, clean replays of each tower, and dropping a Beacon to shepherd late-joining friends through the route."
+          ]
+        },
+        {
+          "h2": "Core habits that win runs",
+          "paras": [
+            "Most failed runs trace back to one of these four habits breaking, not to a puzzle being unfair. Call the habit out loud the moment it slips and the run usually recovers."
+          ],
+          "list": [
+            "Assign a plate anchor before every tower.",
+            "Count two pulses, move on the third (Black/Yellow).",
+            "Hold water at mid-level, never fully drain (Blue/Yellow).",
+            "Finish each tower as a full line on the exit plate."
+          ]
+        },
+        {
+          "h2": "Where to go next",
+          "paras": [
+            "Open any tower page above for the exact step-by-step, or the tools page for the gadget combos. Co-op stuck? See the fixes page. Chasing 100%? The achievements page lists every unlock and the missable ones."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What order should I do the Big Walk towers?",
+          "a": "Red, then Black, Green, Blue, and Yellow last. Each tower teaches a mechanic the next one reuses, so the intended order is also the easiest order."
+        },
+        {
+          "q": "Any first-timer tips?",
+          "a": "Assign one anchor walker to hold every pressure plate, count two light pulses and move on the third at the Black and Yellow towers, and never fully drain the water at Blue. Say roles out loud before each tower."
+        },
+        {
+          "q": "How long is Big Walk?",
+          "a": "A few focused co-op sessions for the main walk — one evening per tower is a relaxed pace. Completionist runs that chase every achievement and clean tower replays take noticeably longer."
+        },
+        {
+          "q": "Can you play Big Walk solo?",
+          "a": "Yes, every tower is solvable solo, but the game is built for co-op. Pressure plates, pulse counts and beam routing all assume a role split, so expect slower, more methodical runs alone."
+        },
+        {
+          "q": "What platforms is Big Walk on?",
+          "a": "Big Walk released on August 4, 2026 for Steam, Nintendo Switch 2 and PlayStation 5. It is developed by House House and published by Panic, and co-op works across platforms with crossplay enabled."
+        },
+        {
+          "q": "Which Big Walk tower is the hardest?",
+          "a": "The Yellow Tower, because it combines plates, pulses, beam routing and water level in one run. The Black Tower fails the most first attempts, though — its pulse timing punishes groups that skip the count."
+        },
+        {
+          "q": "What is the most common reason runs fail?",
+          "a": "An empty pressure plate. The moment the anchor steps off early — or two walkers leave a plate together — bridges retract and the line falls. Anchor discipline fixes more runs than any trick."
+        },
+        {
+          "q": "Do I need voice chat for Big Walk?",
+          "a": "It is not required, but it is close. Anchor calls, pulse counts and water-level stops are all timing-critical, and text chat is too slow. A group on voice clears towers in half the attempts."
+        }
+      ],
+      "videoId": "c30AAvpS6do",
+      "gameWidget": true,
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop",
+        "achievements",
+        "price"
+      ]
+    },
+    "tools": {
+      "slug": "tools",
+      "title": "Big Walk Tools & How to Use Them",
+      "desc": "Every Big Walk tool explained one by one — what each does, when to use it, and the combos that break puzzles.",
+      "keywords": [
+        "big walk tools",
+        "big walk all tools",
+        "big walk how to use tools"
+      ],
+      "h1": "Big Walk Tools & How to Use Them",
+      "lead": "Big Walk gives you a small kit of gadgets. None are complicated alone, but the wins come from combining them. Here is every tool, what it does, when to use it, and the combo that actually breaks a puzzle.",
+      "sections": [
+        {
+          "h2": "All Big Walk tools at a glance",
+          "paras": [
+            "Below is the full kit in one view. Scroll further for the deep dive on each Big Walk tool — what it does, the exact moment to pull it out, and the mistake that wastes it."
+          ]
+        },
+        {
+          "h3": "1. The Reflector",
+          "paras": [
+            "Routes the green beam to receivers; powers the Green and Yellow towers.",
+            "Combo: Pair with a steady anchor so the beam never drops mid-cross."
+          ]
+        },
+        {
+          "h3": "2. The Valve",
+          "paras": [
+            "Sets water level at the Blue and Yellow towers.",
+            "Combo: Stop at mid-level — full drain removes the crossing ledge."
+          ]
+        },
+        {
+          "h3": "3. The Plate Anchor",
+          "paras": [
+            "A walker who holds a pressure plate so bridges stay down.",
+            "Combo: Assign this role first in every co-op run."
+          ]
+        },
+        {
+          "h3": "4. The Counter",
+          "paras": [
+            "Tracks light-pulse rhythm at the Black and Yellow towers.",
+            "Combo: Count two pulses, move on the third."
+          ]
+        },
+        {
+          "h3": "5. The Beacon",
+          "paras": [
+            "Marks the next tower on the map for late joiners.",
+            "Combo: Drop it at the top so stragglers can read your line."
+          ]
+        },
+        {
+          "h2": "The Reflector: routing the green beam",
+          "paras": [
+            "The Reflector catches the green emitter beam and routes it into a receiver. A lit receiver powers the Green Tower mechanisms, and the Yellow Tower reuses the same trick in its finale. The beam bends at a fixed angle, and anything that breaks line of sight — a wall, a raised bridge, a wandering walker — drops the connection instantly.",
+            "Use it the moment you see a green emitter pointed at an unlit receiver. That pairing is the puzzle telling you the Reflector is the solution. The classic mistake is the carrier repositioning mid-cross to \"help\" the group: the beam drops, the bridge retracts, and everyone swims. Plant the carrier like an anchor before anyone steps out, and only adjust the angle while the crossing is empty."
+          ]
+        },
+        {
+          "h2": "The Valve: setting the water level",
+          "paras": [
+            "The Valve controls the water level at the Blue Tower and again inside the Yellow Tower. Each level floats some ledges and sinks others, so the valve operator is effectively redrawing the map for the rest of the group. It is the one tool where the operator never crosses — they stay at the wheel and steer everyone else.",
+            "Reach for it whenever a route is blocked by water that is too high or a gap that needs a floating ledge. The costly mistake is draining to zero \"to see what happens\": full drain removes the crossing ledge entirely and strands anyone already out there. Stop at mid-level, and pair the operator with a Plate Anchor so the far bridge stays down while the water settles."
+          ]
+        },
+        {
+          "h2": "The Plate Anchor: the role that holds everything",
+          "paras": [
+            "The Plate Anchor is not a gadget — it is a walker who stands on a pressure plate and does not move. Pressure plates hold bridges down, and bridges retract the instant a plate empties. The Red Tower teaches this role, the Black Tower punishes you for forgetting it, and the Yellow Tower assumes you have mastered it.",
+            "Assign the anchor before every co-op run, out loud, by name. The failure everyone has lived through: the anchor steps off to grab a collectible or help a straggler, the bridge retracts, and the whole line falls. If the anchor gets bored, the run is going well — boredom is the job. Combine the role with a Beacon drop at the top so the anchor can at least watch the group's progress on the map."
+          ]
+        },
+        {
+          "h2": "The Counter: calling the light-pulse rhythm",
+          "paras": [
+            "The Counter tracks the light-pulse rhythm at the Black Tower and the Yellow Tower. Pulses gate when it is safe to move, and the counter is the walker who calls the beat so the group crosses in sync. One calm voice beats four walkers guessing.",
+            "Use the rhythm rule: count two pulses, move on the third. The mistake that desyncs whole groups is counting from the first pulse you happen to see instead of the tower's reset beat — you end up permanently one beat late and every crossing clips the danger window. Stand still, watch one full cycle, then start counting. And never rotate the Counter role mid-run: relearning the beat costs more time than the swap ever saves."
+          ]
+        },
+        {
+          "h2": "The Beacon: marking the next tower",
+          "paras": [
+            "The Beacon drops a map marker on the next tower so late joiners and split groups can find the line. It does nothing to the puzzles themselves — it is the tool that keeps a co-op session together when someone disconnects, joins late, or wanders off the route.",
+            "Drop it the moment the group agrees on a destination, and drop it at the top of the tower, not the base. A marker at the base tells stragglers where you were; a marker at the top lets them read your whole line and rejoin mid-route. The common waste is treating it as a toy and re-dropping it every few steps — one Beacon, placed well, is worth more than ten scattered pings nobody reads."
+          ]
+        },
+        {
+          "h2": "Tool combos that break puzzles",
+          "paras": [
+            "Big Walk's later towers are built to be solved by pairs of tools, not single gadgets. These are the combinations that collapse a ten-minute argument into a thirty-second clear."
+          ],
+          "list": [
+            "Reflector + Plate Anchor (Yellow Tower): the anchor holds the exit plate while the carrier finishes the beam line — the bridge and the receiver come online at the same moment, which is the only way the final crossing stays up.",
+            "Valve + Counter: let the water settle at mid-level first, then have the Counter call the beat for the crossing. Moving while the water is still rising or falling is how ledges vanish under walkers' feet.",
+            "Counter + Reflector (Black Tower): hold the beam steady and move the group on the third pulse. The pulses and the beam share a rhythm, so the carrier should never reposition between pulses.",
+            "Beacon + Plate Anchor: the anchor drops the Beacon at the top before sitting down on the plate. Late joiners land on the marker, see the held bridge, and slot straight into the line."
+          ]
+        },
+        {
+          "h2": "Tools you should stop wasting",
+          "paras": [
+            "Most failed runs are not missing a tool — they are misusing one. These habits cost groups entire towers."
+          ],
+          "list": [
+            "Stop carrying the Reflector through the Red Tower. There are no green receivers there; it is dead weight that tempts its carrier to wander instead of anchoring a plate.",
+            "Stop draining the Valve to zero out of curiosity. Mid-level is almost always the answer, and full drain deletes the crossing ledge.",
+            "Stop re-dropping the Beacon. One marker at the tower top is information; a trail of pings is noise.",
+            "Stop letting the Plate Anchor multi-task. An anchor who collects, scouts or rescues is an anchor who will eventually step off the plate at the worst moment.",
+            "Stop swapping the Counter mid-run. One voice, one beat, for the whole tower."
+          ]
+        },
+        {
+          "h2": "How to practice with the tools",
+          "paras": [
+            "Replay the early towers with one tool focus each run: Red Tower for plate discipline, Green Tower for the Reflector, Blue Tower for the Valve, Black Tower for the Counter. Call every action out loud while you learn — counting beats audibly is the fastest way to internalize the rhythm. By the time you reach the Yellow Tower you should be combining the Reflector, Valve and Plate Anchor without thinking, because that tower assumes you already can."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How many tools are there in Big Walk?",
+          "a": "Five core tools cover every tower: the Reflector, the Valve, the Plate Anchor, the Counter and the Beacon. Each maps to a specific tower mechanic."
+        },
+        {
+          "q": "Which Big Walk tool is most important?",
+          "a": "The Plate Anchor. Holding a pressure plate is the foundation of the Red, Black and Yellow towers, so assigning this role first wins most runs."
+        },
+        {
+          "q": "Do tools carry between towers?",
+          "a": "Yes — the same kit is used across all five towers, which is why the later towers feel like combinations of earlier ones."
+        },
+        {
+          "q": "Can you finish Big Walk without using every tool?",
+          "a": "You can clear the early towers lean — the Red Tower only needs a Plate Anchor and the Green Tower mostly needs the Reflector. The Yellow Tower is the gatekeeper: it expects the full kit working together."
+        },
+        {
+          "q": "Which tool should the newest player hold?",
+          "a": "The Beacon. It is low risk, it teaches map reading, and it frees the experienced walkers to hold the Reflector, the Valve and the plates. Hand them the Counter role once they can call a steady beat."
+        },
+        {
+          "q": "Why does the Reflector beam keep dropping?",
+          "a": "Two causes: something broke line of sight between the emitter and the receiver, or the carrier moved while the group was mid-cross. Plant the carrier like an anchor and re-check the beam line before anyone steps out."
+        },
+        {
+          "q": "Do tools work the same on every platform?",
+          "a": "Yes. The kit is identical on Steam, Nintendo Switch 2 and PS5, and co-op crossplay shares the same mechanics, so every combo on this page works regardless of where your group plays."
+        }
+      ],
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "coop",
+        "guide"
+      ]
+    },
+    "achievements": {
+      "slug": "achievements",
+      "title": "Big Walk Achievements List & How to Get Them",
+      "desc": "Every Big Walk achievement with the fastest unlock path and the missable ones to watch for.",
+      "keywords": [
+        "big walk achievements",
+        "big walk achievement guide"
+      ],
+      "h1": "Big Walk Achievements List & How to Get Them",
+      "lead": "Every Big Walk achievement, what actually unlocks it, and the fastest way to earn it. There are eight in total, and most pop naturally while you clear the five towers. The missable ones are the no-respawn and full-line finishes — lock those in by assigning an anchor and crossing single-file.",
+      "sections": [
+        {
+          "h2": "Big Walk achievements list",
+          "paras": [
+            "All eight achievements are listed below in the order you will most likely earn them. Each entry gives the exact unlock condition, the fastest path to get it done, and a missable warning wherever one applies. Six of the eight are tied to specific towers, so a single well-planned playthrough can cover almost everything."
+          ]
+        },
+        {
+          "h3": "1. First Steps",
+          "paras": [
+            "Unlock: Complete the tutorial stretch as a line. The tutorial is the short walk before the first color tower, and the whole group has to stay linked from the opening pad to the gate at the end.",
+            "Fastest path: You can barely miss this one — it pops in the first ten minutes as long as nobody splits off. Let the slowest walker set the pace and keep the line tight through every turn."
+          ]
+        },
+        {
+          "h3": "2. Red Done",
+          "paras": [
+            "Unlock: Finish the Red Tower with the bridge held. The Red Tower bridge only stays down while a walker holds the pressure plate, so the condition is really about discipline on the final crossing.",
+            "Fastest path: Assign an anchor who never leaves the plate, send everyone else across single-file, and regroup on the exit plate as a full line. Do that and this unlocks together with the tower clear.",
+            "Missable warning: If the plate empties at the wrong moment the bridge retracts and the finish does not count. The tower is replayable, but getting it right the first time saves a full rerun."
+          ]
+        },
+        {
+          "h3": "3. On Beat",
+          "paras": [
+            "Unlock: Clear the Black Tower without a reset. The Black Tower is a timing puzzle: walkers move in a set order, and one mistimed step is what forces most groups to reset the room.",
+            "Fastest path: Agree on the walk order before anyone moves, then call each step out loud in voice chat. One slow, clean run beats three fast sloppy ones.",
+            "Missable warning: A single reset voids the achievement for that attempt, so if someone slips, finish the tower anyway and come back fresh — tilting mid-run is how groups burn an hour here."
+          ]
+        },
+        {
+          "h3": "4. Beam Master",
+          "paras": [
+            "Unlock: Route both Green Tower receivers in one run. The Green Tower is built around a light beam you steer into receivers, and most natural routes only power one before the group moves on.",
+            "Fastest path: Split the jobs: one walker holds the beam steady while another repositions to light the second receiver. Clear both before anyone triggers the exit.",
+            "Missable warning: Leaving the tower with only one receiver lit means a fresh run from the entrance, so check both are powered before the group steps onto the exit plate."
+          ]
+        },
+        {
+          "h3": "5. Mid-Level",
+          "paras": [
+            "Unlock: Cross the Blue Tower at mid water. The Blue Tower is a water-level puzzle, and this achievement only counts when the final crossing happens with the gauge sitting at the middle mark.",
+            "Fastest path: Raise the water to mid before the last stretch and stop adjusting once the needle settles. One walker watches the gauge while the rest line up to cross.",
+            "Missable warning: Crossing at low or high water does not count, and overshooting the level is the classic mistake — tap the controls in short bursts near the middle mark."
+          ]
+        },
+        {
+          "h3": "6. Walk Complete",
+          "paras": [
+            "Unlock: Finish the Yellow Tower as a full line. The Yellow Tower is the final tower, and the win condition is the whole group standing together when the end plate triggers.",
+            "Fastest path: Count heads before the final plate. If anyone fell or lagged behind, wait for them to respawn and rejoin the line before you all step on together.",
+            "Missable warning: This is the easiest achievement to fumble because groups sprint the ending. If even one walker is missing from the line, it will not pop and you replay the tower."
+          ]
+        },
+        {
+          "h3": "7. Tooled Up",
+          "paras": [
+            "Unlock: Use all five tools in a single walk. A walk means one continuous session — the counter is tied to that run, so leaving and rejoining partway through costs you the progress.",
+            "Fastest path: Keep a mental checklist and fire each gadget once, even where the puzzle does not ask for it. The quieter tools are the ones everyone forgets, so use them early.",
+            "Missable warning: Not truly missable, but it is the achievement most groups think they earned and did not. If it has not popped by the Blue Tower, start using everything on sight."
+          ]
+        },
+        {
+          "h3": "8. No Falls",
+          "paras": [
+            "Unlock: Clear any tower with zero respawns. Any tower counts, so you pick the arena. Nobody in the group can fall and respawn between the first plate and the exit chime.",
+            "Fastest path: Do it on the Red Tower — it is the shortest and the only real hazard is the bridge. The anchor holds the plate, everyone crosses one at a time, done.",
+            "Missable warning: One fall voids the attempt with no warning, so treat every gap as lethal and never rush a crossing to catch up with the group."
+          ]
+        },
+        {
+          "h2": "Missable achievements to plan around",
+          "paras": [
+            "Three achievements cause almost every incomplete list: On Beat, Walk Complete, and No Falls. All three punish rushing, and all three fail silently — the game does not warn you that the attempt is void until the completion chime never plays.",
+            "The fix is one dedicated slow run. Assign an anchor for every pressure plate, call each move out in voice chat, and agree up front that nobody sprints the final stretch of any tower. Tooled Up is the fourth one to plan around: not missable, but easy to forget, so tick the tools off early instead of saving them for a puzzle that might never ask.",
+            "Nothing in Big Walk is permanently locked. Every tower can be replayed, so a missed achievement costs you a rerun, not a save file."
+          ]
+        },
+        {
+          "h2": "Fastest 100% route",
+          "paras": [
+            "Played in order, the main walk lines up almost perfectly with the achievement list. A coordinated group can 100% Big Walk in a single session by stacking each conditional achievement onto the tower where it is easiest:",
+            "If something fails along the way, finish the tower anyway and loop back at the end — replaying one tower is far faster than resetting a whole session over a single missed chime."
+          ],
+          "list": [
+            "Tutorial stretch — walk in a line and First Steps unlocks on its own. Start your Tooled Up checklist here by using the first tools you pick up.",
+            "Red Tower — hold the bridge for Red Done, and play it clean for No Falls. It is the easiest tower, so it is the best place for the zero-respawn run.",
+            "Black Tower — agree the walk order out loud and clear it without a reset for On Beat.",
+            "Green Tower — route both receivers before the exit for Beam Master.",
+            "Blue Tower — set the water to mid and keep it there for Mid-Level. Fire off any tools still missing from your Tooled Up checklist.",
+            "Yellow Tower — regroup as a full line at the end plate for Walk Complete and the 100%."
+          ],
+          "ordered": true
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How many achievements are in Big Walk?",
+          "a": "Eight. Six are tied to the tutorial and the five color towers, and two — Tooled Up and No Falls — can be earned on any tower you like."
+        },
+        {
+          "q": "Are any Big Walk achievements missable?",
+          "a": "None are permanently missable, since every tower is replayable after the credits. The ones groups miss on a first run are the no-respawn and full-line finishes, so slow down on the last tower."
+        },
+        {
+          "q": "Do achievements need co-op?",
+          "a": "Most are doable solo, but the co-op-flavored ones — the full-line finish and Tooled Up — are far easier with a group that actually talks to each other."
+        },
+        {
+          "q": "Fastest achievement route?",
+          "a": "Tutorial → Red → Black → Green → Blue → Yellow in order. Stack No Falls onto the Red Tower and spread Tooled Up across the whole walk, and everything unlocks in one pass."
+        },
+        {
+          "q": "What is the hardest achievement in Big Walk?",
+          "a": "On Beat gives most groups the most trouble, because a single reset voids the attempt. No Falls is a close second if your group plays loose near gaps."
+        },
+        {
+          "q": "Can you replay towers to clean up missed achievements?",
+          "a": "Yes. Every tower can be re-entered after the credits, and conditional achievements like Beam Master and Mid-Level still unlock on a rerun."
+        },
+        {
+          "q": "Do Big Walk achievements unlock on every platform?",
+          "a": "Yes — the same eight achievements are in the Steam, Nintendo Switch 2, and PS5 versions of the game."
+        }
+      ],
+      "related": [
+        "guide",
+        "tools",
+        "redTower",
+        "blackTower",
+        "yellowTower",
+        "coop"
+      ]
+    },
+    "price": {
+      "slug": "price",
+      "title": "Big Walk Price, Platforms & Editions",
+      "desc": "Big Walk price across Steam and consoles, which editions exist, and whether the co-op bundle is worth it.",
+      "keywords": [
+        "big walk price",
+        "big walk steam",
+        "big walk platforms"
+      ],
+      "h1": "Big Walk Price, Platforms & Editions",
+      "lead": "Big Walk launched on August 4, 2026 from developer House House and publisher Panic, and it is sold on Steam (app 1478500), Nintendo Switch 2 and PlayStation 5, with crossplay between all three. Price varies by region and sale; check the store widget above for the live Steam price before buying.",
+      "sections": [
+        {
+          "h2": "Where to buy Big Walk",
+          "paras": [
+            "Big Walk is a premium, one-time purchase — no subscription, no free-to-play tier. It released on August 4, 2026 on three storefronts:",
+            "Buy wherever your group already plays. Because crossplay links all three versions, a mixed group — one walker on PC, one on Switch 2, one on PS5 — works out of the box."
+          ],
+          "list": [
+            "Steam — the PC version. See the live price in the widget above, and wishlist it there to get notified of discounts.",
+            "Nintendo Switch 2 — search \"Big Walk\" in the eShop on your console; pricing is regional.",
+            "PlayStation 5 — search \"Big Walk\" in the PlayStation Store; pricing is regional."
+          ]
+        },
+        {
+          "h2": "Big Walk price by platform",
+          "paras": [
+            "Exact numbers change by region, currency and sale, so treat this as a map of where to look rather than a fixed price list. The store widget above always shows the current Steam price.",
+            "The three versions are the same game with the same five towers and the same tools, so there is no \"best edition\" by platform — pick the one your friends own."
+          ],
+          "table": {
+            "headers": [
+              "Platform",
+              "Store",
+              "Crossplay",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "PC",
+                "Steam",
+                "Yes",
+                "First to discount in seasonal sales; wishlist for alerts"
+              ],
+              [
+                "Nintendo Switch 2",
+                "Nintendo eShop",
+                "Yes",
+                "Portable play; eShop sales follow their own calendar"
+              ],
+              [
+                "PlayStation 5",
+                "PlayStation Store",
+                "Yes",
+                "Best fit for a couch setup; watch PS Store sale events"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Big Walk on Steam vs console: which should you buy?",
+          "paras": [
+            "If your group is split, buy on the platform with the most walkers already on it and let crossplay cover the rest. If you are genuinely free to choose, Steam is the pragmatic default: it is historically the first storefront to discount, refund rules are clear, and the live price is one glance at the widget above.",
+            "Choose Switch 2 if you want the walk portable — the puzzles are short and session-friendly, which suits handheld play. Choose PS5 if the TV-and-couch setup is where your co-op nights happen. None of these choices locks you away from friends on the other platforms."
+          ]
+        },
+        {
+          "h2": "Big Walk editions and what is in them",
+          "paras": []
+        },
+        {
+          "h3": "Base game",
+          "paras": [
+            "The standard edition is the complete game: the full walk, all five color towers, every tool and the ending. Nothing mechanical is locked behind a higher tier, so most players should buy this and stop there. There is no season pass to factor into the price — what you buy on day one is the whole puzzle."
+          ]
+        },
+        {
+          "h3": "Co-op / multi-owner option",
+          "paras": [
+            "Some storefronts offer a co-op or multi-owner purchase aimed at groups buying together. The content is identical to the base game — the difference is purely how many copies you get in one transaction and what you pay per player. Check your region's store page for the exact bundle terms before checkout."
+          ]
+        },
+        {
+          "h2": "Is the Big Walk co-op bundle worth it?",
+          "paras": [
+            "Usually yes, if you have a fixed group. Big Walk is built around co-op: the tower puzzles assume multiple walkers, pressure plates need bodies standing on them, and the game is simply better with people you know. A bundle that undercuts the cost of separate copies is the cheapest way to get the whole group in.",
+            "It is not worth it if you mostly play solo or with randoms. In that case a single base copy does everything you need, and you can always buy for friends later when a sale drops the per-copy price anyway.",
+            "Quick decision rule: if you can name the people you will play with tonight, compare the bundle; if you cannot, buy one copy.",
+            "One more check before you commit: confirm everyone in the group is buying on a storefront that actually sells the bundle in your region. Bundle availability and pricing can differ between Steam and the console stores, and a \"deal\" that leaves one walker paying full price on another platform is no deal at all."
+          ]
+        },
+        {
+          "h2": "When does Big Walk go on sale?",
+          "paras": [
+            "On Steam, publisher Panic's releases typically join the big seasonal sales — summer, autumn, winter — plus the occasional midweek or publisher weekend deal. The first meaningful discount usually lands a few months after launch, with deeper cuts the following year. Wishlist the game on Steam and you will get an email the moment any discount starts; that is the lowest-effort way to catch it.",
+            "Console discounts follow their own rhythm. The eShop and PlayStation Store run independent sale events, so the Switch 2 and PS5 versions may not be discounted at the same time as Steam. If price matters more than platform, Steam is historically the safer bet for an early sale.",
+            "Should you wait for a discount at all? If you have a group ready to play now, buy now — Big Walk is a shared experience, and the value is in walking together while everyone is still solving the towers blind. If you are buying solo and in no rush, wishlisting and waiting for the first seasonal sale is the patient, reasonable move."
+          ]
+        },
+        {
+          "h2": "Crossplay note",
+          "paras": [
+            "Crossplay is on between PC and console, so where you buy does not lock you out of playing with friends — just keep crossplay enabled on both accounts (see the co-op fixes page if a join fails). That also means you can chase the cheapest storefront without splitting the group: buy wherever it is on sale and everyone still ends up on the same walk."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much is Big Walk?",
+          "a": "Price varies by region and sale. The Steam widget on this page shows the current live price, and the console stores list their own regional pricing. Expect the three versions to sit close together at launch, with Steam usually the first to discount."
+        },
+        {
+          "q": "What platforms is Big Walk on?",
+          "a": "Steam on PC, Nintendo Switch 2 and PlayStation 5, all released on August 4, 2026. Crossplay is enabled between the three versions, so your platform choice does not limit who you can walk with."
+        },
+        {
+          "q": "Is there a Big Walk co-op bundle worth it?",
+          "a": "If you play with the same group often, the co-op/multi-owner option is usually better value than buying separate copies one at a time. Compare the bundle price against the per-copy price in your region before checkout."
+        },
+        {
+          "q": "Does Big Walk have crossplay between Steam and console?",
+          "a": "Yes. Crossplay is on between Steam, Switch 2 and PS5, so you can buy on whichever platform you prefer and still play with friends on the others. Keep crossplay enabled in the settings on both ends."
+        },
+        {
+          "q": "Will Big Walk go on sale?",
+          "a": "Almost certainly on Steam, where publisher Panic titles typically join the big seasonal sales. Console discounts usually follow later. If you are not in a hurry, wishlisting the game gets you an email the moment a discount starts."
+        },
+        {
+          "q": "Is Big Walk free to play or on a subscription service?",
+          "a": "No. Big Walk is a one-time premium purchase on all three platforms. There is no free-to-play tier and no confirmed subscription-service inclusion at launch, so budget for the full price or wait for a sale."
+        },
+        {
+          "q": "Which edition of Big Walk should I buy?",
+          "a": "Most players only need the base game — it contains the full walk, all five towers and every tool. Only look at the co-op/multi-owner option if you are buying for a fixed group, where the per-player cost usually beats separate copies."
+        },
+        {
+          "q": "Is the Big Walk price the same in every country?",
+          "a": "No. All three storefronts use regional pricing, so the number you see depends on your store region and currency. The Steam widget above reflects your region automatically; on console, check the listing in your own eShop or PlayStation Store account."
+        }
+      ],
+      "gameWidget": true,
+      "related": [
+        "guide",
+        "coop",
+        "vsWitness",
+        "vsIttakesTwo",
+        "vsGrounded"
+      ]
+    },
+    "home": {
+      "slug": "",
+      "title": "Big Walk Guides: Tower Puzzle Solutions, Tools & Co-op Fixes",
+      "desc": "Stuck on a Big Walk tower? Step-by-step puzzle solutions for all five towers, every tool explained, and co-op connection fixes — the answer on the first screen.",
+      "keywords": [
+        "big walk",
+        "big walk guide",
+        "big walk game",
+        "big walk puzzle solutions"
+      ],
+      "h1": "Big Walk: tower solutions, tools & co-op fixes",
+      "lead": "Big Walk is a co-op puzzle walk from the makers of Untitled Goose Game. Below are the exact solutions players search for — Red/Black/Green/Blue/Yellow towers, every tool, and the co-op fixes that the big sites never bothered to write a page for. Everything here answers the question first and explains after, so you can get back to your run in under a minute.",
+      "sections": [
+        {
+          "h2": "What is the Big Walk game?",
+          "paras": [
+            "Big Walk is a co-op puzzle game from House House, published by Panic and released on August 4, 2026 for Steam, Nintendo Switch 2 and PlayStation 5. You and your friends form a line of walkers and cross a hand-built world on foot. Progress is gated by color-coded towers, and each tower is a self-contained puzzle that only opens when the group works out its trick together.",
+            "The controls are deliberately simple — the challenge is communication, not execution. Most failed runs come from one walker moving before the rest of the line is ready, so the guides on this site focus on callouts, role splits and exact walk orders rather than reflexes."
+          ]
+        },
+        {
+          "h2": "The five towers",
+          "paras": [
+            "Most search traffic for Big Walk is tower-specific. Each page gives the solution on the first screen, then the walk order and the trap that fails most runs.",
+            "The five towers share a language — pressure plates, bridges and walk order — but each adds one new mechanic. The Red Tower is the intro puzzle and teaches the plate-and-bridge loop. The Black Tower adds timing. The Green Tower is built around light and bridges. The Blue Tower splits the group across water levels, and the Yellow Tower is the finale that combines everything. If you are stuck on one tower, open its page and read the first screen — the solution is there before any scrolling."
+          ]
+        },
+        {
+          "h2": "Tools & co-op",
+          "paras": [
+            "The tool pages explain each gadget one by one, and the co-op page fixes the disconnects players post about on Reddit. Tools are how Big Walk keeps later puzzles fresh: each one is simple on its own, but combining two at the right moment is what breaks the harder towers. If your session will not connect at all, start with the co-op fixes page — it covers join codes, NAT problems and platform limits in the order you should try them."
+          ]
+        },
+        {
+          "h2": "Big Walk vs other co-op puzzlers",
+          "paras": [
+            "Not sure which co-op game to buy? The head-to-head pages settle it. Big Walk is compared against The Witness for puzzle style, It Takes Two for co-op feel, and Grounded 2 for survival-versus-puzzle pacing. Each comparison covers length, difficulty, player count and who each game is actually for, so you can pick the right one for your group before spending anything."
+          ]
+        },
+        {
+          "h2": "How to use this site",
+          "paras": [
+            "Every page on WalkHub follows the same layout. The direct answer or solution sits on the first screen, right under the title. Step-by-step instructions follow, then the common failure and its fix, and a short FAQ at the bottom covers the follow-up questions.",
+            "If you are stuck right now, open the tower page that matches your map marker color and read the first paragraph. If the game itself is misbehaving, go straight to the co-op fixes. If you are still deciding whether to buy, the price page and the comparisons are the fastest reads.",
+            "New players should start with the complete guide, which walks the whole game in order — progression, the five towers, co-op basics and what to do first. Returning players can use the achievements page to mop up the missable unlocks before calling the game done."
+          ]
+        },
+        {
+          "h2": "A quick Big Walk guide for your first session",
+          "paras": [
+            "Before your first session, agree on three things in voice chat: who leads the line, who anchors pressure plates, and the callout you will use before anyone steps off a plate. Most early wipes are communication failures, not puzzle failures.",
+            "Move as a line, not a crowd. When a tower asks for split roles, say your role out loud before touching anything. And when a run fails, reset immediately — the towers are short, and a fast retry beats a long argument about what went wrong."
+          ]
+        },
+        {
+          "h2": "The most-searched Big Walk questions",
+          "paras": [
+            "Short answers to the queries that bring most players here:"
+          ],
+          "list": [
+            "What is the Big Walk Red Tower solution? The full step-by-step is on the Red Tower page — the answer is on the first screen.",
+            "How do you beat the Black Tower? Walk order and timing are covered on the Black Tower page, including the trap that fails most co-op runs.",
+            "Why is Big Walk co-op not working? Join codes, NAT and platform limits are fixed step by step on the co-op troubleshooting page.",
+            "How much does Big Walk cost? Current pricing across Steam and consoles is on the price page.",
+            "How do you get every Big Walk achievement? The achievements list has the fastest unlock path for each one, plus the missables to watch for.",
+            "Should you buy Big Walk or It Takes Two? The head-to-head comparison settles it by co-op feel, difficulty and length."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What is Big Walk?",
+          "a": "Big Walk is a co-op puzzle adventure where a line of players walks together through a hand-built world, solving tower puzzles and environmental challenges. It is developed by House House, the studio behind Untitled Goose Game."
+        },
+        {
+          "q": "How many towers are there in Big Walk?",
+          "a": "There are five color-coded towers — Red, Black, Green, Blue and Yellow. Each has its own mechanic; full step-by-step solutions are linked above."
+        },
+        {
+          "q": "Is Big Walk co-op / crossplay?",
+          "a": "Yes, it is built for co-op. If your session will not connect, see the co-op not working fixes page for join-code, NAT and platform limits."
+        },
+        {
+          "q": "Who makes Big Walk, and when did it come out?",
+          "a": "Big Walk is developed by House House and published by Panic. It released on August 4, 2026 for Steam, Nintendo Switch 2 and PlayStation 5."
+        },
+        {
+          "q": "How long does Big Walk take to finish?",
+          "a": "A first run through the five towers takes most groups a few evenings, and coordinated groups move faster. The complete guide page lays out the full progression in order so you can pace your sessions."
+        },
+        {
+          "q": "Which platforms is Big Walk on?",
+          "a": "Big Walk launched on Steam, Nintendo Switch 2 and PlayStation 5 on August 4, 2026. The price page compares platforms, editions and whether the co-op bundle is worth it."
+        },
+        {
+          "q": "Can you play Big Walk solo?",
+          "a": "Big Walk is designed around a line of walkers communicating, and its tower puzzles assume group coordination. If you plan to play with friends, the guide page covers co-op basics and what to do first."
+        }
+      ],
+      "videoId": "c30AAvpS6do",
+      "gameWidget": true,
+      "related": [
+        "guide",
+        "tools",
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "coop",
+        "achievements",
+        "price",
+        "vsWitness",
+        "vsIttakesTwo",
+        "vsGrounded"
+      ]
+    },
+    "vsWitness": {
+      "slug": "vs-witness",
+      "title": "Big Walk vs The Witness — Which Should You Play?",
+      "desc": "Big Walk vs The Witness: puzzle style, co-op, length and who each game is actually for.",
+      "keywords": [
+        "big walk vs the witness",
+        "big walk or the witness"
+      ],
+      "h1": "Big Walk vs The Witness — Which Should You Play?",
+      "lead": "Verdict first: these are different games for different moods. Big Walk is a co-op walking puzzle from House House (published by Panic, out August 4 2026 on Steam, Switch 2 and PS5) that you play with friends; The Witness is a solitary line-drawing puzzler you play alone. Pick Big Walk if you want to laugh with people, The Witness if you want to think in silence.",
+      "sections": [
+        {
+          "h2": "Big Walk vs The Witness: side by side",
+          "table": {
+            "headers": [
+              "Factor",
+              "Big Walk",
+              "The Witness"
+            ],
+            "rows": [
+              [
+                "Puzzle style",
+                "Environmental co-op walking puzzles",
+                "Solitary line-drawing mazes"
+              ],
+              [
+                "Co-op",
+                "Built for 2+ players, voice chat encouraged",
+                "None — strictly single-player"
+              ],
+              [
+                "Length",
+                "A few focused sessions with friends",
+                "Long, cerebral, dozens of hours"
+              ],
+              [
+                "Difficulty",
+                "Gentle, forgiving, failure is funny",
+                "Steep, no hints, you teach yourself"
+              ],
+              [
+                "Price",
+                "Budget-friendly indie price on Steam, Switch 2 and PS5",
+                "Older title, often discounted"
+              ],
+              [
+                "Vibe",
+                "Warm, silly, social",
+                "Calm, abstract, solitary"
+              ],
+              [
+                "Best for",
+                "Playing with friends",
+                "Quiet solo brain-teasers"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Puzzle design compared",
+          "paras": [
+            "The Witness is a game of panels. You walk a beautiful, empty island and solve line mazes that keep adding rules — symbols, colors, sounds — without ever explaining them. The puzzle is inside your head: notice the pattern, test it, feel the rule click.",
+            "Big Walk puts the puzzle in the space between players. Its towers are built from pressure plates, retracting bridges, water levels and light beams that only behave while your group coordinates. The puzzle is not \"figure out the rule\" — it is \"get three friends to do the right thing at the right time.\" In the Red Tower, one walker anchors a plate while the rest cross single-file; in the Blue Tower, roles split around a rising water level. Every mechanic is a conversation.",
+            "The settings pull the same trick in opposite directions. The Witness hides puzzles in its environment for the player who looks closely. Big Walk hides them in your group's habits — the tower that seems impossible until someone suggests splitting roles."
+          ]
+        },
+        {
+          "h3": "Failure feels different",
+          "paras": [
+            "In The Witness, failure is silent — a wrong line, a buzz, and you try again alone. In Big Walk, failure is the entertainment: the bridge retracts, everyone drops, and the group laughs and re-plans. One game makes you feel smart; the other makes you feel together."
+          ]
+        },
+        {
+          "h2": "Which one for your group",
+          "paras": [
+            "Choose Big Walk if any of these sound like you:",
+            "Choose The Witness if these fit better:",
+            "One practical note: Big Walk needs a group that can talk, so plan on voice chat and check your connection setup before the first session. The Witness needs nothing but your patience."
+          ],
+          "lists": [
+            [
+              "You have two or more friends and one free evening a week.",
+              "You want a co-op night that is about teamwork, not reflexes.",
+              "You enjoy games where mistakes turn into stories you retell later.",
+              "You want something short and complete, not a hundred-hour hobby."
+            ],
+            [
+              "You mostly play alone, late at night, with headphones on.",
+              "You like puzzles that resist you for hours before they open up.",
+              "You want a huge amount of content for a low sale price."
+            ]
+          ]
+        },
+        {
+          "h3": "If you can only buy one",
+          "paras": [
+            "Match the game to the night, not the reviews. A group of two to four gets far more hours of fun per dollar from Big Walk. A solo player gets far more puzzle per dollar from The Witness. Neither is the wrong choice — buying the wrong one for your situation is."
+          ]
+        },
+        {
+          "h2": "Final verdict",
+          "paras": [
+            "This is not a real fight. Buy Big Walk when the plan is a co-op night — it is the rare puzzle game where the hard part is cooperating, and it lands perfectly for two to four players. Reach for The Witness when you want a long, quiet solo puzzle dive that respects your intelligence and never holds your hand. They are not competitors; they are different slots in your library. If your budget allows, get Big Walk for the group and keep The Witness for yourself — and if co-op nights become a habit, our guides to the five towers will carry you through the whole walk."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is Big Walk like The Witness?",
+          "a": "Only loosely. Both are puzzle games set in open, walkable spaces, but Big Walk is co-op and physical — you solve things by moving bodies onto plates and across bridges — while The Witness is a solo game about drawing lines on panels. If you loved one, the other is worth a look, but expect a very different evening."
+        },
+        {
+          "q": "Which is better for co-op, Big Walk or The Witness?",
+          "a": "Big Walk, hands down. It is designed around two or more walkers coordinating in real time. The Witness has no co-op mode at all — the closest you get is a friend watching over your shoulder and suggesting lines."
+        },
+        {
+          "q": "Which game is longer?",
+          "a": "The Witness is the longer, more demanding game, with hundreds of panels and optional endgame challenges. Big Walk is built for shorter social sessions — most groups finish the main walk over a few evenings."
+        },
+        {
+          "q": "Which is harder?",
+          "a": "The Witness, by a wide margin. It never explains its rules and expects you to infer them. Big Walk's tower puzzles have a learning curve, but failure is fast and funny, and your group talks its way through."
+        },
+        {
+          "q": "Should I buy Big Walk or The Witness first?",
+          "a": "If you have a regular co-op group, buy Big Walk first — nothing else this year does what it does. If you play alone and want a deep solo puzzle game, start with The Witness. Ideally, own both: they fill different slots."
+        },
+        {
+          "q": "Can you play Big Walk solo like The Witness?",
+          "a": "You can walk alone, but the tower puzzles assume at least two walkers — one holding a pressure plate while the other crosses. Solo play is possible with workarounds, yet the game clearly comes alive with a partner."
+        }
+      ],
+      "related": [
+        "vsIttakesTwo",
+        "vsGrounded",
+        "guide",
+        "coop",
+        "price"
+      ]
+    },
+    "vsIttakesTwo": {
+      "slug": "vs-it-takes-two",
+      "title": "Big Walk vs It Takes Two — Co-op Compared",
+      "desc": "Big Walk vs It Takes Two: co-op feel, difficulty and which co-op game to buy first.",
+      "keywords": [
+        "big walk vs it takes two",
+        "big walk or it takes two"
+      ],
+      "h1": "Big Walk vs It Takes Two — Co-op Compared",
+      "lead": "Big Walk vs It Takes Two is really a question about what kind of co-op night you want. Big Walk is a low-stakes walkaround you drop into with friends for quick laughs; It Takes Two is a longer, story-driven campaign built for exactly two players. Pick Big Walk for the impromptu hangout, It Takes Two for a committed duo run.",
+      "sections": [
+        {
+          "h2": "Side by side",
+          "table": {
+            "headers": [
+              "Factor",
+              "Big Walk",
+              "It Takes Two"
+            ],
+            "rows": [
+              [
+                "Co-op style",
+                "Loose walkaround puzzles, drop-in",
+                "Tight, scripted two-player design"
+              ],
+              [
+                "Player count",
+                "Solo or a group of friends",
+                "Exactly two players, always"
+              ],
+              [
+                "Session length",
+                "Short sessions, leave anytime",
+                "A full campaign (10+ hrs)"
+              ],
+              [
+                "Difficulty",
+                "Light and approachable",
+                "Varied, sometimes genuinely hard"
+              ],
+              [
+                "Price",
+                "One indie purchase per player",
+                "Friend's Pass: one copy covers both players"
+              ],
+              [
+                "Vibe",
+                "Hangout co-op",
+                "Cinematic co-op"
+              ],
+              [
+                "Best for",
+                "Casual friend nights",
+                "A committed co-op playthrough"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Co-op feel compared",
+          "paras": [
+            "Both games are co-op, but they spend your time differently. Big Walk, from Untitled Goose Game developer House House and publisher Panic, is a shared walk first and a puzzle game second. You and your friends wander, poke at tools, and solve whatever the path throws at you. Nobody has to host a plan. Someone can join late, someone can leave early, and the walk keeps going.",
+            "It Takes Two is the opposite shape. Hazelight built it as a linear two-player campaign where every chapter hands you new abilities designed to interlock. One player gets the nails, the other gets the hammer. You cannot drift through it — progress depends on both players executing together until the credits roll.",
+            "Neither is better; they scratch different itches. Big Walk feels like meeting friends at a park. It Takes Two feels like rehearsing a two-person play.",
+            "The practical difference shows up in voice chat. In Big Walk the talk drifts — half the fun is the conversation while you walk. In It Takes Two the talk is the game: constant callouts, timing and coordination from the first level to the last."
+          ]
+        },
+        {
+          "h2": "Difficulty and session length",
+          "paras": [
+            "Big Walk stays approachable. The tower puzzles — red, black, green, blue and yellow — ask for coordination and timing, not mechanical skill, and a failed attempt resets fast. Most sessions run short, which makes it easy to fit into a weeknight.",
+            "It Takes Two asks more. Platforming sections, boss fights and later mechanics can genuinely challenge casual players, and the campaign expects multi-hour sittings. If one of you rarely plays games, Big Walk is the kinder starting point."
+          ]
+        },
+        {
+          "h2": "Price and value",
+          "paras": [
+            "Big Walk launched August 4, 2026 on Steam, Nintendo Switch 2 and PS5 as a single indie purchase, with each player buying their own copy. Check our Big Walk price guide for current pricing, editions and any co-op bundles.",
+            "It Takes Two is older and regularly discounted, and its Friend's Pass means only one of you needs to own the game — the second player joins free. On pure cost per duo, It Takes Two often wins. On cost per game night with a bigger, rotating group, Big Walk wins."
+          ]
+        },
+        {
+          "h2": "Big Walk or It Takes Two — which to buy first",
+          "paras": [
+            "Buy Big Walk first if your co-op group is fluid. If the roster changes week to week, if people drop in and out, or if you want something that works the night someone new shows up, Big Walk's loose structure absorbs all of that. It is also the better pick when your group includes players who bounce off hard games.",
+            "Buy It Takes Two first if you have exactly one consistent partner and a few free evenings. It is a complete, polished campaign and still one of the best two-player experiences on any platform — but it wastes its strengths on a rotating crowd.",
+            "Owning both is a reasonable answer. They do not compete for the same evening."
+          ]
+        },
+        {
+          "h2": "Final verdict",
+          "paras": [
+            "Big Walk and It Takes Two sit at opposite ends of the co-op spectrum. Big Walk is the game you open when friends are around and nobody planned anything. It Takes Two is the game you schedule. For a quick laugh tonight, grab Big Walk. For a story you finish together over a couple of weeks, grab It Takes Two."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is Big Walk as good as It Takes Two for co-op?",
+          "a": "For a short, silly hangout, yes. Big Walk delivers laughs in the first ten minutes. For a deep story campaign with set pieces and boss fights, It Takes Two is the heavier experience."
+        },
+        {
+          "q": "Big Walk or It Takes Two for non-gamers?",
+          "a": "Big Walk. The controls are simple, failure is funny instead of punishing, and nobody needs platforming skill. It Takes Two assumes both players can handle aiming and timed jumps."
+        },
+        {
+          "q": "Can more than two people play?",
+          "a": "In Big Walk, yes — it is built for a group of friends walking together. It Takes Two is strictly a two-player game with no option for a third."
+        },
+        {
+          "q": "Which is easier to pick up?",
+          "a": "Big Walk — there is almost no onboarding, and friends can join mid-session without replaying a tutorial."
+        },
+        {
+          "q": "Do I need a big time block?",
+          "a": "Big Walk no; sessions work in short bursts. It Takes Two expects a multi-hour commitment across several evenings."
+        },
+        {
+          "q": "Does It Takes Two need two copies?",
+          "a": "No. Its Friend's Pass lets a second player join free, so only one of you buys the game. In Big Walk, each walker needs their own copy."
+        }
+      ],
+      "related": [
+        "vsWitness",
+        "vsGrounded",
+        "coop",
+        "guide",
+        "price"
+      ]
+    },
+    "vsGrounded": {
+      "slug": "vs-grounded-2",
+      "title": "Big Walk vs Grounded 2 — Compared",
+      "desc": "Big Walk vs Grounded 2: survival vs pure puzzle co-op, player count and vibe.",
+      "keywords": [
+        "big walk vs grounded 2",
+        "big walk or grounded 2"
+      ],
+      "h1": "Big Walk vs Grounded 2 — Compared",
+      "lead": "Big Walk and Grounded 2 are both co-op games, but they barely overlap. Big Walk is a pure puzzle walk — no combat, no crafting, just a line of walkers solving environmental puzzles together. Grounded 2 is survival crafting with base building and bug fights. Pick Big Walk to think together, Grounded 2 to build and fight together. Here is the full breakdown.",
+      "sections": [
+        {
+          "h2": "Side by side",
+          "paras": [
+            "The short version of Big Walk vs Grounded 2, factor by factor:"
+          ],
+          "table": {
+            "headers": [
+              "Factor",
+              "Big Walk",
+              "Grounded 2"
+            ],
+            "rows": [
+              [
+                "Genre",
+                "Co-op puzzle walk",
+                "Co-op survival crafting"
+              ],
+              [
+                "Co-op style",
+                "Shared puzzle line, no combat",
+                "Base building, bug fights, shared survival"
+              ],
+              [
+                "Player count",
+                "Small co-op line",
+                "Up to 4 players"
+              ],
+              [
+                "Session length",
+                "Drop in for a tower or two",
+                "Long-term campaign sessions"
+              ],
+              [
+                "Difficulty",
+                "Gentle — failure is a quick retry",
+                "Survival pressure — hunger, gear, enemies"
+              ],
+              [
+                "Price",
+                "One-time premium purchase",
+                "Premium, also on Game Pass"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Survival vs pure puzzle co-op",
+          "paras": [
+            "Big Walk comes from House House, the studio behind Untitled Goose Game, and was published by Panic on August 4, 2026 for Steam, Nintendo Switch 2 and PS5. You and your friends walk as a line of hikers through a mountain park, solving environmental puzzles — pressure plates, bridges and the five color towers. There is no health bar, no inventory and no fail state beyond trying a puzzle again.",
+            "Grounded 2 goes the opposite direction. You are shrunk to insect size and dropped into a hostile park where almost everything wants you dead. You gather resources, craft tools and armor, raise a base and fight bugs — with up to four players sharing the workload.",
+            "So the real question in Big Walk or Grounded 2 is pressure. Grounded 2 is built on it: hunger meters, raids, gear decay. Big Walk deliberately removes all of it. The only enemy is a puzzle you have not figured out yet, and the only penalty for failure is walking back to the start of it.",
+            "That difference shapes the social feel too. Big Walk sessions turn into constant talking — calling out plates, debating routes — because talking is the whole mechanic. Grounded 2 talk is logistics: who farms what, who holds the base."
+          ]
+        },
+        {
+          "h2": "Which fits your group",
+          "paras": [
+            "Pick Big Walk if your group:",
+            "Pick Grounded 2 if your group:",
+            "Also check what your group owns. Big Walk runs on Steam, Nintendo Switch 2 and PS5; Grounded 2 is on Xbox and PC, where it is included with Game Pass. Plenty of groups will end up owning both, because the two games scratch different itches — Big Walk is the weeknight game, easy to start and easy to stop, while Grounded 2 is the weekend commitment."
+          ],
+          "lists": [
+            [
+              "Wants a calm, talky co-op night where the challenge is communication, not reflexes.",
+              "Includes players who do not usually play games — the controls are walking and interacting, nothing more.",
+              "Plays in short sessions; you can clear a tower or two and stop without abandoning a base mid-project."
+            ],
+            [
+              "Likes long-term progression — unlocking recipes, upgrading gear, expanding a shared base over weeks.",
+              "Enjoys combat and wants enemies to fight together, not just puzzles to solve.",
+              "Has four players; Big Walk is built around a smaller co-op line, while Grounded 2 supports up to four."
+            ]
+          ]
+        },
+        {
+          "h2": "Final verdict",
+          "paras": [
+            "If you can only buy one: a puzzle-loving duo or a mixed-skill group should buy Big Walk; a crew of survival fans with four players should buy Grounded 2. Big Walk is kinder to beginners, cheaper to get into, and the only one of the two where nobody has to know what a crafting bench is.",
+            "Want to build and survive with friends? Grounded 2. Want to solve puzzles together without any pressure? Big Walk — start with the complete guide, or check the price on your platform first."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is Big Walk like Grounded 2?",
+          "a": "Only in the broadest sense — both are co-op. Grounded 2 is survival crafting with combat, bases and resource grinding. Big Walk is a no-combat puzzle walk where the whole game is a group solving environmental puzzles together. Almost nothing you learn in one transfers to the other."
+        },
+        {
+          "q": "Which supports more players, Big Walk or Grounded 2?",
+          "a": "Grounded 2, with up to four players in a shared world. Big Walk is built around a smaller co-op line of walkers. If your regular crew is four people, that alone may settle the Big Walk or Grounded 2 question."
+        },
+        {
+          "q": "Which is more relaxing?",
+          "a": "Big Walk, by a wide margin. There are no enemies, no hunger meters and no base to defend — failure just means retrying the puzzle in front of you. Grounded 2 keeps constant survival pressure on, even when you are not in a fight."
+        },
+        {
+          "q": "Which is better for short sessions?",
+          "a": "Big Walk. Towers and puzzle stretches work as self-contained stops, so a one-hour evening session feels complete. Grounded 2 rewards longer sits — gathering runs, base projects and boss prep tend to stretch past the time you planned."
+        },
+        {
+          "q": "Does Big Walk have combat or crafting?",
+          "a": "No. Big Walk has no combat, no crafting and no inventory management. Every challenge is an environmental puzzle — plates, bridges, routes and the five color towers. If your group needs fighting to stay interested, Grounded 2 is the safer pick."
+        },
+        {
+          "q": "Is Big Walk or Grounded 2 better for beginners?",
+          "a": "Big Walk. The controls amount to walking and interacting, and nothing punishes slow play. Grounded 2 assumes comfort with survival systems — crafting trees, gear tiers, enemy types — which can bury a first-time player."
+        }
+      ],
+      "related": [
+        "vsWitness",
+        "vsIttakesTwo",
+        "coop",
+        "guide",
+        "price"
+      ]
+    }
+  }
+}

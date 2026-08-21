@@ -1,0 +1,2139 @@
+{
+  "meta": {
+    "code": "fr",
+    "name": "Français",
+    "ogLocale": "fr_FR",
+    "tagline": "Guides, outils et solutions des puzzles co-op de Big Walk",
+    "siteDescription": "WalkHub est un hub de guides créé par des fans pour Big Walk — solutions des tours, dépannage co-op, guides des outils et comparatifs."
+  },
+  "nav": {
+    "home": "Accueil",
+    "guide": "Guide",
+    "tools": "Outils",
+    "towers": "Tours",
+    "coop": "Dépannage co-op",
+    "price": "Prix"
+  },
+  "ui": {
+    "language": "Langue",
+    "adLabel": "Publicité",
+    "relatedHeading": "Autres guides Big Walk",
+    "stepsHeading": "Étape par étape",
+    "faqHeading": "Questions fréquentes",
+    "videoLabel": "Guide vidéo",
+    "breadcrumbHome": "Accueil",
+    "footerDisclaimer": "WalkHub est un hub de guides créé par des fans et n'est affilié ni au développeur ni à l'éditeur de Big Walk. Big Walk est une marque de son propriétaire respectif."
+  },
+  "slugs": {
+    "home": "",
+    "guide": "guide",
+    "tools": "tools",
+    "redTower": "red-tower",
+    "blackTower": "black-tower",
+    "greenTower": "green-tower",
+    "blueTower": "blue-tower",
+    "yellowTower": "yellow-tower",
+    "coop": "co-op-not-working",
+    "achievements": "achievements",
+    "price": "price",
+    "vsWitness": "vs-witness",
+    "vsIttakesTwo": "vs-it-takes-two",
+    "vsGrounded": "vs-grounded-2"
+  },
+  "pages": {
+    "redTower": {
+      "slug": "red-tower",
+      "title": "Big Walk : solution de la Tour rouge — pas à pas + carte",
+      "desc": "Bloqué sur la Tour rouge de Big Walk ? Solution complète du puzzle avec l'emplacement sur la carte, l'ordre de passage avec l'ancre et la plaque, et le piège du pont qui fait échouer la plupart des runs.",
+      "keywords": [
+        "big walk solution tour rouge",
+        "big walk tour rouge puzzle",
+        "big walk tour rouge emplacement",
+        "comment résoudre la tour rouge big walk",
+        "big walk tour rouge bloqué"
+      ],
+      "h1": "Big Walk : solution du puzzle de la Tour rouge",
+      "lead": "La Tour rouge est la tour d'introduction. La solution : alignez-vous sur le pad rouge, envoyez le marcheur de tête sur la plaque de pression, puis faites passer les autres un par un pour que le pont reste abaissé. Le run échoue si deux marcheurs quittent la plaque en même temps. Ci-dessous : l'emplacement exact sur la carte, l'ordre de passage complet et les erreurs qui terminent la plupart des tentatives.",
+      "sections": [
+        {
+          "h2": "Vue d'ensemble",
+          "paras": [
+            "La Tour rouge enseigne la boucle de base de Big Walk : une file de marcheurs, des plaques de pression et des ponts qui ne restent abaissés que tant qu'un poids les maintient. Considère-la comme le tutoriel de toutes les tours suivantes. Rien ici n'est chronométré et rien ne réapparaît contre toi — le seul ennemi, c'est un groupe qui avance avant d'avoir un plan.",
+            "Le puzzle comporte trois éléments actifs : le pad rouge de départ au pied de la tour, le pont qu'il abaisse, et la plaque d'ancrage de l'autre côté. Comprends comment ces trois éléments se transmettent le poids, et la tour se résout d'elle-même."
+          ],
+          "img": {
+            "src": "/images/red-tower-map.png",
+            "alt": "Carte du puzzle de la Tour rouge de Big Walk — pad de départ, plaque d'ancrage et passage du pont en file indienne"
+          }
+        },
+        {
+          "h2": "Où se trouve la Tour rouge sur la carte",
+          "paras": [
+            "La Tour rouge est la première tour colorée du parcours principal. Depuis la prairie de départ, suis le chemin qui sort de la zone du tutoriel et cherche la balise rouge qui brille à l'horizon. La tour se dresse au sommet d'une petite colline, et le pad de pression rouge se trouve directement à son pied : impossible de rater le déclencheur une fois sur place.",
+            "Comme elle arrive en premier, le jeu utilise l'approche pour t'apprendre deux réflexes à garder pour tout le run : avancer en groupe au lieu de te disperser, et lire le sol pour repérer les plaques avant de monter sur un pont. Chaque tour suivante part du principe que tu as appris les deux ici.",
+            "Si la balise n'est pas visible, tu as quitté le chemin principal — fais demi-tour vers la porte du tutoriel et la lueur rouge réapparaît en quelques pas."
+          ]
+        },
+        {
+          "h2": "Ce qu'il te faut",
+          "list": [
+            "Au moins 2 marcheurs (le puzzle est faisable en solo mais conçu pour la co-op).",
+            "Un marcheur prêt à être l'« ancre », celle qui ne quitte jamais la plaque.",
+            "Un accord en vocal ou en chat rapide sur l'ordre de passage avant que quiconque monte sur le pad."
+          ]
+        },
+        {
+          "h2": "Stratégie solo ou co-op",
+          "paras": [
+            "Big Walk adapte ses puzzles au nombre de marcheurs, et la Tour rouge en est l'exemple le plus clair. La disposition ne change jamais ; seul le nombre de marcheurs à coordonner varie. Choisis la version ci-dessous qui correspond à ton groupe et suis-la à la lettre lors de ta première tentative."
+          ]
+        },
+        {
+          "h3": "Solo",
+          "paras": [
+            "Seul, tu joues tous les rôles toi-même. Monte sur le pad rouge pour abaisser le pont, traverse à un rythme régulier et gare-toi sur la plaque d'ancrage. La marge est plus fine car il n'y a pas de deuxième marcheur pour garder le poids pendant que tu te repositionnes : avance avec méthode et ne saute jamais sur le pont — un rebond qui te fait quitter la plaque est l'échec solo le plus fréquent."
+          ]
+        },
+        {
+          "h3": "Co-op",
+          "paras": [
+            "En groupe, répartissez-vous en deux rôles avant de commencer. L'ancre traverse en premier et s'engage sur la plaque éloignée pour tout le run. Tous les autres traversent en file indienne derrière elle, un marcheur complètement de l'autre côté avant que le suivant s'engage. Deux marcheurs suffisent ; quatre ou plus, c'est juste une file plus longue, pas un puzzle plus dur.",
+            "Si tu joues sur Switch 2 ou PS5 avec des amis en local, confie le rôle d'ancre au joueur le plus calme — c'est un travail ennuyeux, et c'est exactement le but. Sur Steam avec des joueurs à distance, épingle la plaque éloignée dans le chat avant le premier passage pour verrouiller le rôle par écrit."
+          ]
+        },
+        {
+          "h2": "Les trois erreurs qui font échouer la plupart des runs",
+          "list": [
+            "Se précipiter sur le pont en même temps. Dès que la plaque se vide, le pont se rétracte et tout le monde tombe. Le remède, c'est la discipline : l'ancre tient, les autres traversent en file indienne.",
+            "Aucune ancre désignée. Si personne ne s'occupe de la plaque éloignée, le premier marcheur arrivé part souvent explorer, le pont se rétracte et le reste du groupe est coincé du mauvais côté. Nomme l'ancre à voix haute avant de toucher le pad.",
+            "Laisser un retardataire derrière. Les groupes qui se regroupent en haut sans vérifier le nombre forcent quelqu'un à retraverser un pont actif. Comptez les têtes de l'autre côté avant de monter."
+          ],
+          "ordered": true,
+          "paras": [
+            "Remarque ce que ces trois erreurs ont en commun : aucune n'est une erreur de résolution de puzzle. La Tour rouge échoue par manque de communication, pas de logique. Ralentis, dis le plan à voix haute, et la tour devient une formalité de deux minutes."
+          ]
+        },
+        {
+          "h2": "Checklist d'un run propre",
+          "list": [
+            "Désignez l'ancre avant de commencer — annoncez-le en vocal.",
+            "Mettez-vous d'accord sur l'ordre de passage pendant que tout le monde est encore sur le pad.",
+            "L'ancre traverse en premier et ne bouge plus jusqu'au carillon.",
+            "Traversez un par un ; attendez l'arrêt complet avant que le marcheur suivant s'engage.",
+            "Si un marcheur tombe, l'ancre reste ; le marcheur tombé réapparaît au pad.",
+            "Regroupez-vous et comptez les marcheurs de l'autre côté avant la montée.",
+            "Déclenchez la plaque de sortie en file complète pour une finition propre."
+          ],
+          "ordered": true
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Où est la Tour rouge dans Big Walk ?",
+          "a": "La Tour rouge est la première tour colorée que tu atteins sur le parcours principal, peu après la zone du tutoriel. Suis la balise rouge à l'horizon depuis la prairie de départ ; la tour se trouve au bout d'une petite colline avec le pad de pression rouge à son pied."
+        },
+        {
+          "q": "Quelle est la solution de la Tour rouge dans Big Walk ?",
+          "a": "Alignez-vous sur le pad rouge pour abaisser le pont, envoyez un marcheur tenir la plaque d'ancrage de l'autre côté, puis faites passer les autres en file indienne. Terminez en plaçant tout le groupe sur la plaque de sortie en haut."
+        },
+        {
+          "q": "Pourquoi le pont de la Tour rouge se rétracte-t-il sans arrêt ?",
+          "a": "Le pont est maintenu par une plaque de pression. Si la plaque est vide — par exemple si deux marcheurs la quittent en même temps — il se rétracte. Garde toujours au moins un marcheur sur une plaque : d'abord le pad de départ, puis la plaque d'ancrage de l'autre côté."
+        },
+        {
+          "q": "Peut-on résoudre la Tour rouge en solo ?",
+          "a": "Oui. Un seul marcheur peut abaisser le pont, sprinter de l'autre côté et tenir la plaque d'ancrage seul. C'est plus lent et plus serré qu'en co-op, mais il n'y a aucune exigence ferme de nombre de joueurs."
+        },
+        {
+          "q": "La Tour rouge est-elle obligatoire ?",
+          "a": "C'est la tour portail ; la terminer ouvre le chemin vers les tours suivantes, donc oui. Elle enseigne aussi la logique des plaques de pression sur laquelle s'appuient les tours noire, verte, bleue et jaune."
+        },
+        {
+          "q": "Que se passe-t-il si un marcheur tombe du pont ?",
+          "a": "Le marcheur tombé réapparaît au pad de départ. L'ancre sur la plaque éloignée ne doit pas bouger ; le marcheur réapparu retraverse simplement une fois le pont stable."
+        },
+        {
+          "q": "Combien de temps prend la Tour rouge ?",
+          "a": "Un groupe coordonné la boucle en quelques minutes. L'essentiel du temps part dans l'accord sur l'ancre et l'ordre de passage, pas dans le puzzle lui-même."
+        }
+      ],
+      "howTo": {
+        "name": "Résoudre la Tour rouge de Big Walk",
+        "steps": [
+          {
+            "title": "Monte sur le pad rouge",
+            "text": "Tous les marcheurs se rassemblent sur le pad de pression rouge au pied de la tour. Tant que le pad porte du poids, le premier pont reste abaissé. Ne laisse personne s'éloigner avant que l'ordre soit décidé."
+          },
+          {
+            "title": "Envoie le marcheur de tête de l'autre côté",
+            "text": "Le marcheur de tête monte sur le pont et s'arrête sur la plaque d'ancrage éloignée. Cette plaque maintient le pont abaissé pour le groupe, donc le reste du pad peut se vider sans risque."
+          },
+          {
+            "title": "Traverse un par un",
+            "text": "Les marcheurs restants suivent en file indienne, chacun attendant que celui de devant soit complètement passé. Ne laisse jamais les deux plaques vides en même temps, sinon le pont se rétracte et fait tomber quiconque s'y trouve."
+          },
+          {
+            "title": "Regroupe-toi avant la montée",
+            "text": "Attends de l'autre côté que tous les marcheurs soient passés. Un retardataire laissé sur le pad de départ oblige quelqu'un à revenir en arrière, et c'est là que se produisent la plupart des resets."
+          },
+          {
+            "title": "Monte en file",
+            "text": "Gravissez la tour ensemble en gardant le groupe compact. La Tour rouge n'a pas de chrono, donc aucune raison de sprinter dans les escaliers."
+          },
+          {
+            "title": "Activez la plaque finale ensemble",
+            "text": "En haut, toute la file se tient sur la plaque de sortie en même temps. Cela déclenche le carillon de réussite de la tour et ouvre la suite du chemin."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop",
+        "guide"
+      ]
+    },
+    "blackTower": {
+      "slug": "black-tower",
+      "title": "Big Walk : solution de la Tour noire — guide du timing",
+      "desc": "Solution de la Tour noire de Big Walk : le portail à trois impulsions expliqué, l'impulsion exacte pour traverser, et pourquoi les groupes recommencent sans cesse. Pas à pas avec schéma.",
+      "keywords": [
+        "big walk solution tour noire",
+        "big walk tour noire timing",
+        "comment passer la tour noire big walk",
+        "big walk tour noire impulsions",
+        "big walk tour noire reset"
+      ],
+      "h1": "Big Walk : solution du puzzle de la Tour noire",
+      "lead": "La Tour noire ajoute un portail de timing : des lumières pulsent dans un ordre fixe et les marcheurs doivent avancer en rythme. La solution : laisse l'ancre compter deux impulsions complètes, puis traverse à la troisième — ne bouge pas à la première impulsion, sinon le portail se réinitialise.",
+      "sections": [
+        {
+          "h2": "Vue d'ensemble",
+          "paras": [
+            "La Tour noire est l'endroit où Big Walk cesse de te tenir la main. La plaque de la Tour rouge est toujours là, mais c'est désormais un portail lumineux pulsé qui décide quand tu as le droit de traverser. Avance sur le mauvais temps et le portail se réinitialise, ce qui transforme une simple traversée en premier vrai puzzle que la plupart des groupes doivent résoudre ensemble.",
+            "Le remède tient en une règle : compte deux impulsions, bouge à la troisième. Tout le reste de cette page sert à faire respecter cette règle quand quatre marcheurs crient en même temps."
+          ],
+          "img": {
+            "src": "/images/black-tower-map.png",
+            "alt": "Carte du timing des impulsions de la Tour noire de Big Walk — bouge à la troisième impulsion"
+          }
+        },
+        {
+          "h2": "Le motif des impulsions expliqué",
+          "paras": [
+            "Les lumières noires du portail pulsent selon un cycle fixe de trois temps. Les deux premières impulsions sont des avertissements — elles illuminent le portail sans l'ouvrir. La troisième impulsion est la fenêtre d'ouverture, et c'est le seul moment où une traversée est enregistrée.",
+            "Deux détails comptent. D'abord, le cycle ne change jamais : peu importe le nombre de resets, l'ordre reste toujours un-deux-ouvert. Ensuite, le portail lit ta position sur le temps, pas ta vitesse. Un marcheur lent qui avance à la troisième impulsion traverse proprement ; un sprinteur qui part à la première réinitialise le portail pour tout le monde.",
+            "Si le motif te semble dur à lire au début, écoute au lieu de regarder : les impulsions ont un tic audible, et le troisième temps tombe avec une tonalité plus grave. Beaucoup de joueurs gardent le rythme à l'oreille une fois qu'ils l'ont remarqué."
+          ]
+        },
+        {
+          "h2": "L'astuce de timing",
+          "paras": [
+            "Les nouveaux groupes paniquent et bougent à la première impulsion. Le portail n'enregistre une traversée qu'à la troisième impulsion de chaque cycle, donc la patience bat la vitesse. Laisse l'ancre donner le rythme et les autres le reproduisent.",
+            "La méthode la plus propre est un compte parlé. L'ancre regarde les lumières et annonce « un, deux, go » — le « go » tombant exactement sur la troisième impulsion. Tous les autres marchent au « go » et ignorent complètement les lumières. Répartir le travail ainsi élimine l'échec le plus fréquent : deux marcheurs lisant les mêmes lumières avec des délais légèrement différents."
+          ]
+        },
+        {
+          "h2": "Un exercice de timing en solo",
+          "paras": [
+            "Si ton groupe échoue en boucle, arrête de traverser et travaille le rythme à la place. Tiens-toi au bord du portail, là où un pas déclencherait le reset, et répète cette boucle cinq fois :",
+            "Cinq répétitions propres suffisent pour ancrer le rythme. Ça paraît lent, mais c'est plus rapide que dix minutes de resets de groupe, et une fois qu'un joueur possède le rythme, il peut tenir le compte pour tous les autres."
+          ],
+          "list": [
+            "Regarde les impulsions et compte « un, deux » dans ta tête.",
+            "À la troisième impulsion, fais un pas en avant et arrête-toi.",
+            "Vérifie si le portail a signalé une traversée ou un reset.",
+            "Recule et recommence jusqu'à réussir cinq temps propres d'affilée."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Pourquoi les groupes réinitialisent sans cesse",
+          "paras": [
+            "Presque chaque run raté de la Tour noire tient aux trois mêmes causes :",
+            "Remarque ce qui n'est pas dans la liste : la tour elle-même. La Tour noire ne change jamais son motif, donc un groupe qui reset dix fois combat sa propre coordination, pas le puzzle."
+          ],
+          "list": [
+            "Bouger à la première impulsion. Le premier flash ressemble à un feu vert. Ça n'en est pas un — c'est le début du compte.",
+            "Chacun lit les lumières de son côté. Quatre comptes privés dérivent. Utilisez une seule ancre et une seule annonce partagée.",
+            "Pas de panique en chaîne. Un marcheur sursaute trop tôt, le suivant l'imite, et le portail se réinitialise au milieu de la file. Laisse un écart entre les marcheurs pour qu'un sursaut ne se propage pas."
+          ]
+        },
+        {
+          "h2": "Difficulté de la Tour noire par rapport à la Tour rouge",
+          "paras": [
+            "La Tour rouge enseigne le poids : garde un corps sur la plaque et le pont reste abaissé. La Tour noire conserve cette plaque et ajoute le rythme par-dessus, c'est pourquoi elle arrive comme le premier vrai pic de difficulté de Big Walk. La rouge pardonne le jeu lent et prudent ; la noire punit le jeu rapide et négligent.",
+            "Les compétences se transfèrent, cependant. Un groupe qui a appris à désigner une ancre dans la rouge possède déjà le réflexe que la Tour noire exige — le seul muscle nouveau, c'est de compter jusqu'à trois avant de bouger. La plupart des groupes bouclent la rouge du premier coup et ont besoin de deux ou trois essais pour la noire, et cet écart tient entièrement au portail de timing."
+          ]
+        },
+        {
+          "h2": "Conseils",
+          "list": [
+            "Annoncez le compte à voix haute en co-op pour que tout le monde bouge ensemble.",
+            "Si quelqu'un se trompe de temps, l'ancre tient et le groupe réessaie — pas besoin de reset complet.",
+            "Regarde le marcheur en haut ; sa position indique aux retardataires quand le portail est ouvert.",
+            "Traversez en file indienne avec un écart entre les marcheurs pour qu'un pas prématuré ne fasse pas chaîne.",
+            "Fais d'abord l'exercice solo si quelqu'un est nouveau — cinq temps propres valent mieux que dix resets.",
+            "Ignore la longueur de la passerelle ; le timing des impulsions est identique à chaque traversée."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Pourquoi la Tour noire se réinitialise-t-elle sans arrêt ?",
+          "a": "Le portail se réinitialise si un marcheur bouge sur la mauvaise impulsion. Compte deux impulsions complètes, bouge à la troisième, et le portail reste ouvert."
+        },
+        {
+          "q": "Peut-on faire la Tour noire en solo ?",
+          "a": "Oui — le timing est le même, tu traverses simplement la plaque toi-même sur l'impulsion ouverte. Beaucoup de joueurs trouvent même le rythme plus facile seuls, car il n'y a pas de deuxième marcheur qui dérive hors tempo."
+        },
+        {
+          "q": "La Tour noire est-elle plus dure que la rouge ?",
+          "a": "Elle ajoute le rythme par-dessus la mécanique de plaque, donc la plupart des joueurs la voient comme le premier vrai pic de difficulté."
+        },
+        {
+          "q": "Le motif d'impulsions de la Tour noire change-t-il ?",
+          "a": "Non. Le cycle de trois impulsions est fixe pour toute la tour. La seule chose qui change, c'est ta position — les traversées suivantes semblent plus rapides parce que la passerelle est plus longue, pas parce que les lumières accélèrent."
+        },
+        {
+          "q": "Combien de joueurs faut-il pour la Tour noire ?",
+          "a": "Le puzzle s'adapte à la taille de ton groupe comme le reste de Big Walk. Deux joueurs, c'est le minimum confortable : l'un tient le compte pendant que l'autre traverse sur l'impulsion ouverte."
+        },
+        {
+          "q": "Combien de temps le portail reste-t-il ouvert à la troisième impulsion ?",
+          "a": "Assez longtemps pour qu'une file indienne passe si tout le monde bouge au signal. Ce n'est pas un test de réflexes — si tu marches déjà à la troisième impulsion, tu passeras avec de la marge."
+        },
+        {
+          "q": "Qu'est-ce que la Tour noire dans Big Walk ?",
+          "a": "L'une des cinq tours colorées du jeu de puzzle co-op de House House. Elle s'appuie sur l'idée de plaque de pression de la Tour rouge en ajoutant un portail lumineux temporisé, et c'est la première tour que la plupart des groupes doivent recommencer."
+        },
+        {
+          "q": "Faut-il un chat vocal pour la Tour noire ?",
+          "a": "Ça aide énormément. Toute la solution repose sur un compte partagé, donc un « un, deux, go » parlé est bien plus fiable que de se regarder bouger. Les annonces texte fonctionnent si elles sont envoyées tôt."
+        }
+      ],
+      "howTo": {
+        "name": "Résoudre la Tour noire de Big Walk",
+        "steps": [
+          {
+            "title": "Observe un cycle complet",
+            "text": "Les lumières noires pulsent selon un motif fixe. Reste immobile au portail et apprends l'ordre avant que quiconque bouge — le cycle se répète à l'identique, donc une seule observation propre te dit tout."
+          },
+          {
+            "title": "Désigne l'ancre",
+            "text": "Choisis un marcheur pour mener le compte. Tous les autres restent silencieux et suivent le rythme de l'ancre au lieu de lire les lumières eux-mêmes."
+          },
+          {
+            "title": "L'ancre compte deux impulsions",
+            "text": "Le marcheur de tête compte deux impulsions complètes à voix haute, puis avance à la troisième — c'est le seul temps où le portail enregistre une traversée."
+          },
+          {
+            "title": "Traverse sur l'impulsion ouverte",
+            "text": "Les marcheurs restants suivent sur la même impulsion ouverte, en file indienne, avec un petit écart entre chacun pour qu'un pas prématuré ne se propage pas au suivant."
+          },
+          {
+            "title": "Récupère après un pas raté",
+            "text": "Si quelqu'un bouge sur la mauvaise impulsion, le portail se réinitialise, mais pas le run. L'ancre tient sa position, attend que le cycle reparte, et relance le compte."
+          },
+          {
+            "title": "Regroupe-toi en haut",
+            "text": "Une fois passé, tiens ta position pour que les marcheurs en retard puissent lire ta file et caler leur propre traversée sur la même impulsion ouverte."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop"
+      ]
+    },
+    "greenTower": {
+      "slug": "green-tower",
+      "title": "Big Walk : solution de la Tour verte — pas à pas",
+      "desc": "Solution de la Tour verte de Big Walk : dirige le rayon vers les deux récepteurs dans le bon ordre, déploie les deux ponts, et les erreurs qui les font tomber.",
+      "keywords": [
+        "big walk solution tour verte",
+        "big walk tour verte rayon",
+        "comment résoudre la tour verte big walk",
+        "big walk tour verte récepteurs",
+        "big walk tour verte ponts"
+      ],
+      "h1": "Big Walk : solution du puzzle de la Tour verte",
+      "lead": "La Tour verte repose sur une mécanique de lumière et de ponts : tu diriges un rayon vert vers un récepteur pour déployer un pont. La solution de la Tour verte de Big Walk : vise d'abord le récepteur proche (déploie le pont 1), traverse jusqu'à la plateforme centrale, puis fais pivoter le rayon vers le récepteur éloigné (déploie le pont 2) — jamais les deux à la fois. C'est un puzzle d'acheminement, pas un défi de timing.",
+      "sections": [
+        {
+          "h2": "Vue d'ensemble",
+          "paras": [
+            "La Tour verte remplace la plaque de pression par un rayon lumineux. Au lieu du poids, tu diriges un rayon vers des récepteurs qui déploient des ponts. Le hic : le rayon n'atteint qu'un récepteur par angle, donc tout le puzzle de la Tour verte de Big Walk porte sur l'ordre dans lequel tu allumes les choses, pas sur la vitesse. La route propre la plus rapide est toujours la même : récepteur proche, traversée, récepteur éloigné, traversée, plaque de sortie en file complète."
+          ],
+          "img": {
+            "src": "/images/green-tower-map.png",
+            "alt": "Carte d'acheminement du rayon de la Tour verte de Big Walk — le récepteur proche d'abord, le récepteur éloigné ensuite"
+          }
+        },
+        {
+          "h2": "Comment fonctionnent le rayon et les récepteurs",
+          "paras": [
+            "Un réflecteur au pied de la tour projette un rayon vert à travers le vide. Deux récepteurs se trouvent de l'autre côté — un proche et un éloigné — et chaque récepteur alimente exactement un pont. Tant que le rayon touche un récepteur, son pont reste déployé. Dès que le rayon s'en écarte, ce pont se rétracte.",
+            "Le réflecteur pivote, mais le rayon est une seule ligne droite. Il ne peut se verrouiller que sur un récepteur par angle, jamais les deux à la fois. Il n'y a ni chrono ni jauge : un récepteur tient tant que tu gardes le rayon dessus. C'est ce qui fait de la Tour verte un puzzle d'acheminement plutôt qu'un test de réflexes.",
+            "Tu sauras que le rayon est verrouillé quand le récepteur s'allume et que le pont se déploie dans un bruit sourd bien net. Un quasi-raté reste trompeur — le rayon frôle le bord et rien ne se déploie. Si un pont refuse de sortir, fais confiance au pont, pas à tes yeux : ajuste le réflecteur jusqu'à ce que le récepteur accroche visiblement."
+          ]
+        },
+        {
+          "h3": "Ce que les récepteurs alimentent vraiment",
+          "paras": [
+            "Le récepteur proche déploie le pont 1, qui va du pied de la tour à la plateforme centrale. Le récepteur éloigné déploie le pont 2, qui va de la plateforme centrale au sommet. Le pont 2 n'est utile qu'une fois ton groupe sur la plateforme centrale — l'allumer tôt te donne un pont que personne ne peut atteindre."
+          ]
+        },
+        {
+          "h2": "L'ordre des deux ponts, et pourquoi les deux ne restent jamais levés",
+          "paras": [
+            "Les joueurs essaient d'allumer les deux récepteurs et s'étonnent que le premier pont tombe. Tu en déploies un, tu traverses, puis tu re-vises. C'est une séquence, pas une résolution simultanée. Comme un seul rayon alimente un seul récepteur, tenir le pont 1 et le pont 2 ensemble est impossible par construction — la tour est conçue pour que le groupe s'engage pleinement dans chaque traversée avant de commencer la suivante.",
+            "Le rythme sûr : verrouille le récepteur proche, fais traverser tout le monde par le pont 1, puis bascule délibérément le rayon vers le récepteur éloigné. La rétraction du pont 1 derrière toi n'est pas un échec — c'est la mécanique qui fonctionne. Une fois le pont 2 déployé, traverse-le et empile toute la file sur la plaque de sortie."
+          ]
+        },
+        {
+          "h2": "Qui doit contrôler le réflecteur",
+          "paras": [
+            "Un seul marcheur contrôle le réflecteur ; les autres ne bougent pas tant qu'on ne leur dit pas. Choisis le contrôleur avant le début du run et dis-le à voix haute en vocal. Le contrôleur idéal est celui qui reste le plus calme en étant immobile — le travail consiste à quatre-vingt-dix pour cent à tenir un angle et à dix pour cent à pivoter au signal.",
+            "Le contrôleur traverse en dernier sur chaque pont, une fois tous les autres passés sains et saufs, et reprend le réflecteur sur la plateforme centrale pour la deuxième visée. Personne d'autre ne touche le réflecteur en cours de run. Deux joueurs qui se disputent la rotation sont la cause la plus fréquente d'échec d'une solution propre de la Tour verte de Big Walk.",
+            "Tous les autres n'ont qu'un travail : annoncer les traversées. Un simple « passé » de chaque marcheur indique au contrôleur que le pont peut tomber sans risque. Les groupes silencieux obligent le contrôleur à deviner, et c'est en devinant qu'on déplace le rayon trop tôt."
+          ]
+        },
+        {
+          "h2": "Erreurs d'acheminement fréquentes",
+          "list": [
+            "Viser le récepteur éloigné en premier. Le pont 2 part de la plateforme centrale, donc depuis la base c'est un pont vers nulle part.",
+            "Déplacer le rayon pendant que quelqu'un traverse. Si le rayon tombe, le contrôleur re-vise avant que quiconque bouge à nouveau.",
+            "Envoyer les marcheurs un par un avec de longs écarts. Traversez en groupe pour qu'un seul re-visage ne laisse jamais la moitié de la file coincée.",
+            "Quitter la plaque de sortie pour « aider » un retardataire. La plaque de sortie ne s'active qu'avec la file au complet, donc attends plutôt le dernier marcheur.",
+            "Pivoter en panique après la rétraction du pont 1. Cette rétraction est prévue — garde le rayon stable sur le récepteur éloigné."
+          ]
+        },
+        {
+          "h2": "Conseils pour un run propre",
+          "list": [
+            "Un seul marcheur contrôle le réflecteur ; les autres ne bougent pas tant qu'on ne leur dit pas.",
+            "Si le rayon tombe en pleine traversée, le contrôleur re-vise avant que quiconque bouge.",
+            "La plaque de sortie ne s'active qu'avec la file au complet.",
+            "Considère la Tour verte comme un entraînement à lire l'ordre des récepteurs — les tours suivantes réutilisent la même règle un-rayon-une-cible dans des conditions plus dures."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Pourquoi les deux ponts de la Tour verte ne restent-ils pas déployés ?",
+          "a": "Le rayon n'alimente qu'un récepteur à la fois, et chaque récepteur tient exactement un pont. Allumer le récepteur éloigné lâche le proche, donc le pont 1 se rétracte. Déploie et traverse le pont 1, puis re-vise pour le pont 2 — tu ne peux pas tenir les deux."
+        },
+        {
+          "q": "Quel est le bon ordre de la solution de la Tour verte de Big Walk ?",
+          "a": "Le récepteur proche d'abord, le récepteur éloigné ensuite. Vise le récepteur proche pour déployer le pont 1, traverse jusqu'à la plateforme centrale, puis fais pivoter le rayon vers le récepteur éloigné pour déployer le pont 2 et terminer l'ascension."
+        },
+        {
+          "q": "Qui vise le rayon en co-op ?",
+          "a": "Celui qui atteint le réflecteur en premier. Les autres attendent sur le pad ou la plateforme pour que le rayon ne tombe pas, et personne d'autre ne touche le réflecteur avant la fin du run."
+        },
+        {
+          "q": "Que se passe-t-il si le rayon tombe alors que quelqu'un est sur un pont ?",
+          "a": "Le pont se rétracte sous lui. Le contrôleur re-vise le récepteur avant que quiconque bouge à nouveau, et le marcheur tombé réapparaît au pad de la base."
+        },
+        {
+          "q": "La Tour verte est-elle un puzzle ou un défi de timing ?",
+          "a": "C'est un puzzle d'acheminement, pas de timing — bien plus indulgente que la Tour noire une fois l'ordre en deux étapes compris. Il n'y a pas de compte à rebours ; le rayon tient un récepteur tant que tu le laisses visé."
+        },
+        {
+          "q": "Pourquoi la plaque de sortie de la Tour verte ne se déclenche-t-elle pas ?",
+          "a": "La plaque de sortie ne s'active qu'avec la file au complet. Si un marcheur est encore sur la plateforme centrale ou en train de réapparaître à la base, attends-le avant d'espérer le carillon de réussite."
+        },
+        {
+          "q": "Peut-on sauter la plateforme centrale en visant d'abord le récepteur éloigné ?",
+          "a": "Non. Le pont 2 part de la plateforme centrale, donc allumer le récepteur éloigné depuis la base te donne un pont inaccessible. Le récepteur proche passe toujours en premier."
+        }
+      ],
+      "howTo": {
+        "name": "Résoudre la Tour verte de Big Walk",
+        "steps": [
+          {
+            "title": "Rassemble-toi au réflecteur",
+            "text": "Amène tout le groupe au réflecteur au pied de la tour et décidez qui le contrôle avant que quiconque le touche — changer en cours de puzzle, c'est comme ça que les runs échouent."
+          },
+          {
+            "title": "Vise le rayon sur le récepteur proche",
+            "text": "Fais pivoter le réflecteur jusqu'à ce que le rayon vert se verrouille sur le premier récepteur. Tu l'entendras accrocher, et le pont 1 se déploie de la base à la plateforme centrale."
+          },
+          {
+            "title": "Traverse le pont 1",
+            "text": "Les marcheurs traversent jusqu'à la plateforme centrale pendant que le rayon tient. Le contrôleur re-vise avant que quiconque bouge si le rayon tombe en pleine traversée."
+          },
+          {
+            "title": "Pivote vers le récepteur éloigné",
+            "text": "Depuis la plateforme centrale, déplace le rayon du récepteur proche vers le second. Le pont 1 se rétracte — c'est prévu — et le pont 2 se déploie jusqu'au sommet."
+          },
+          {
+            "title": "Traverse le pont 2",
+            "text": "Tous ceux qui sont sur la plateforme centrale empruntent le pont 2 jusqu'au sommet pendant que le rayon reste verrouillé sur le récepteur éloigné."
+          },
+          {
+            "title": "Termine l'ascension",
+            "text": "Traverse le pont 2 et place toute la file sur la plaque de sortie pour boucler la Tour verte. La plaque ne s'active que lorsque chaque marcheur est présent."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "blackTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop"
+      ]
+    },
+    "blueTower": {
+      "slug": "blue-tower",
+      "title": "Big Walk : solution de la Tour bleue — guide pas à pas",
+      "desc": "Bloqué sur la Tour bleue de Big Walk ? Solution complète du puzzle : niveaux d'eau de la vanne, la règle de la corniche à mi-niveau, et le piège de la vidange complète — avec schéma.",
+      "keywords": [
+        "big walk solution tour bleue",
+        "big walk tour bleue niveau d'eau",
+        "big walk tour bleue vanne",
+        "comment passer la tour bleue big walk",
+        "big walk tour bleue bloqué"
+      ],
+      "h1": "Big Walk : solution du puzzle de la Tour bleue",
+      "lead": "La Tour bleue est un puzzle de niveau d'eau : abaisser une vanne fait monter la passerelle. La solution : envoie un marcheur à la vanne, maintiens la passerelle à mi-niveau et laisse les autres traverser avant de vidanger complètement — vide tout et la corniche de passage disparaît.",
+      "sections": [
+        {
+          "h2": "Vue d'ensemble",
+          "paras": [
+            "La Tour bleue introduit un puzzle d'eau vertical. Contrairement aux tours de plaque et de rayon, la réussite dépend de combien tu modifies l'environnement, pas seulement de l'ordre. Une seule vanne contrôle le niveau d'eau, et le niveau d'eau décide quelles corniches existent. Règle le bon niveau une fois et la tour est une courte promenade ; trompe-toi et tu coinces ta propre équipe du mauvais côté d'un vide que tu as créé.",
+            "C'est aussi la première tour où un joueur passe l'essentiel du run immobile. C'est voulu. Big Walk récompense les groupes capables de se répartir les tâches et de se faire confiance, et la Tour bleue est le test de confiance le plus net du jeu : les marcheurs qui traversent ne voient pas la vanne, et le marcheur à la vanne ne voit pas la corniche."
+          ],
+          "img": {
+            "src": "/images/blue-tower-map.png",
+            "alt": "Carte des niveaux d'eau de la Tour bleue de Big Walk — états plein, mi-niveau et vide"
+          }
+        },
+        {
+          "h2": "Les trois états de l'eau",
+          "paras": [
+            "La Tour bleue a exactement trois états d'eau, et chacun change ce sur quoi tu peux marcher :",
+            "Tout le puzzle tient en une décision : arrête-toi à mi-niveau. Tout le reste, c'est de la marche. Les groupes qui échouent ici comprennent presque toujours très bien la mécanique — ils ne peuvent simplement pas résister à tourner la vanne d'un cran de plus pour « sécuriser », et la tour punit exactement cet instinct. Si ton groupe échoue en boucle, regarde l'eau, pas les marcheurs : chaque échec de la Tour bleue remonte à un tour de vanne qui n'aurait pas dû avoir lieu."
+          ],
+          "list": [
+            "Plein. L'état de départ. La zone basse est sous l'eau, la corniche de passage est immergée, et personne ne peut aller nulle part d'utile. La seule action productive dans cet état est d'amener un marcheur à la vanne.",
+            "Mi-niveau. L'état de résolution. L'eau baisse assez pour dégager la corniche de passage entre les deux côtés, mais reste assez haute pour que la corniche enjambe encore le vide. Le marcheur à la vanne en bas n'est pas noyé, et la route de traversée en haut est ouverte. Presque tout le run se déroule dans cet état.",
+            "Vide. L'état d'échec. Sans eau, la corniche de passage perd sa portée et disparaît. Tout marcheur encore du mauvais côté est coincé, et la tour doit être remplie à nouveau pour récupérer."
+          ]
+        },
+        {
+          "h2": "Le rôle du marcheur à la vanne",
+          "paras": [
+            "Chaque run de la Tour bleue a besoin d'un marcheur à la vanne désigné. Ce joueur descend au point le plus bas, tourne la vanne de plein à mi-niveau, puis accomplit la chose la plus dure en co-op : rien. Il tient sa position pendant que le reste du groupe traverse au-dessus de lui, et il résiste à toute envie d'aider.",
+            "Deux règles gardent le marcheur à la vanne en vie. D'abord, ne remonte jamais l'eau pendant qu'il est en bas — l'eau pleine noie la zone de la vanne. Ensuite, ne termine jamais la vidange pendant qu'il est en bas — à vide, sa route de montée change et il ne peut pas revenir avant que la tour soit terminée. Une fois la file sur la plaque de sortie en haut, le marcheur à la vanne escalade le côté désormais vidangé et le run est bouclé.",
+            "En vocal, traite la vanne comme une arme chargée : personne n'y touche sans l'annoncer, et personne ne l'annonce pendant qu'un marcheur traverse. Un simple « niveau réglé, on traverse » et « libre, tout le monde est passé » constitue tout le protocole de communication dont la tour a besoin."
+          ]
+        },
+        {
+          "h2": "Pourquoi une vidange complète fait échouer le run",
+          "paras": [
+            "L'instinct est de tout vidanger pour avoir un chemin dégagé. Ça semble sûr — pas d'eau, pas de noyade, pas de problème. Mais la Tour bleue est construite pour que la corniche de passage dépende de l'eau qui la maintient en place. À mi-niveau, la corniche est dégagée et praticable ; à vide, la portée s'effondre et les deux côtés de la tour ne sont plus reliés.",
+            "C'est l'échec le plus fréquent de la Tour bleue : le groupe traverse proprement, quelqu'un ouvre « utilement » la vanne à fond, et le marcheur encore de l'autre côté — généralement le marcheur à la vanne lui-même — n'a plus de route de retour. Le remède, c'est la discipline, pas le skill. Arrête la vanne à mi-niveau, annonce que le niveau est réglé, et n'y touche plus tant que la plaque de sortie n'a pas été déclenchée depuis la plateforme supérieure.",
+            "Si ça arrive quand même, la récupération est simple : remplis la tour à plein, puis règle à nouveau mi-niveau depuis zéro. Les états sont répétables et rien n'est définitivement perdu, donc traite une mauvaise vidange comme un reset, pas comme une session ratée."
+          ]
+        },
+        {
+          "h2": "Route solo de la Tour bleue",
+          "paras": [
+            "En solo, tu fais les deux tâches toi-même, dans cet ordre :",
+            "Le solo est en fait plus indulgent que la co-op ici : il n'y a pas de coéquipier pour vidanger l'eau trop tôt, et le seul timing qui compte est le tien. La remontée depuis la vanne est le seul passage délicat — prends-la lentement et ne sprinte pas sur la corniche, car la portée est étroite et une chute signifie remplir à nouveau depuis plein. Résiste juste à l'envie de vider la tour « pour plus tard » — mi-niveau est l'arrivée, pas un checkpoint.",
+            "Une remarque propre au solo : comme tu es à la fois le marcheur à la vanne et le traverseur, tu n'as jamais besoin du troisième état d'eau. Si tu te retrouves à vide à un moment quelconque, tu as tourné un cran de trop — remplis à plein et règle à nouveau mi-niveau."
+          ],
+          "list": [
+            "Descends à la vanne et règle l'eau à mi-niveau.",
+            "Remonte du côté de l'entrée — l'état mi-niveau dégage ton chemin de retour.",
+            "Traverse la corniche jusqu'à la plateforme supérieure, lentement et au centre.",
+            "Monte sur la plaque de sortie pour terminer la tour."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Annonces co-op pour la Tour bleue",
+          "paras": [
+            "La tour est mécaniquement simple, donc presque chaque échec est un échec de communication. Mettez-vous d'accord sur trois courtes annonces avant que quiconque descende :",
+            "Avec trois ou quatre marcheurs, fais passer en premier le joueur le plus lent ou le moins à l'aise pour que le groupe ne l'attende pas à la fin. Avec deux marcheurs, les rôles sont fixes — un à la vanne, un qui traverse — et le traverseur doit attendre l'annonce « niveau réglé » avant de monter sur la corniche, car la portée n'apparaît qu'une fois l'eau stabilisée."
+          ],
+          "list": [
+            "« Je règle à mi-niveau. » Le marcheur à la vanne s'apprête à tourner la vanne. Personne ne bouge jusqu'à l'annonce suivante.",
+            "« Niveau réglé, on traverse. » La corniche est là et les marcheurs y sont. La vanne est désormais intouchable.",
+            "« Tout le monde est passé. » Tout le monde est sur la plateforme supérieure et la plaque de sortie est la prochaine étape. C'est seulement maintenant que le marcheur à la vanne peut quitter son poste et grimper."
+          ]
+        },
+        {
+          "h2": "Erreurs fréquentes de la Tour bleue",
+          "paras": [
+            "Au-delà de la vidange complète, trois erreurs plus petites expliquent la plupart des tentatives ratées. D'abord, tout le groupe descend ensemble : si tout le monde est à la vanne, personne n'est en position pour traverser quand la corniche apparaît, et quelqu'un doit de toute façon remonter. Ensuite, traverser avant que l'eau se stabilise — la corniche ne devient solide qu'à mi-niveau, donc s'engager pendant la transition te fait tomber dans le vide. Troisièmement, le marcheur à la vanne qui part « explorer » la zone basse vidangée pendant que le groupe traverse ; s'il heurte la vanne en chemin, le run est fini.",
+            "Aucun de ces problèmes n'est un problème de mécanique. Ce sont des problèmes de patience, et ils ont tous le même remède : une tâche par marcheur, un changement à la fois, et une annonce avant chaque changement."
+          ]
+        },
+        {
+          "h2": "Conseils",
+          "list": [
+            "Désignez le marcheur à la vanne avant de commencer, et dites-le à voix haute en vocal.",
+            "Traversez à mi-niveau ; ne touchez plus la vanne tant que la file n'est pas en haut.",
+            "Traversez en file indienne sur la corniche pour qu'un marcheur bousculé n'en fasse pas tomber d'autres.",
+            "Si un run tourne mal, remplis à plein et recommence — les trois états sont répétables.",
+            "La plaque de sortie termine la tour pour tout le groupe, y compris le marcheur à la vanne encore en bas."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Pourquoi la corniche de passage de la Tour bleue disparaît-elle ?",
+          "a": "La corniche n'existe qu'à mi-niveau. L'eau maintient physiquement la portée en place, donc si tu vidanges complètement la tour, la corniche qui relie les deux côtés disparaît. Maintiens le niveau à mi-niveau et garde-la dégagée jusqu'à ce que chaque marcheur ait rejoint la plateforme supérieure."
+        },
+        {
+          "q": "À quoi sert la vanne dans la Tour bleue ?",
+          "a": "La vanne règle la hauteur de l'eau, et la hauteur de l'eau décide quelles corniches sont praticables. L'eau pleine immerge tout, mi-niveau dégage la corniche de passage, et vide la supprime complètement. Mi-niveau est le bon réglage — règle-le une fois et n'y touche plus."
+        },
+        {
+          "q": "La Tour bleue peut-elle faire échouer tout le groupe ?",
+          "a": "Seulement si l'eau est vidangée alors que des marcheurs ont encore besoin de la corniche. Garde le marcheur à la vanne isolé à la vanne, communiquez avant tout changement, et le reste du groupe traverse en sécurité. Un marcheur coincé réapparaît, mais le run perd sa finition propre."
+        },
+        {
+          "q": "Qui devrait être le marcheur à la vanne ?",
+          "a": "Choisis le joueur le plus patient du groupe. Le marcheur à la vanne ne fait presque rien pendant l'essentiel du run — il règle le niveau une fois, le tient, et ressort en dernier. C'est un rôle peu actif mais à forte responsabilité, alors confie-le à quelqu'un qui ne s'ennuiera pas et n'improvisera pas."
+        },
+        {
+          "q": "Peut-on résoudre la Tour bleue en solo ?",
+          "a": "Oui. Règle la vanne à mi-niveau toi-même, remonte du côté de l'entrée, traverse la corniche et active la plaque de sortie. C'est plus lent qu'en co-op car un seul marcheur fait les deux tâches, mais rien dans le puzzle n'exige strictement un deuxième joueur."
+        },
+        {
+          "q": "Que se passe-t-il si le marcheur à la vanne est noyé ?",
+          "a": "Le marcheur à la vanne n'est noyé que si l'eau reste à plein ou est remontée pendant qu'il est en bas. Règle mi-niveau avant d'envoyer quiconque traverser et il reste en sécurité pendant tout le run. Si ça arrive quand même, il réapparaît et tu réinitialises le niveau."
+        },
+        {
+          "q": "La Tour bleue est-elle obligatoire pour finir Big Walk ?",
+          "a": "Oui. La Tour bleue est l'une des cinq tours colorées du parcours principal du puzzle co-op de House House, et terminer les cinq ouvre la route vers la fin du jeu. Il n'y a ni raccourci ni chemin alternatif pour la contourner."
+        }
+      ],
+      "howTo": {
+        "name": "Résoudre la Tour bleue de Big Walk",
+        "steps": [
+          {
+            "title": "Envoie un marcheur à la vanne",
+            "text": "Le marcheur le plus bas descend et atteint la vanne d'eau qui contrôle le niveau de la tour. Tous les autres restent en place du côté de l'entrée et attendent."
+          },
+          {
+            "title": "Maintiens le mi-niveau",
+            "text": "Tourne la vanne seulement jusqu'à mi-niveau — cela dégage la corniche de passage sans noyer le marcheur à la vanne en bas ni vider entièrement le chemin."
+          },
+          {
+            "title": "Traverse par la corniche",
+            "text": "Les marcheurs restants utilisent la corniche de mi-niveau pour rejoindre la plateforme supérieure. Traversez en file indienne pour que personne ne soit bousculé hors de la portée étroite."
+          },
+          {
+            "title": "Ne touche pas la vanne",
+            "text": "Tant que quelqu'un traverse, le marcheur à la vanne tient sa position et ne change rien. Un cran de trop fait baisser l'eau, et la corniche avec elle."
+          },
+          {
+            "title": "Termine depuis le sommet",
+            "text": "Depuis la plateforme supérieure, la file active la plaque de sortie ; c'est seulement alors que le marcheur à la vanne escalade le côté désormais vidangé pour rejoindre le groupe."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "yellowTower",
+        "tools",
+        "coop"
+      ]
+    },
+    "yellowTower": {
+      "slug": "yellow-tower",
+      "title": "Big Walk : solution de la Tour jaune — guide du final",
+      "desc": "Solution de la Tour jaune de Big Walk : la tour finale résolue de bas en haut — plaque, rayon, puis eau — avec la répartition des rôles et la récupération après reset.",
+      "keywords": [
+        "big walk solution tour jaune",
+        "big walk tour jaune finale",
+        "comment finir la tour jaune big walk",
+        "big walk dernière tour",
+        "big walk tour jaune guide"
+      ],
+      "h1": "Big Walk : solution du puzzle de la Tour jaune",
+      "lead": "La Tour jaune est le final et combine toutes les mécaniques précédentes : plaque, rayon et eau en une seule ascension. La solution : résous-la de bas en haut — la plaque d'abord pour le pont de la base, le rayon pour le milieu, l'eau en dernier pour le sommet — et n'active la plaque de sortie qu'en file complète.",
+      "sections": [
+        {
+          "h2": "Vue d'ensemble",
+          "paras": [
+            "La Tour jaune est le tour d'honneur. Ce n'est pas une mécanique nouvelle — c'est les quatre tours précédentes empilées. Si tu as résolu la rouge, la verte et la bleue, tu connais déjà chaque mouvement ; le défi est de les enchaîner sans reset. L'ascension comporte trois étages nets : une section plaque à la base, une section rayon au milieu, et une section eau qui garde le sommet. Chaque étage se termine par un pont ou une corniche qui porte le groupe vers le haut, et la plaque du sommet tout en haut est la ligne d'arrivée de toute la marche."
+          ],
+          "img": {
+            "src": "/images/yellow-tower-map.png",
+            "alt": "Carte du final de la Tour jaune de Big Walk — plaque, rayon et eau dans l'ordre de bas en haut"
+          }
+        },
+        {
+          "h2": "Pourquoi l'ordre va de bas en haut",
+          "paras": [
+            "Chaque mécanique de la Tour jaune déploie exactement un pont, et chaque pont s'appuie sur la section en dessous. Le pont de la base vient de la plaque rouge, le pont du milieu du récepteur du rayon jaune, et la corniche finale de la vanne d'eau. Comme chaque section est physiquement soutenue par la précédente, déclencher une mécanique trop tôt ne fait pas gagner de temps — cela fait tomber le pont sous toi et force à regrimper.",
+            "La règle pratique est simple : ne touche jamais au mécanisme suivant tant que le pont devant toi n'est pas entièrement déployé et stable. Le coureur du rayon doit attendre l'annonce de l'ancre confirmant que la plaque de la base est tenue, et le responsable de la vanne doit attendre que le pont du milieu soit praticable. Les groupes qui bâclent l'ordre sont ceux qui postent des clips de toute la file tombant dans l'eau.",
+            "Vois ça comme trois solutions de tours distinctes cousues ensemble. Tu ne sauterais pas d'étapes dans les tours rouge, verte ou bleue, et la Tour jaune punit exactement les mêmes raccourcis."
+          ]
+        },
+        {
+          "h2": "Répartition des rôles pour un groupe au complet",
+          "paras": [
+            "La Tour jaune est bien plus facile quand chacun a un rôle nommé avant le début de l'ascension. Annoncez les rôles en vocal pendant que vous êtes encore à la base."
+          ]
+        },
+        {
+          "h3": "L'ancre",
+          "paras": [
+            "L'ancre possède la plaque rouge à la base. Elle monte dessus, y reste, et ne bouge pour aucune raison tant que le pont du milieu n'est pas stable et que le groupe n'a pas annoncé le feu vert. C'est le même travail que l'ancre de la Tour rouge, et c'est le rôle le plus important de la tour — si l'ancre part trop tôt, le pont de la base se rétracte et tout le monde sous la section du milieu tombe."
+          ]
+        },
+        {
+          "h3": "Le coureur du rayon",
+          "paras": [
+            "Le coureur du rayon traverse le pont de la base en premier et dirige le rayon jaune vers le récepteur du milieu. C'est de la pure mémoire musculaire de la Tour verte : positionne le rayon, confirme que le récepteur s'allume, et tiens jusqu'à ce que le deuxième pont se déploie. Le coureur du rayon devrait être ton joueur de puzzles le plus sûr de lui, car il travaille seul pendant que le reste du groupe attend."
+          ]
+        },
+        {
+          "h3": "Le responsable de la vanne",
+          "paras": [
+            "Le responsable de la vanne attend à mi-hauteur et tourne la vanne une fois le pont du milieu confirmé. L'eau qui monte dégage la corniche finale, exactement comme dans la Tour bleue. Après l'apparition de la corniche, le responsable de la vanne rejoint la file pour l'ascension finale."
+          ]
+        },
+        {
+          "h3": "Tous les autres",
+          "paras": [
+            "Les marcheurs restants n'ont qu'un travail : rester à l'écart et traverser dans l'ordre. Suivez la file indienne, ne doublez jamais les porteurs de rôles, et attendez une confirmation verbale avant de monter sur un nouveau pont."
+          ]
+        },
+        {
+          "h2": "Récupérer après un reset en cours de tour",
+          "paras": [
+            "Les resets arrivent. Un marcheur glisse, quelqu'un quitte une plaque trop tôt, ou le rayon est désaligné — et une partie du groupe se retrouve à un étage inférieur. L'essentiel : un reset est rarement total. Tout pont stabilisé reste déployé tant que son mécanisme est maintenu, donc une chute te coûte généralement une section, pas toute la tour.",
+            "Quand quelqu'un tombe, ne vous dispersez pas. L'ancre continue de tenir la plaque de la base quoi qu'il arrive — c'est la seule position qui ne doit jamais être abandonnée. Le marcheur tombé réapparaît plus bas et regrimpe le long des ponts encore debout. Tous les autres se figent sur place jusqu'à ce que la file soit à nouveau entière.",
+            "Si le reset a cascadé et qu'un pont s'est vraiment rétracté, résous simplement cette section dans le même ordre de bas en haut : plaque, puis rayon, puis vanne. Résiste à l'envie d'improviser une nouvelle séquence sous pression — la tour ne change pas, et l'ordre qui a marché la première fois remarche."
+          ]
+        },
+        {
+          "h2": "Ce que la Tour jaune débloque",
+          "paras": [
+            "Monter sur la plaque du sommet en file complète termine la Tour jaune et achève la marche elle-même — c'est la fin de Big Walk. Le carillon de réussite retentit, la cinématique finale se lance, et ton groupe obtient le générique ensemble, ce qui est tout l'intérêt du design co-op de House House : personne ne franchit la ligne d'arrivée seul.",
+            "Après le générique, tu peux continuer à explorer le monde avec ton groupe, récupérer les succès manqués en route, ou repartir pour une nouvelle marche avec de nouveaux joueurs. Si tu vises les 100 %, consulte la liste des succès pour les déblocages liés aux tours — plusieurs ne comptent que si la file complète était présente à l'arrivée."
+          ]
+        },
+        {
+          "h2": "Conseils",
+          "list": [
+            "Garde une ancre sur la plaque rouge en permanence pendant que les autres gèrent le rayon et la vanne.",
+            "Confirme que chaque pont est entièrement déployé et stable avant que quiconque touche au mécanisme suivant.",
+            "Traversez en file indienne et ne doublez jamais les porteurs de rôles sur un pont.",
+            "Si un marcheur tombe, l'ancre reste en place — le marcheur tombé regrimpe le long des ponts encore debout.",
+            "Annoncez chaque changement d'état en vocal : plaque tenue, rayon acheminé, vanne tournée, pont stable.",
+            "Terminez en file complète sur la plaque du sommet pour la fin propre — une file partielle ne s'enregistre pas."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "La Tour jaune est-elle la dernière tour ?",
+          "a": "Oui — c'est le final de Big Walk et elle réutilise les mécaniques de plaque, de rayon et d'eau des tours précédentes. La terminer achève la marche."
+        },
+        {
+          "q": "Dans quel ordre résoudre la Tour jaune ?",
+          "a": "De bas en haut : la plaque pour le pont de la base, le rayon pour le pont du milieu, l'eau pour la corniche du sommet. Déclencher une mécanique avant que celle du dessous soit stable fait tomber le pont sous toi."
+        },
+        {
+          "q": "Pourquoi la Tour jaune ne se termine-t-elle pas ?",
+          "a": "La plaque du sommet ne s'active qu'avec la file au complet. Si un marcheur est encore en train de grimper, de réapparaître ou coincé à un niveau inférieur, la tour ne se termine pas. Attends tout le monde avant de monter dessus."
+        },
+        {
+          "q": "Faut-il finir les autres tours d'abord ?",
+          "a": "En pratique, oui. La Tour jaune suppose que tu maîtrises déjà la tenue de plaque de la Tour rouge, l'acheminement du rayon de la Tour verte et le timing de la vanne de la Tour bleue, et elle ne donne aucune indication de tutoriel pour aucune d'elles."
+        },
+        {
+          "q": "Combien de joueurs faut-il pour la Tour jaune ?",
+          "a": "Elle est conçue pour une file co-op au complet, car les rôles d'ancre, de coureur du rayon et de responsable de la vanne se chevauchent. Les petits groupes peuvent s'en sortir en tournant les rôles, mais attends-toi à une ascension plus lente et plus méthodique."
+        },
+        {
+          "q": "Que se passe-t-il si quelqu'un tombe près du sommet ?",
+          "a": "Le marcheur tombé réapparaît plus bas, mais chaque pont déjà stabilisé reste debout tant que l'ancre tient la plaque de la base. Le marcheur tombé regrimpe simplement et rejoint la file."
+        },
+        {
+          "q": "Y a-t-il une limite de temps dans la Tour jaune ?",
+          "a": "Non. La seule pression est la coordination. Prends l'ascension lentement, confirme chaque pont avant de continuer, et la tour est très indulgente."
+        }
+      ],
+      "howTo": {
+        "name": "Résoudre la Tour jaune de Big Walk",
+        "steps": [
+          {
+            "title": "Regroupe-toi à la base",
+            "text": "Rassemble tout le groupe au pied de la Tour jaune et attribuez les rôles avant que quiconque touche un mécanisme : une ancre pour la plaque, un coureur pour le rayon, un responsable pour la vanne."
+          },
+          {
+            "title": "Active la plaque de la base",
+            "text": "L'ancre monte sur la plaque rouge et y reste pour déployer le pont de la base — la même discipline de tenue de plaque que la Tour rouge a enseignée."
+          },
+          {
+            "title": "Achemine le rayon au milieu",
+            "text": "Une fois le pont de la base stable, le coureur du rayon dirige le rayon jaune vers le récepteur du milieu pour déployer le deuxième pont, exactement comme dans la Tour verte."
+          },
+          {
+            "title": "Monte l'eau pour le sommet",
+            "text": "Le responsable de la vanne tourne la vanne à mi-niveau pour faire monter l'eau et dégager la corniche finale, le mouvement que la Tour bleue t'a inculqué."
+          },
+          {
+            "title": "Grimpe en file",
+            "text": "Tout le monde traverse les trois ponts dans l'ordre, en file indienne, sans que personne ne se précipite devant le pont qui le précède."
+          },
+          {
+            "title": "Termine sur la plaque du sommet",
+            "text": "Tout le groupe se tient ensemble sur la plaque du sommet pour terminer la tour et la marche — le final ne s'enregistre que lorsque la file complète est présente."
+          }
+        ]
+      },
+      "videoId": "c30AAvpS6do",
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "tools",
+        "coop",
+        "guide"
+      ]
+    },
+    "coop": {
+      "slug": "co-op-not-working",
+      "title": "Big Walk : la co-op / le crossplay ne marche pas ? Solutions",
+      "desc": "Dépannage co-op et crossplay de Big Walk : codes d'invitation, NAT, limites de plateformes et les solutions aux déconnexions rendues célèbres sur Reddit.",
+      "keywords": [
+        "big walk coop ne marche pas",
+        "big walk crossplay",
+        "big walk multijoueur problème",
+        "big walk code de session invalide",
+        "big walk nat strict",
+        "big walk impossible de rejoindre"
+      ],
+      "h1": "Big Walk : la co-op / le crossplay ne marche pas ? Solutions",
+      "lead": "Big Walk est conçu pour la co-op, mais la connexion échoue plus souvent qu'elle ne devrait. Les causes habituelles : un code d'invitation erroné, un NAT strict, ou une plateforme avec laquelle l'hôte de la session ne peut pas crossplayer. Fais les vérifications ci-dessous dans l'ordre — la plupart des déconnexions se règlent à l'étape 2.",
+      "sections": [
+        {
+          "paras": [
+            "Big Walk est un jeu de puzzle co-op de House House, édité par Panic, sorti le 4 août 2026 sur Steam, Nintendo Switch 2 et PS5. Chaque marche est une session hébergée en pair-à-pair : un joueur héberge, tous les autres rejoignent directement sa partie. Cette conception explique pourquoi les problèmes de connexion frappent plus fort ici que dans les jeux à serveurs — si le réseau de l'hôte te rejette, il n'y a pas de serveur de secours pour rattraper la connexion. La bonne nouvelle : presque chaque signalement de « co-op Big Walk qui ne marche pas » tient à l'une de quatre causes, et les quatre se réparent en quelques minutes."
+          ],
+          "img": {
+            "src": "/images/coop-platforms.png",
+            "alt": "Checklist de dépannage co-op de Big Walk — relancer la session, vérifier le NAT, aligner les versions, rajouter l'ami"
+          }
+        },
+        {
+          "h2": "Solutions rapides qui règlent la plupart des cas",
+          "paras": [
+            "Parcours cette liste avant toute chose plus profonde. Chaque vérification prend moins d'une minute, et ensemble elles règlent la grande majorité des connexions échouées et des déconnexions en cours de marche."
+          ],
+          "list": [
+            "Code refusé : les codes d'invitation sont sensibles à la casse et expirent. Demande à l'hôte de régénérer un code frais et colle-le exactement comme affiché — un seul caractère faux échoue sans erreur utile.",
+            "Bloqué sur « connexion » : la poignée de main pair-à-pair est bloquée, presque toujours par un NAT strict. Passe en connexion filaire ou active l'UPnP sur ton routeur, puis réessaie.",
+            "Connexion puis coupure : le lien s'ouvre mais ne tient pas. Fais héberger la marche par le joueur au NAT ouvert et fais rejoindre tous les autres chez lui.",
+            "Crossplay invisible : l'option crossplay est désactivée d'un côté. Les deux joueurs doivent l'activer ; le réglage ne se synchronise pas entre plateformes.",
+            "Session absente de la liste : versions différentes. Mets Big Walk à jour sur les deux machines et redémarre complètement le jeu, pas juste en le reprenant."
+          ]
+        },
+        {
+          "h2": "Vérifications plateforme par plateforme",
+          "paras": [
+            "Big Walk fait tourner le même netcode pair-à-pair sur les trois plateformes de lancement, mais chaque système a sa propre façon de le casser. Va directement à la plateforme qui échoue."
+          ]
+        },
+        {
+          "h3": "Steam",
+          "paras": [
+            "Sur Steam, commence par vérifier les fichiers du jeu : clic droit sur Big Walk dans ta bibliothèque, ouvre Propriétés, puis Fichiers installés, et lance la vérification. Un téléchargement partiel après un patch casse les poignées de main de session sans symptôme évident. Ensuite, vérifie le pare-feu Windows — la première fois que Big Walk a hébergé une session, il a demandé l'accès au réseau, et si tu as ignoré cette invite, l'hébergement est bloqué tant que tu ne l'autorises pas sur les réseaux privés. Enfin, confirme que les deux joueurs sont sur la même branche Steam ; opter pour une branche bêta ou de test rend ta version invisible pour les joueurs sur la version stable."
+          ]
+        },
+        {
+          "h3": "PS5",
+          "paras": [
+            "Sur PS5, vérifie d'abord deux éléments au niveau système. Ouvre Paramètres, Réseau, et lance le test de connexion pour voir ton type de NAT — les types 1 et 2 conviennent, le type 3 est le cas strict qui cause la plupart des échecs. Ensuite, assure-toi que la console n'a pas été réveillée du mode repos en pleine session ; reprendre Big Walk depuis le repos laisse parfois l'ancienne session à moitié ouverte, donc ferme complètement le jeu et relance-le. Le crossplay se trouve dans les paramètres en jeu, pas dans les paramètres système, donc active-le dans Big Walk lui-même. Si le PSN subit une panne partielle, les connexions via la liste d'amis échouent même quand les codes directs fonctionnent — utilise un code à la place."
+          ]
+        },
+        {
+          "h3": "Nintendo Switch 2",
+          "paras": [
+            "Sur Switch 2, ouvre Paramètres de la console, Internet, et teste la connexion pour lire ton grade de NAT. Les grades A et B se comportent comme un NAT ouvert et modéré ; C et en dessous auront du mal à rejoindre des marches hébergées en pair-à-pair. Le sans-fil est l'autre coupable fréquent — le dock de la Switch 2 se retrouve derrière les télévisions et les meubles, et un signal faible fait tomber les liens pair-à-pair en cours de marche même quand la connexion a réussi. Rapproche le dock du routeur ou utilise un adaptateur filaire. Comme sur chaque plateforme, les deux joueurs ont besoin de la même version du jeu, donc vérifie les mises à jour depuis l'écran d'accueil avant d'accuser le réseau."
+          ]
+        },
+        {
+          "h2": "Les types de NAT expliqués",
+          "paras": [
+            "Le NAT — traduction d'adresses réseau — détermine avec quelle facilité ta machine accepte les connexions pair-à-pair entrantes, et Big Walk s'appuie entièrement dessus car il n'y a pas de serveurs dédiés. Un NAT ouvert signifie que ton routeur laisse passer librement le trafic entrant ; tu peux héberger et rejoindre n'importe quoi. Un NAT modéré filtre une partie du trafic ; tu peux rejoindre des hôtes ouverts de façon fiable mais devrais éviter d'héberger. Un NAT strict bloque entièrement les connexions entrantes non sollicitées ; tu échoueras la plupart des connexions et feras tomber celles qui aboutissent.",
+            "Pour passer de strict vers ouvert, fais ceci dans l'ordre : branche un câble ethernet, active l'UPnP dans les réglages de ton routeur, et redémarre le routeur pour qu'il reconstruise sa table. Si ton FAI te place derrière un NAT de niveau opérateur — fréquent sur les partages de connexion mobile et certains réseaux d'immeubles — aucun réglage local ne l'ouvrira complètement, donc laisse plutôt un ami au NAT ouvert héberger. Un moyen rapide de confirmer que la réparation a marché : relance le test réseau de ta plateforme et vérifie la lecture du NAT avant de relancer Big Walk."
+          ]
+        },
+        {
+          "h2": "Codes d'invitation et crossplay",
+          "paras": [
+            "Big Walk n'a pas de navigateur de serveurs publics. Chaque session se rejoint avec un court code que l'hôte génère depuis le menu de marche en jeu, et ce code constitue tout le système d'invitation. Les codes sont sensibles à la casse, ils expirent après une courte fenêtre, et un code d'une session tombée est mort — l'hôte doit en générer un nouveau à chaque tentative. Colle le code plutôt que de le taper ; les caractères qui se ressemblent sont l'échec habituel.",
+            "Le crossplay couvre Steam, PS5 et Switch 2, mais il est optionnel aux deux bouts. Si l'un des joueurs a l'option désactivée, les codes de l'autre plateforme échouent en silence — pas d'erreur, juste un refus. Les listes d'amis des plateformes sont un système séparé : un ami PSN a quand même besoin du crossplay activé et d'un code valide pour rejoindre ta session Steam. En cas de doute, les deux joueurs ouvrent les paramètres, confirment que le crossplay est activé, puis échangent un code frais."
+          ]
+        },
+        {
+          "h2": "Quand rien ne marche",
+          "paras": [
+            "Si tu as un code frais, un NAT ouvert ou modéré, des versions identiques et le crossplay activé aux deux bouts, et que ça échoue encore, isole le côté défaillant. Fais venir un troisième joueur : s'il peut rejoindre l'hôte mais pas toi, le problème vient de ton réseau ; si personne ne peut rejoindre, il vient de l'hôte. Échangez qui héberge et retestez — une marche qui échoue dans un sens marche souvent immédiatement dans l'autre.",
+            "La plupart des fils « la co-op ne marche pas » sont résolus par les étapes ci-dessus. Si le tien ne l'est pas, note le texte exact de l'erreur, ta plateforme, ton type de NAT et ta version du jeu avant de poster ou de contacter le support de Panic. « Ça ne marche pas » attire des suppositions ; un message d'erreur précis attire une solution."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Pourquoi mon ami ne peut-il pas rejoindre ma session Big Walk ?",
+          "a": "Neuf fois sur dix, c'est un code d'invitation périmé ou mal tapé, ou un NAT strict d'un côté. Régénère le code et vérifie d'abord le type de NAT — ces deux vérifications règlent la plupart des signalements."
+        },
+        {
+          "q": "Big Walk est-il crossplay entre PC et console ?",
+          "a": "Oui, entre Steam, PS5 et Nintendo Switch 2, avec le crossplay activé sur les deux comptes. Si un joueur l'a désactivé, la connexion échoue en silence sans message d'erreur."
+        },
+        {
+          "q": "Big Walk se déconnecte en cours de marche — pourquoi ?",
+          "a": "Un NAT strict ou instable fait tomber le lien pair-à-pair une fois la session lancée. Héberge sur la connexion au NAT ouvert et utilise un réseau filaire pour le marcheur ancre."
+        },
+        {
+          "q": "Pourquoi mon code d'invitation Big Walk est-il dit invalide ?",
+          "a": "Le code a expiré ou un caractère a été mal tapé — les codes sont sensibles à la casse. Demande à l'hôte d'en générer un nouveau et colle-le directement au lieu de le taper à la main."
+        },
+        {
+          "q": "Big Walk a-t-il des serveurs dédiés ?",
+          "a": "Non. Chaque marche est hébergée en pair-à-pair par un joueur, c'est pourquoi le type de NAT et la qualité de connexion de l'hôte décident si tous les autres peuvent rejoindre et rester connectés."
+        },
+        {
+          "q": "Peut-on jouer en co-op à Big Walk avec des versions différentes du jeu ?",
+          "a": "Non. Des versions différentes ne voient pas du tout les sessions de l'autre. Les deux joueurs ont besoin du même patch installé, donc mets à jour avant de dépanner quoi que ce soit d'autre."
+        },
+        {
+          "q": "Quel type de NAT faut-il pour Big Walk ?",
+          "a": "Ouvert ou modéré convient pour rejoindre ; ouvert est fortement recommandé pour héberger. Un NAT strict peut parfois rejoindre un hôte ouvert mais fera tomber ou bloquera la plupart des sessions."
+        }
+      ],
+      "howTo": {
+        "name": "Réparer la co-op / le crossplay de Big Walk",
+        "steps": [
+          {
+            "title": "Recopie le code d'invitation",
+            "text": "Les codes sont sensibles à la casse et expirent après une courte fenêtre. Régénère un code frais chez l'hôte et colle-le exactement comme affiché — un seul caractère faux est un échec silencieux."
+          },
+          {
+            "title": "Vérifie le type de NAT",
+            "text": "Un NAT strict bloque les connexions pair-à-pair. Utilise une connexion filaire ou active l'UPnP sur ton routeur ; un NAT modéré marche en général, un strict rarement."
+          },
+          {
+            "title": "Confirme que le crossplay est activé",
+            "text": "Les deux joueurs doivent avoir le crossplay activé dans les paramètres ; un joueur console et un joueur PC en ont besoin aux deux bouts, sinon la connexion échoue discrètement."
+          },
+          {
+            "title": "Aligne les versions du jeu",
+            "text": "Si l'un de vous a sauté le dernier patch, le navigateur de session ne vous associera pas. Mets Big Walk à jour sur les deux machines et redémarre le jeu complètement."
+          },
+          {
+            "title": "Relance la session proprement",
+            "text": "Ferme Big Walk, redémarre le routeur si le NAT semblait mauvais, puis fais démarrer à l'hôte une marche toute neuve au lieu de ressusciter une session tombée."
+          },
+          {
+            "title": "Héberge sur la connexion la plus solide",
+            "text": "Fais héberger la marche par le joueur au NAT ouvert ; tous les autres rejoignent. Héberger derrière un NAT strict est la cause la plus fréquente de déconnexions en cours de marche."
+          }
+        ]
+      },
+      "related": [
+        "tools",
+        "redTower",
+        "guide",
+        "price",
+        "achievements"
+      ]
+    },
+    "guide": {
+      "slug": "guide",
+      "title": "Big Walk : guide complet et soluce",
+      "desc": "Une soluce complète de Big Walk : progression, les cinq tours, les bases de la co-op et par quoi commencer.",
+      "keywords": [
+        "big walk guide complet",
+        "big walk soluce",
+        "big walk astuces",
+        "big walk guide débutant",
+        "big walk ordre des tours"
+      ],
+      "h1": "Big Walk : guide complet et soluce",
+      "lead": "Big Walk est une marche de puzzle en co-op : une file de joueurs avance ensemble dans un monde fait main, en résolvant cinq tours colorées. Fais les tours dans l'ordre (rouge → noire → verte → bleue → jaune), garde une ancre sur chaque plaque, et tu finiras la marche.",
+      "sections": [
+        {
+          "h2": "Que faire pendant ta première heure",
+          "paras": [
+            "Big Walk — le jeu de marche co-op du studio d'Untitled Goose Game, House House, édité par Panic — s'ouvre en douceur, mais la première heure décide de la fluidité du reste de la marche. Consacre-la à trois choses : apprendre à avancer en file, découvrir ton kit d'outils, et boucler la Tour rouge."
+          ],
+          "list": [
+            "Parcours la zone du tutoriel lentement. Entraîne-toi à démarrer, t'arrêter et tourner comme une seule file. Chaque tour suivante suppose que ton groupe sait le faire en vocal sans réfléchir.",
+            "Essaie chaque outil une fois. Ramasse le Réflecteur, la Vanne, l'Ancre de plaque, le Compteur et la Balise au fur et à mesure et déclenche chacun. Tu n'auras pas de nouveaux gadgets plus tard, donc apprends ces cinq-là maintenant.",
+            "Décidez des rôles à voix haute. Avant la Tour rouge, nomme une ancre de plaque et un compteur d'impulsions. Les runs s'effondrent quand tout le monde suppose que quelqu'un d'autre tient la plaque.",
+            "Boucle la Tour rouge avant de te déconnecter. Elle enseigne la règle des plaques de pression sur laquelle tout le jeu repose, et la terminer ouvre le chemin vers les tours suivantes."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Les cinq tours en un coup d'œil",
+          "paras": [
+            "Chaque tour enseigne une mécanique, et la tour suivante la réutilise. C'est pourquoi l'ordre ci-dessous n'est en pratique pas facultatif — saute une étape et il te manquera une compétence que le puzzle suppose déjà acquise.",
+            "Remarque le motif : les tours noire, bleue et jaune reposent toutes sur la discipline des plaques de pression qu'enseigne la Tour rouge. Quand une tour avancée échoue en boucle, le remède est généralement un réflexe antérieur, pas une nouvelle astuce."
+          ],
+          "table": {
+            "headers": [
+              "Tour",
+              "Mécanique principale",
+              "Le réflexe qui la résout"
+            ],
+            "rows": [
+              [
+                "Rouge",
+                "Plaques de pression et ponts",
+                "Une ancre tient la plaque pendant que la file traverse en file indienne"
+              ],
+              [
+                "Noire",
+                "Timing des impulsions lumineuses",
+                "Compte deux impulsions, bouge à la troisième"
+              ],
+              [
+                "Verte",
+                "Acheminement du rayon",
+                "Dirige le rayon avec le Réflecteur et ne le lâche jamais en pleine traversée"
+              ],
+              [
+                "Bleue",
+                "Niveau d'eau",
+                "Maintiens l'eau à mi-niveau — une vidange complète supprime la corniche de passage"
+              ],
+              [
+                "Jaune",
+                "Les quatre mécaniques combinées",
+                "Applique tous les réflexes précédents à la fois, en terminant en file complète"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Progression",
+          "paras": [
+            "La marche principale est linéaire. Tu traverses ces étapes dans l'ordre :",
+            "La liste reflète la carte en jeu : la balise de chaque tour s'allume quand la précédente tombe. Tu ne peux pas atteindre la Tour jaune en avance, et tu ne le voudrais pas — elle suppose que tu possèdes déjà chaque réflexe de cette page."
+          ],
+          "list": [
+            "Zone du tutoriel — apprends à marcher en file.",
+            "Tour rouge — plaques de pression et ponts.",
+            "Tour noire — timing des impulsions.",
+            "Tour verte — acheminement du rayon.",
+            "Tour bleue — niveau d'eau.",
+            "Tour jaune — toutes les mécaniques combinées."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Introduction aux outils",
+          "paras": [
+            "Big Walk te donne cinq outils et pas un de plus. Aucun n'est compliqué seul ; les victoires viennent de leur combinaison sous pression.",
+            "Pour t'entraîner, rejoue une tour du début en te concentrant sur un seul outil. À la Tour jaune, ton groupe devrait combiner le Réflecteur, la Vanne et l'Ancre de plaque sans discussion — c'est tout l'intérêt du kit. Le détail complet outil par outil, avec les combos qui cassent les puzzles, se trouve sur la page des outils."
+          ],
+          "list": [
+            "Réflecteur — dirige le rayon vert vers les récepteurs ; alimente les tours verte et jaune.",
+            "Vanne — règle le niveau d'eau aux tours bleue et jaune. Arrête-toi à mi-niveau.",
+            "Ancre de plaque — le marcheur qui tient une plaque de pression pour que les ponts restent abaissés. Attribue ce rôle en premier à chaque run.",
+            "Compteur — suit le rythme des impulsions lumineuses aux tours noire et jaune : compte deux, bouge à la troisième.",
+            "Balise — marque la tour suivante sur la carte pour que les retardataires trouvent ta file."
+          ]
+        },
+        {
+          "h2": "Bien configurer la co-op",
+          "paras": [
+            "Big Walk est conçu pour la co-op sur Steam, Nintendo Switch 2 et PlayStation 5, avec le crossplay entre plateformes. C'est techniquement faisable en solo, mais les puzzles supposent une répartition des rôles, donc amène au moins un ami. Configure bien la session et tu évites la plupart des problèmes que rencontrent les joueurs :",
+            "Si une connexion échoue encore après ces étapes, parcours la page de dépannage co-op — la plupart des déconnexions se règlent à la vérification du NAT."
+          ],
+          "list": [
+            "Héberge sur la connexion la plus solide. Le joueur au NAT ouvert et en filaire devrait héberger la marche.",
+            "Partage un code d'invitation frais. Les codes sont sensibles à la casse et expirent — régénères-en un au lieu de relire un ancien.",
+            "Active le crossplay aux deux bouts. Un joueur console et un joueur PC ont tous deux besoin de l'option activée, sinon la connexion échoue en silence.",
+            "Mets tout le monde en vocal. Les annonces d'ancre et les comptes d'impulsions sont critiques en timing ; le chat texte est trop lent."
+          ],
+          "ordered": true
+        },
+        {
+          "h2": "Ordre de complétion conseillé",
+          "paras": [
+            "Fais les tours dans l'ordre où le jeu les présente : rouge, puis noire, verte, bleue, et jaune en dernier. Chacune enseigne une mécanique que la suivante réutilise, donc l'ordre prévu est aussi l'ordre le plus facile.",
+            "La rouge enseigne la discipline de la plaque. La noire ajoute le timing des impulsions par-dessus une plaque tenue. La verte achemine un rayon à travers des ponts que ton ancre maintient. La bleue te fait gérer le niveau d'eau sans abandonner tes plaques. La jaune demande ensuite les quatre réflexes à la fois, c'est pourquoi elle semble juste plutôt que cruelle quand tu l'atteins en dernier.",
+            "Si une tour bloque ton groupe, redescends d'une tour et rejoue-la proprement plutôt que de forcer. Après la Tour jaune, la marche est finie — reste ensuite le ménage des succès, les replays propres de chaque tour, et une Balise posée pour guider les amis qui rejoignent en retard sur le parcours."
+          ]
+        },
+        {
+          "h2": "Réflexes de base qui gagnent des runs",
+          "paras": [
+            "La plupart des runs ratés remontent à l'un de ces quatre réflexes qui lâche, pas à un puzzle injuste. Annonce le réflexe à voix haute dès qu'il flanche et le run se récupère en général."
+          ],
+          "list": [
+            "Désigne une ancre de plaque avant chaque tour.",
+            "Compte deux impulsions, bouge à la troisième (noire/jaune).",
+            "Maintiens l'eau à mi-niveau, ne vidange jamais à fond (bleue/jaune).",
+            "Termine chaque tour en file complète sur la plaque de sortie."
+          ]
+        },
+        {
+          "h2": "Où aller ensuite",
+          "paras": [
+            "Ouvre n'importe quelle page de tour ci-dessus pour le pas à pas exact, ou la page des outils pour les combos de gadgets. Co-op bloquée ? Voir la page de dépannage. Tu vises les 100 % ? La page des succès liste chaque déblocage et ceux qui peuvent être manqués."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Dans quel ordre faire les tours de Big Walk ?",
+          "a": "Rouge, puis noire, verte, bleue, et jaune en dernier. Chaque tour enseigne une mécanique que la suivante réutilise, donc l'ordre prévu est aussi l'ordre le plus facile."
+        },
+        {
+          "q": "Des conseils pour débutant ?",
+          "a": "Désigne un marcheur ancre pour tenir chaque plaque de pression, compte deux impulsions lumineuses et bouge à la troisième aux tours noire et jaune, et ne vidange jamais complètement l'eau à la bleue. Annoncez les rôles à voix haute avant chaque tour."
+        },
+        {
+          "q": "Quelle est la durée de Big Walk ?",
+          "a": "Quelques sessions co-op concentrées pour la marche principale — une soirée par tour est un rythme détendu. Les runs complétionnistes qui chassent chaque succès et les replays propres des tours prennent nettement plus longtemps."
+        },
+        {
+          "q": "Peut-on jouer à Big Walk en solo ?",
+          "a": "Oui, chaque tour est faisable en solo, mais le jeu est conçu pour la co-op. Les plaques de pression, les comptes d'impulsions et l'acheminement du rayon supposent tous une répartition des rôles, donc attends-toi à des runs plus lents et plus méthodiques seul."
+        },
+        {
+          "q": "Sur quelles plateformes est Big Walk ?",
+          "a": "Big Walk est sorti le 4 août 2026 sur Steam, Nintendo Switch 2 et PlayStation 5. Il est développé par House House et édité par Panic, et la co-op fonctionne entre plateformes avec le crossplay activé."
+        },
+        {
+          "q": "Quelle tour de Big Walk est la plus dure ?",
+          "a": "La Tour jaune, car elle combine plaques, impulsions, acheminement du rayon et niveau d'eau en un seul run. C'est pourtant la Tour noire qui fait échouer le plus de premières tentatives — son timing d'impulsions punit les groupes qui sautent le compte."
+        },
+        {
+          "q": "Quelle est la cause la plus fréquente d'échec des runs ?",
+          "a": "Une plaque de pression vide. Dès que l'ancre en descend trop tôt — ou que deux marcheurs quittent une plaque ensemble — les ponts se rétractent et la file tombe. La discipline de l'ancre répare plus de runs que n'importe quelle astuce."
+        },
+        {
+          "q": "Faut-il un chat vocal pour Big Walk ?",
+          "a": "Ce n'est pas obligatoire, mais presque. Les annonces d'ancre, les comptes d'impulsions et les arrêts de niveau d'eau sont tous critiques en timing, et le chat texte est trop lent. Un groupe en vocal boucle les tours en deux fois moins de tentatives."
+        }
+      ],
+      "videoId": "c30AAvpS6do",
+      "gameWidget": true,
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop",
+        "achievements",
+        "price"
+      ]
+    },
+    "tools": {
+      "slug": "tools",
+      "title": "Big Walk : les outils et comment les utiliser",
+      "desc": "Chaque outil de Big Walk expliqué un par un — ce qu'il fait, quand l'utiliser, et les combos qui cassent les puzzles.",
+      "keywords": [
+        "big walk outils",
+        "big walk tous les outils",
+        "big walk comment utiliser les outils",
+        "big walk réflecteur",
+        "big walk vanne balise"
+      ],
+      "h1": "Big Walk : les outils et comment les utiliser",
+      "lead": "Big Walk te donne un petit kit de gadgets. Aucun n'est compliqué seul, mais les victoires viennent de leur combinaison. Voici chaque outil, ce qu'il fait, quand l'utiliser, et le combo qui casse vraiment un puzzle.",
+      "sections": [
+        {
+          "h2": "Tous les outils de Big Walk en un coup d'œil",
+          "paras": [
+            "Voici le kit complet en une vue. Fais défiler pour l'analyse approfondie de chaque outil de Big Walk — ce qu'il fait, le moment exact où le sortir, et l'erreur qui le gâche."
+          ]
+        },
+        {
+          "h3": "1. Le Réflecteur",
+          "paras": [
+            "Dirige le rayon vert vers les récepteurs ; alimente les tours verte et jaune.",
+            "Combo : associe-le à une ancre stable pour que le rayon ne tombe jamais en pleine traversée."
+          ]
+        },
+        {
+          "h3": "2. La Vanne",
+          "paras": [
+            "Règle le niveau d'eau aux tours bleue et jaune.",
+            "Combo : arrête-toi à mi-niveau — une vidange complète supprime la corniche de passage."
+          ]
+        },
+        {
+          "h3": "3. L'Ancre de plaque",
+          "paras": [
+            "Un marcheur qui tient une plaque de pression pour que les ponts restent abaissés.",
+            "Combo : attribue ce rôle en premier à chaque run en co-op."
+          ]
+        },
+        {
+          "h3": "4. Le Compteur",
+          "paras": [
+            "Suit le rythme des impulsions lumineuses aux tours noire et jaune.",
+            "Combo : compte deux impulsions, bouge à la troisième."
+          ]
+        },
+        {
+          "h3": "5. La Balise",
+          "paras": [
+            "Marque la tour suivante sur la carte pour les retardataires.",
+            "Combo : pose-la en haut pour que les retardataires lisent ta file."
+          ]
+        },
+        {
+          "h2": "Le Réflecteur : acheminer le rayon vert",
+          "paras": [
+            "Le Réflecteur capte le rayon de l'émetteur vert et l'achemine vers un récepteur. Un récepteur allumé alimente les mécanismes de la Tour verte, et la Tour jaune réutilise le même truc dans son final. Le rayon dévie à un angle fixe, et tout ce qui coupe la ligne de vue — un mur, un pont levé, un marcheur qui se promène — fait tomber la connexion instantanément.",
+            "Utilise-le dès que tu vois un émetteur vert pointé vers un récepteur éteint. Ce couple, c'est le puzzle qui te dit que le Réflecteur est la solution. L'erreur classique : le porteur se repositionne en pleine traversée pour « aider » le groupe — le rayon tombe, le pont se rétracte, et tout le monde nage. Plante le porteur comme une ancre avant que quiconque s'engage, et n'ajuste l'angle que pendant que la traversée est vide."
+          ]
+        },
+        {
+          "h2": "La Vanne : régler le niveau d'eau",
+          "paras": [
+            "La Vanne contrôle le niveau d'eau à la Tour bleue et de nouveau à l'intérieur de la Tour jaune. Chaque niveau fait flotter certaines corniches et en immerge d'autres, donc l'opérateur de la vanne redessine en fait la carte pour le reste du groupe. C'est le seul outil où l'opérateur ne traverse jamais — il reste à la roue et pilote tous les autres.",
+            "Sors-la chaque fois qu'une route est bloquée par de l'eau trop haute ou un vide qui a besoin d'une corniche flottante. L'erreur coûteuse est de vidanger à zéro « pour voir » : la vidange complète supprime entièrement la corniche de passage et coince quiconque est déjà engagé. Arrête-toi à mi-niveau, et associe l'opérateur à une Ancre de plaque pour que le pont éloigné reste abaissé pendant que l'eau se stabilise."
+          ]
+        },
+        {
+          "h2": "L'Ancre de plaque : le rôle qui tient tout",
+          "paras": [
+            "L'Ancre de plaque n'est pas un gadget — c'est un marcheur qui se tient sur une plaque de pression et ne bouge pas. Les plaques de pression maintiennent les ponts abaissés, et les ponts se rétractent à l'instant où une plaque se vide. La Tour rouge enseigne ce rôle, la Tour noire te punit de l'oublier, et la Tour jaune suppose que tu le maîtrises.",
+            "Attribue l'ancre avant chaque run en co-op, à voix haute, en la nommant. L'échec que tout le monde a vécu : l'ancre descend pour ramasser un collectible ou aider un retardataire, le pont se rétracte, et toute la file tombe. Si l'ancre s'ennuie, le run se passe bien — l'ennui, c'est le travail. Combine le rôle avec une Balise posée en haut pour que l'ancre puisse au moins suivre la progression du groupe sur la carte."
+          ]
+        },
+        {
+          "h2": "Le Compteur : annoncer le rythme des impulsions lumineuses",
+          "paras": [
+            "Le Compteur suit le rythme des impulsions lumineuses à la Tour noire et à la Tour jaune. Les impulsions cadencent le moment où il est sûr de bouger, et le compteur est le marcheur qui annonce le tempo pour que le groupe traverse à l'unisson. Une voix calme bat quatre marcheurs qui devinent.",
+            "Applique la règle du rythme : compte deux impulsions, bouge à la troisième. L'erreur qui désynchronise des groupes entiers est de compter à partir de la première impulsion que tu vois par hasard au lieu du temps de reset de la tour — tu te retrouves en permanence un temps en retard et chaque traversée mord sur la fenêtre de danger. Reste immobile, regarde un cycle complet, puis commence à compter. Et ne fais jamais tourner le rôle de Compteur en cours de run : réapprendre le tempo coûte plus de temps que le changement n'en fait jamais gagner."
+          ]
+        },
+        {
+          "h2": "La Balise : marquer la tour suivante",
+          "paras": [
+            "La Balise pose un marqueur de carte sur la tour suivante pour que les retardataires et les groupes séparés trouvent la file. Elle ne fait rien aux puzzles eux-mêmes — c'est l'outil qui maintient une session co-op ensemble quand quelqu'un se déconnecte, rejoint en retard, ou s'écarte du parcours.",
+            "Pose-la dès que le groupe s'accorde sur une destination, et pose-la en haut de la tour, pas à la base. Un marqueur à la base dit aux retardataires où vous étiez ; un marqueur en haut leur permet de lire toute ta file et de revenir en cours de route. Le gâchis fréquent est de la traiter comme un jouet et de la reposer tous les quelques pas — une Balise, bien placée, vaut plus que dix pings éparpillés que personne ne lit."
+          ]
+        },
+        {
+          "h2": "Combos d'outils qui cassent les puzzles",
+          "paras": [
+            "Les dernières tours de Big Walk sont conçues pour être résolues par des paires d'outils, pas par des gadgets isolés. Voici les combinaisons qui réduisent une dispute de dix minutes à un passage de trente secondes."
+          ],
+          "list": [
+            "Réflecteur + Ancre de plaque (Tour jaune) : l'ancre tient la plaque de sortie pendant que le porteur termine la ligne du rayon — le pont et le récepteur s'activent au même moment, ce qui est la seule façon pour la traversée finale de tenir.",
+            "Vanne + Compteur : laisse l'eau se stabiliser à mi-niveau d'abord, puis fais annoncer le tempo par le Compteur pour la traversée. Bouger pendant que l'eau monte ou descend encore, c'est comme ça que les corniches disparaissent sous les pieds des marcheurs.",
+            "Compteur + Réflecteur (Tour noire) : maintiens le rayon stable et fais bouger le groupe à la troisième impulsion. Les impulsions et le rayon partagent un rythme, donc le porteur ne devrait jamais se repositionner entre deux impulsions.",
+            "Balise + Ancre de plaque : l'ancre pose la Balise en haut avant de s'asseoir sur la plaque. Les retardataires atterrissent sur le marqueur, voient le pont tenu, et s'insèrent directement dans la file."
+          ]
+        },
+        {
+          "h2": "Outils que tu devrais arrêter de gâcher",
+          "paras": [
+            "La plupart des runs ratés ne manquent pas d'un outil — ils en utilisent mal un. Ces habitudes coûtent des tours entières aux groupes."
+          ],
+          "list": [
+            "Arrête de porter le Réflecteur dans la Tour rouge. Il n'y a pas de récepteurs verts là-bas ; c'est un poids mort qui tente son porteur de se promener au lieu d'ancrer une plaque.",
+            "Arrête de vidanger la Vanne à zéro par curiosité. Mi-niveau est presque toujours la réponse, et la vidange complète supprime la corniche de passage.",
+            "Arrête de reposer la Balise. Un marqueur en haut de la tour, c'est de l'information ; une piste de pings, c'est du bruit.",
+            "Arrête de laisser l'Ancre de plaque faire plusieurs choses à la fois. Une ancre qui collecte, repère ou secourt est une ancre qui finira par quitter la plaque au pire moment.",
+            "Arrête de changer de Compteur en cours de run. Une voix, un tempo, pour toute la tour."
+          ]
+        },
+        {
+          "h2": "Comment t'entraîner avec les outils",
+          "paras": [
+            "Rejoue les premières tours avec un outil en focus par run : la Tour rouge pour la discipline de plaque, la Tour verte pour le Réflecteur, la Tour bleue pour la Vanne, la Tour noire pour le Compteur. Annonce chaque action à voix haute pendant que tu apprends — compter les temps audiblement est le moyen le plus rapide d'intégrer le rythme. Quand tu atteindras la Tour jaune, tu devrais combiner le Réflecteur, la Vanne et l'Ancre de plaque sans réfléchir, car cette tour suppose que tu le sais déjà."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Combien y a-t-il d'outils dans Big Walk ?",
+          "a": "Cinq outils principaux couvrent toutes les tours : le Réflecteur, la Vanne, l'Ancre de plaque, le Compteur et la Balise. Chacun correspond à une mécanique de tour précise."
+        },
+        {
+          "q": "Quel outil de Big Walk est le plus important ?",
+          "a": "L'Ancre de plaque. Tenir une plaque de pression est la base des tours rouge, noire et jaune, donc attribuer ce rôle en premier gagne la plupart des runs."
+        },
+        {
+          "q": "Les outils se conservent-ils entre les tours ?",
+          "a": "Oui — le même kit sert dans les cinq tours, c'est pourquoi les dernières tours donnent l'impression d'être des combinaisons des précédentes."
+        },
+        {
+          "q": "Peut-on finir Big Walk sans utiliser tous les outils ?",
+          "a": "Tu peux boucler les premières tours à l'économie — la Tour rouge ne demande qu'une Ancre de plaque et la Tour verte a surtout besoin du Réflecteur. La Tour jaune est le gardien : elle attend le kit complet qui fonctionne ensemble."
+        },
+        {
+          "q": "Quel outil le joueur le plus récent devrait-il tenir ?",
+          "a": "La Balise. C'est peu risqué, ça apprend à lire la carte, et ça libère les marcheurs expérimentés pour tenir le Réflecteur, la Vanne et les plaques. Donne-leur le rôle de Compteur une fois qu'ils savent annoncer un tempo régulier."
+        },
+        {
+          "q": "Pourquoi le rayon du Réflecteur tombe-t-il sans cesse ?",
+          "a": "Deux causes : quelque chose a coupé la ligne de vue entre l'émetteur et le récepteur, ou le porteur a bougé pendant que le groupe traversait. Plante le porteur comme une ancre et revérifie la ligne du rayon avant que quiconque s'engage."
+        },
+        {
+          "q": "Les outils marchent-ils pareil sur toutes les plateformes ?",
+          "a": "Oui. Le kit est identique sur Steam, Nintendo Switch 2 et PS5, et le crossplay co-op partage les mêmes mécaniques, donc chaque combo de cette page fonctionne peu importe où ton groupe joue."
+        }
+      ],
+      "related": [
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "coop",
+        "guide"
+      ]
+    },
+    "achievements": {
+      "slug": "achievements",
+      "title": "Big Walk : liste des succès et comment les obtenir",
+      "desc": "Chaque succès de Big Walk avec le chemin de déblocage le plus rapide et ceux qui peuvent être manqués.",
+      "keywords": [
+        "big walk succès",
+        "big walk guide succès",
+        "big walk tous les succès",
+        "big walk succès manquables",
+        "big walk 100%"
+      ],
+      "h1": "Big Walk : liste des succès et comment les obtenir",
+      "lead": "Chaque succès de Big Walk, ce qui le débloque vraiment, et le moyen le plus rapide de l'obtenir. Il y en a huit au total, et la plupart tombent naturellement pendant que tu boucles les cinq tours. Ceux qui peuvent être manqués sont les finitions sans réapparition et en file complète — verrouille-les en désignant une ancre et en traversant en file indienne.",
+      "sections": [
+        {
+          "h2": "Liste des succès de Big Walk",
+          "paras": [
+            "Les huit succès sont listés ci-dessous dans l'ordre où tu les obtiendras le plus probablement. Chaque entrée donne la condition de déblocage exacte, le chemin le plus rapide pour la remplir, et un avertissement de succès manquable partout où il s'applique. Six des huit sont liés à des tours précises, donc une seule partie bien planifiée peut couvrir presque tout."
+          ]
+        },
+        {
+          "h3": "1. First Steps",
+          "paras": [
+            "Déblocage : termine la zone du tutoriel en file. Le tutoriel est la courte marche avant la première tour colorée, et tout le groupe doit rester lié du pad d'ouverture jusqu'à la porte au bout.",
+            "Chemin le plus rapide : tu peux difficilement rater celui-ci — il tombe dans les dix premières minutes tant que personne ne se sépare. Laisse le marcheur le plus lent donner le rythme et garde la file compacte dans chaque virage."
+          ]
+        },
+        {
+          "h3": "2. Red Done",
+          "paras": [
+            "Déblocage : termine la Tour rouge avec le pont maintenu. Le pont de la Tour rouge ne reste abaissé que tant qu'un marcheur tient la plaque de pression, donc la condition porte vraiment sur la discipline lors de la traversée finale.",
+            "Chemin le plus rapide : désigne une ancre qui ne quitte jamais la plaque, envoie tous les autres en file indienne, et regroupez-vous sur la plaque de sortie en file complète. Fais ça et le succès se débloque en même temps que la tour.",
+            "Avertissement manquable : si la plaque se vide au mauvais moment, le pont se rétracte et la finition ne compte pas. La tour est rejouable, mais le faire bien du premier coup évite un run complet de plus."
+          ]
+        },
+        {
+          "h3": "3. On Beat",
+          "paras": [
+            "Déblocage : boucle la Tour noire sans reset. La Tour noire est un puzzle de timing : les marcheurs avancent dans un ordre fixe, et un seul pas mal calé est ce qui force la plupart des groupes à réinitialiser la salle.",
+            "Chemin le plus rapide : mettez-vous d'accord sur l'ordre de marche avant que quiconque bouge, puis annoncez chaque pas à voix haute en vocal. Un run lent et propre vaut mieux que trois rapides et bâclés.",
+            "Avertissement manquable : un seul reset annule le succès pour cette tentative, donc si quelqu'un glisse, termine quand même la tour et reviens à frais — tilter en cours de run, c'est comme ça que les groupes brûlent une heure ici."
+          ]
+        },
+        {
+          "h3": "4. Beam Master",
+          "paras": [
+            "Déblocage : achemine les deux récepteurs de la Tour verte en un seul run. La Tour verte est construite autour d'un rayon lumineux que tu diriges vers des récepteurs, et la plupart des routes naturelles n'en alimentent qu'un avant que le groupe continue.",
+            "Chemin le plus rapide : sépare les tâches : un marcheur tient le rayon stable pendant qu'un autre se repositionne pour allumer le second récepteur. Boucle les deux avant que quiconque déclenche la sortie.",
+            "Avertissement manquable : quitter la tour avec un seul récepteur allumé signifie un run complet depuis l'entrée, donc vérifie que les deux sont alimentés avant que le groupe monte sur la plaque de sortie."
+          ]
+        },
+        {
+          "h3": "5. Mid-Level",
+          "paras": [
+            "Déblocage : traverse la Tour bleue à eau moyenne. La Tour bleue est un puzzle de niveau d'eau, et ce succès ne compte que lorsque la traversée finale a lieu avec la jauge posée sur le repère du milieu.",
+            "Chemin le plus rapide : monte l'eau à mi-niveau avant le dernier tronçon et arrête d'ajuster une fois l'aiguille stabilisée. Un marcheur surveille la jauge pendant que les autres s'alignent pour traverser.",
+            "Avertissement manquable : traverser à eau basse ou haute ne compte pas, et dépasser le niveau est l'erreur classique — actionne les commandes par courtes impulsions près du repère du milieu."
+          ]
+        },
+        {
+          "h3": "6. Walk Complete",
+          "paras": [
+            "Déblocage : termine la Tour jaune en file complète. La Tour jaune est la tour finale, et la condition de victoire est que tout le groupe soit réuni au moment où la plaque de fin se déclenche.",
+            "Chemin le plus rapide : compte les têtes avant la plaque finale. Si quelqu'un est tombé ou traîne, attends qu'il réapparaisse et rejoigne la file avant que vous montiez tous ensemble.",
+            "Avertissement manquable : c'est le succès le plus facile à rater car les groupes sprintent la fin. Si un seul marcheur manque dans la file, il ne tombera pas et tu rejoues la tour."
+          ]
+        },
+        {
+          "h3": "7. Tooled Up",
+          "paras": [
+            "Déblocage : utilise les cinq outils en une seule marche. Une marche signifie une session continue — le compteur est lié à ce run, donc partir et revenir en cours de route te fait perdre la progression.",
+            "Chemin le plus rapide : garde une checklist mentale et déclenche chaque gadget une fois, même là où le puzzle ne le demande pas. Les outils les plus discrets sont ceux que tout le monde oublie, alors utilise-les tôt.",
+            "Avertissement manquable : pas vraiment manquable, mais c'est le succès que la plupart des groupes croient avoir obtenu sans l'avoir. S'il n'est pas tombé à la Tour bleue, commence à tout utiliser à vue."
+          ]
+        },
+        {
+          "h3": "8. No Falls",
+          "paras": [
+            "Déblocage : boucle n'importe quelle tour avec zéro réapparition. N'importe quelle tour compte, donc tu choisis l'arène. Personne dans le groupe ne peut tomber et réapparaître entre la première plaque et le carillon de sortie.",
+            "Chemin le plus rapide : fais-le sur la Tour rouge — c'est la plus courte et le seul vrai danger est le pont. L'ancre tient la plaque, tout le monde traverse un par un, terminé.",
+            "Avertissement manquable : une chute annule la tentative sans avertissement, donc traite chaque vide comme mortel et ne précipite jamais une traversée pour rattraper le groupe."
+          ]
+        },
+        {
+          "h2": "Succès manquables à anticiper",
+          "paras": [
+            "Trois succès causent presque toutes les listes incomplètes : On Beat, Walk Complete et No Falls. Les trois punissent la précipitation, et les trois échouent en silence — le jeu ne t'avertit pas que la tentative est annulée jusqu'à ce que le carillon de réussite ne joue jamais.",
+            "Le remède, c'est un run lent dédié. Désigne une ancre pour chaque plaque de pression, annonce chaque mouvement en vocal, et convenez dès le départ que personne ne sprinte le dernier tronçon d'aucune tour. Tooled Up est le quatrième à anticiper : pas manquable, mais facile à oublier, donc coche les outils tôt au lieu de les garder pour un puzzle qui ne les demandera peut-être jamais.",
+            "Rien dans Big Walk n'est verrouillé définitivement. Chaque tour peut être rejouée, donc un succès raté te coûte un run de plus, pas une sauvegarde."
+          ]
+        },
+        {
+          "h2": "Route la plus rapide vers les 100 %",
+          "paras": [
+            "Jouée dans l'ordre, la marche principale s'aligne presque parfaitement avec la liste des succès. Un groupe coordonné peut faire le 100 % de Big Walk en une seule session en empilant chaque succès conditionnel sur la tour où il est le plus facile :",
+            "Si quelque chose échoue en route, termine quand même la tour et reviens-y à la fin — rejouer une tour est bien plus rapide que de réinitialiser toute une session pour un seul carillon manqué."
+          ],
+          "list": [
+            "Zone du tutoriel — marche en file et First Steps se débloque tout seul. Commence ta checklist Tooled Up ici en utilisant les premiers outils que tu ramasses.",
+            "Tour rouge — maintiens le pont pour Red Done, et joue proprement pour No Falls. C'est la tour la plus facile, donc le meilleur endroit pour le run zéro réapparition.",
+            "Tour noire — décidez l'ordre de marche à voix haute et bouclez-la sans reset pour On Beat.",
+            "Tour verte — achemine les deux récepteurs avant la sortie pour Beam Master.",
+            "Tour bleue — règle l'eau à mi-niveau et garde-la ainsi pour Mid-Level. Déclenche tous les outils encore manquants de ta checklist Tooled Up.",
+            "Tour jaune — regroupez-vous en file complète sur la plaque de fin pour Walk Complete et les 100 %."
+          ],
+          "ordered": true
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Combien de succès y a-t-il dans Big Walk ?",
+          "a": "Huit. Six sont liés au tutoriel et aux cinq tours colorées, et deux — Tooled Up et No Falls — peuvent être obtenus sur n'importe quelle tour."
+        },
+        {
+          "q": "Certains succès de Big Walk sont-ils manquables ?",
+          "a": "Aucun n'est définitivement manquable, puisque chaque tour est rejouable après le générique. Ceux que les groupes ratent au premier run sont les finitions sans réapparition et en file complète, donc ralentis sur la dernière tour."
+        },
+        {
+          "q": "Les succès demandent-ils la co-op ?",
+          "a": "La plupart sont faisables en solo, mais ceux à saveur co-op — la finition en file complète et Tooled Up — sont bien plus faciles avec un groupe qui se parle vraiment."
+        },
+        {
+          "q": "La route de succès la plus rapide ?",
+          "a": "Tutoriel → rouge → noire → verte → bleue → jaune dans l'ordre. Empile No Falls sur la Tour rouge et étale Tooled Up sur toute la marche, et tout se débloque en un seul passage."
+        },
+        {
+          "q": "Quel est le succès le plus dur de Big Walk ?",
+          "a": "On Beat donne le plus de fil à retordre à la plupart des groupes, car un seul reset annule la tentative. No Falls arrive juste derrière si ton groupe joue sans prudence près des vides."
+        },
+        {
+          "q": "Peut-on rejouer les tours pour rattraper les succès manqués ?",
+          "a": "Oui. Chaque tour peut être réentrée après le générique, et les succès conditionnels comme Beam Master et Mid-Level se débloquent toujours lors d'un nouveau run."
+        },
+        {
+          "q": "Les succès de Big Walk se débloquent-ils sur toutes les plateformes ?",
+          "a": "Oui — les mêmes huit succès sont dans les versions Steam, Nintendo Switch 2 et PS5 du jeu."
+        }
+      ],
+      "related": [
+        "guide",
+        "tools",
+        "redTower",
+        "blackTower",
+        "yellowTower",
+        "coop"
+      ]
+    },
+    "price": {
+      "slug": "price",
+      "title": "Big Walk : prix, plateformes et éditions",
+      "desc": "Le prix de Big Walk sur Steam et consoles, les éditions disponibles, et si le pack co-op vaut le coup.",
+      "keywords": [
+        "big walk prix",
+        "big walk steam prix",
+        "big walk plateformes",
+        "big walk ps5 prix",
+        "big walk switch 2",
+        "big walk pas cher"
+      ],
+      "h1": "Big Walk : prix, plateformes et éditions",
+      "lead": "Big Walk est sorti le 4 août 2026, développé par House House et édité par Panic, et il est vendu sur Steam (app 1478500), Nintendo Switch 2 et PlayStation 5, avec le crossplay entre les trois. Le prix varie selon la région et les promos ; consulte le widget de la boutique ci-dessus pour le prix Steam en direct avant d'acheter.",
+      "sections": [
+        {
+          "h2": "Où acheter Big Walk",
+          "paras": [
+            "Big Walk est un achat premium unique — pas d'abonnement, pas de version free-to-play. Il est sorti le 4 août 2026 sur trois boutiques :",
+            "Achète là où ton groupe joue déjà. Comme le crossplay relie les trois versions, un groupe mixte — un marcheur sur PC, un sur Switch 2, un sur PS5 — fonctionne dès le départ."
+          ],
+          "list": [
+            "Steam — la version PC. Voir le prix en direct dans le widget ci-dessus, et ajoute-le à ta liste de souhaits pour être notifié des réductions.",
+            "Nintendo Switch 2 — cherche « Big Walk » dans l'eShop de ta console ; le prix est régional.",
+            "PlayStation 5 — cherche « Big Walk » dans le PlayStation Store ; le prix est régional."
+          ]
+        },
+        {
+          "h2": "Le prix de Big Walk par plateforme",
+          "paras": [
+            "Les chiffres exacts changent selon la région, la devise et les promos, donc considère ceci comme une carte des endroits où regarder plutôt qu'une grille tarifaire fixe. Le widget de la boutique ci-dessus affiche toujours le prix Steam actuel.",
+            "Les trois versions sont le même jeu avec les mêmes cinq tours et les mêmes outils, donc il n'y a pas de « meilleure édition » par plateforme — choisis celle que tes amis possèdent."
+          ],
+          "table": {
+            "headers": [
+              "Plateforme",
+              "Boutique",
+              "Crossplay",
+              "Remarques"
+            ],
+            "rows": [
+              [
+                "PC",
+                "Steam",
+                "Oui",
+                "Premier à baisser pendant les soldes saisonnières ; liste de souhaits pour les alertes"
+              ],
+              [
+                "Nintendo Switch 2",
+                "Nintendo eShop",
+                "Oui",
+                "Jeu portable ; les promos eShop suivent leur propre calendrier"
+              ],
+              [
+                "PlayStation 5",
+                "PlayStation Store",
+                "Oui",
+                "Idéal pour une installation canapé ; surveille les promos du PS Store"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Big Walk sur Steam ou console : lequel acheter ?",
+          "paras": [
+            "Si ton groupe est réparti, achète sur la plateforme où se trouve déjà le plus de marcheurs et laisse le crossplay couvrir le reste. Si tu es vraiment libre de choisir, Steam est le choix pragmatique par défaut : c'est historiquement la première boutique à baisser ses prix, les règles de remboursement sont claires, et le prix en direct se lit d'un coup d'œil au widget ci-dessus.",
+            "Choisis la Switch 2 si tu veux la marche en portable — les puzzles sont courts et adaptés aux sessions, ce qui convient au jeu nomade. Choisis la PS5 si tes soirées co-op se passent devant la télé sur le canapé. Aucun de ces choix ne te coupe des amis sur les autres plateformes."
+          ]
+        },
+        {
+          "h2": "Les éditions de Big Walk et leur contenu",
+          "paras": []
+        },
+        {
+          "h3": "Jeu de base",
+          "paras": [
+            "L'édition standard est le jeu complet : la marche intégrale, les cinq tours colorées, tous les outils et la fin. Rien de mécanique n'est verrouillé derrière un niveau supérieur, donc la plupart des joueurs devraient acheter celle-ci et s'arrêter là. Il n'y a pas de season pass à intégrer au prix — ce que tu achètes le jour de la sortie, c'est le puzzle entier."
+          ]
+        },
+        {
+          "h3": "Option co-op / multi-propriétaires",
+          "paras": [
+            "Certaines boutiques proposent un achat co-op ou multi-propriétaires destiné aux groupes qui achètent ensemble. Le contenu est identique au jeu de base — la différence porte uniquement sur le nombre de copies obtenues en une transaction et le prix par joueur. Vérifie la page de la boutique de ta région pour les conditions exactes du pack avant de payer."
+          ]
+        },
+        {
+          "h2": "Le pack co-op de Big Walk vaut-il le coup ?",
+          "paras": [
+            "En général oui, si tu as un groupe fixe. Big Walk est construit autour de la co-op : les puzzles des tours supposent plusieurs marcheurs, les plaques de pression ont besoin de corps qui se tiennent dessus, et le jeu est tout simplement meilleur avec des gens que tu connais. Un pack qui sous-enchérit le coût de copies séparées est le moyen le moins cher de faire entrer tout le groupe.",
+            "Ça ne vaut pas le coup si tu joues surtout en solo ou avec des inconnus. Dans ce cas, une seule copie de base fait tout ce qu'il te faut, et tu pourras toujours acheter pour tes amis plus tard quand une promo fera de toute façon baisser le prix par copie.",
+            "Règle de décision rapide : si tu peux nommer les personnes avec qui tu joueras ce soir, compare le pack ; sinon, achète une copie.",
+            "Une dernière vérification avant de te lancer : confirme que tout le monde dans le groupe achète sur une boutique qui vend effectivement le pack dans ta région. La disponibilité et le prix des packs peuvent différer entre Steam et les boutiques consoles, et une « affaire » qui laisse un marcheur payer plein tarif sur une autre plateforme n'est pas une affaire du tout."
+          ]
+        },
+        {
+          "h2": "Quand Big Walk sera-t-il en promo ?",
+          "paras": [
+            "Sur Steam, les sorties de l'éditeur Panic rejoignent typiquement les grandes soldes saisonnières — été, automne, hiver — plus l'occasionnelle promo de milieu de semaine ou de week-end d'éditeur. La première vraie réduction arrive en général quelques mois après le lancement, avec des baisses plus profondes l'année suivante. Ajoute le jeu à ta liste de souhaits Steam et tu recevras un e-mail dès qu'une réduction commence ; c'est le moyen le plus simple de ne pas la rater.",
+            "Les réductions consoles suivent leur propre rythme. L'eShop et le PlayStation Store mènent des promos indépendantes, donc les versions Switch 2 et PS5 peuvent ne pas être réduites en même temps que Steam. Si le prix compte plus que la plateforme, Steam est historiquement le pari le plus sûr pour une promo précoce.",
+            "Faut-il attendre une réduction ? Si tu as un groupe prêt à jouer maintenant, achète maintenant — Big Walk est une expérience partagée, et la valeur est de marcher ensemble pendant que tout le monde résout encore les tours à l'aveugle. Si tu achètes en solo et sans urgence, lister en souhaits et attendre la première solde saisonnière est le choix patient et raisonnable."
+          ]
+        },
+        {
+          "h2": "Note sur le crossplay",
+          "paras": [
+            "Le crossplay est actif entre PC et consoles, donc l'endroit où tu achètes ne t'empêche pas de jouer avec tes amis — garde simplement le crossplay activé sur les deux comptes (voir la page de dépannage co-op si une connexion échoue). Cela signifie aussi que tu peux viser la boutique la moins chère sans diviser le groupe : achète où c'est en promo et tout le monde se retrouve quand même sur la même marche."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Combien coûte Big Walk ?",
+          "a": "Le prix varie selon la région et les promos. Le widget Steam de cette page affiche le prix actuel en direct, et les boutiques consoles affichent leurs propres prix régionaux. Attends-toi à ce que les trois versions soient proches au lancement, Steam étant généralement la première à baisser."
+        },
+        {
+          "q": "Sur quelles plateformes est Big Walk ?",
+          "a": "Steam sur PC, Nintendo Switch 2 et PlayStation 5, toutes sorties le 4 août 2026. Le crossplay est activé entre les trois versions, donc ton choix de plateforme ne limite pas avec qui tu peux marcher."
+        },
+        {
+          "q": "Y a-t-il un pack co-op Big Walk qui vaut le coup ?",
+          "a": "Si tu joues souvent avec le même groupe, l'option co-op/multi-propriétaires est généralement plus rentable que d'acheter des copies séparées une par une. Compare le prix du pack au prix par copie dans ta région avant de payer."
+        },
+        {
+          "q": "Big Walk a-t-il le crossplay entre Steam et consoles ?",
+          "a": "Oui. Le crossplay est actif entre Steam, Switch 2 et PS5, donc tu peux acheter sur la plateforme de ton choix et jouer quand même avec des amis sur les autres. Garde le crossplay activé dans les paramètres aux deux bouts."
+        },
+        {
+          "q": "Big Walk sera-t-il en promo ?",
+          "a": "Presque certainement sur Steam, où les titres de l'éditeur Panic rejoignent typiquement les grandes soldes saisonnières. Les réductions consoles suivent en général plus tard. Si tu n'es pas pressé, ajouter le jeu à ta liste de souhaits t'envoie un e-mail dès qu'une réduction commence."
+        },
+        {
+          "q": "Big Walk est-il free-to-play ou inclus dans un abonnement ?",
+          "a": "Non. Big Walk est un achat premium unique sur les trois plateformes. Il n'y a pas de version free-to-play ni d'inclusion confirmée dans un service d'abonnement au lancement, donc prévois le plein tarif ou attends une promo."
+        },
+        {
+          "q": "Quelle édition de Big Walk acheter ?",
+          "a": "La plupart des joueurs n'ont besoin que du jeu de base — il contient la marche complète, les cinq tours et tous les outils. Ne regarde l'option co-op/multi-propriétaires que si tu achètes pour un groupe fixe, où le coût par joueur bat généralement les copies séparées."
+        },
+        {
+          "q": "Le prix de Big Walk est-il le même partout ?",
+          "a": "Non. Les trois boutiques utilisent des prix régionaux, donc le chiffre que tu vois dépend de ta région de boutique et de ta devise. Le widget Steam ci-dessus reflète ta région automatiquement ; sur console, vérifie la fiche dans ton propre compte eShop ou PlayStation Store."
+        }
+      ],
+      "gameWidget": true,
+      "related": [
+        "guide",
+        "coop",
+        "vsWitness",
+        "vsIttakesTwo",
+        "vsGrounded"
+      ]
+    },
+    "home": {
+      "slug": "",
+      "title": "Guides Big Walk : solutions des tours, outils et dépannage co-op",
+      "desc": "Bloqué sur une tour de Big Walk ? Solutions pas à pas pour les cinq tours, chaque outil expliqué, et les réparations de connexion co-op — la réponse dès le premier écran.",
+      "keywords": [
+        "big walk",
+        "big walk guide",
+        "big walk jeu",
+        "big walk soluce",
+        "big walk solutions puzzles"
+      ],
+      "h1": "Big Walk : solutions des tours, outils et dépannage co-op",
+      "lead": "Big Walk est une marche de puzzle en co-op par les créateurs d'Untitled Goose Game. Ci-dessous, les solutions exactes que les joueurs recherchent — tours rouge/noire/verte/bleue/jaune, chaque outil, et les réparations co-op pour lesquelles les gros sites n'ont jamais pris la peine d'écrire une page. Tout ici répond d'abord à la question et explique ensuite, pour que tu retournes à ton run en moins d'une minute.",
+      "sections": [
+        {
+          "h2": "C'est quoi, le jeu Big Walk ?",
+          "paras": [
+            "Big Walk est un jeu de puzzle co-op de House House, édité par Panic et sorti le 4 août 2026 sur Steam, Nintendo Switch 2 et PlayStation 5. Toi et tes amis formez une file de marcheurs et traversez à pied un monde fait main. La progression est bloquée par des tours à code couleur, et chaque tour est un puzzle autonome qui ne s'ouvre que lorsque le groupe en découvre le truc ensemble.",
+            "Les contrôles sont volontairement simples — le défi, c'est la communication, pas l'exécution. La plupart des runs ratés viennent d'un marcheur qui bouge avant que le reste de la file soit prêt, donc les guides de ce site se concentrent sur les annonces, la répartition des rôles et les ordres de passage exacts plutôt que sur les réflexes."
+          ]
+        },
+        {
+          "h2": "Les cinq tours",
+          "paras": [
+            "La plupart des recherches sur Big Walk concernent une tour précise. Chaque page donne la solution dès le premier écran, puis l'ordre de passage et le piège qui fait échouer la plupart des runs.",
+            "Les cinq tours parlent le même langage — plaques de pression, ponts et ordre de passage — mais chacune ajoute une mécanique nouvelle. La Tour rouge est le puzzle d'introduction et enseigne la boucle plaque-et-pont. La Tour noire ajoute le timing. La Tour verte est construite autour de la lumière et des ponts. La Tour bleue sépare le groupe entre les niveaux d'eau, et la Tour jaune est le final qui combine tout. Si tu es bloqué sur une tour, ouvre sa page et lis le premier écran — la solution est là avant tout défilement."
+          ]
+        },
+        {
+          "h2": "Outils et co-op",
+          "paras": [
+            "Les pages d'outils expliquent chaque gadget un par un, et la page co-op répare les déconnexions dont parlent les joueurs sur Reddit. Les outils sont la façon dont Big Walk garde les puzzles avancés frais : chacun est simple seul, mais en combiner deux au bon moment est ce qui casse les tours les plus dures. Si ta session refuse carrément de se connecter, commence par la page de dépannage co-op — elle couvre les codes d'invitation, les problèmes de NAT et les limites de plateformes dans l'ordre où les essayer."
+          ]
+        },
+        {
+          "h2": "Big Walk face aux autres puzzles co-op",
+          "paras": [
+            "Tu hésites sur le jeu co-op à acheter ? Les pages comparatives tranchent. Big Walk est comparé à The Witness pour le style de puzzle, à It Takes Two pour le feeling co-op, et à Grounded 2 pour le rythme survie contre puzzle. Chaque comparatif couvre la durée, la difficulté, le nombre de joueurs et pour qui chaque jeu est vraiment fait, pour que tu choisisses le bon pour ton groupe avant de dépenser quoi que ce soit."
+          ]
+        },
+        {
+          "h2": "Comment utiliser ce site",
+          "paras": [
+            "Chaque page de WalkHub suit la même structure. La réponse ou la solution directe se trouve sur le premier écran, juste sous le titre. Les instructions pas à pas suivent, puis l'échec fréquent et son remède, et une courte FAQ en bas couvre les questions suivantes.",
+            "Si tu es bloqué en ce moment, ouvre la page de la tour qui correspond à la couleur de ton marqueur de carte et lis le premier paragraphe. Si le jeu lui-même se comporte mal, va directement au dépannage co-op. Si tu hésites encore à acheter, la page prix et les comparatifs sont les lectures les plus rapides.",
+            "Les nouveaux joueurs devraient commencer par le guide complet, qui parcourt tout le jeu dans l'ordre — progression, les cinq tours, les bases de la co-op et par quoi commencer. Les joueurs de retour peuvent utiliser la page des succès pour récupérer les déblocages manquables avant de considérer le jeu terminé."
+          ]
+        },
+        {
+          "h2": "Un petit guide Big Walk pour ta première session",
+          "paras": [
+            "Avant ta première session, mettez-vous d'accord sur trois choses en vocal : qui mène la file, qui ancre les plaques de pression, et l'annonce que vous utiliserez avant que quiconque quitte une plaque. La plupart des échecs du début sont des échecs de communication, pas de puzzle.",
+            "Avancez en file, pas en foule. Quand une tour demande des rôles séparés, dis ton rôle à voix haute avant de toucher quoi que ce soit. Et quand un run échoue, recommence immédiatement — les tours sont courtes, et un retry rapide vaut mieux qu'une longue dispute sur ce qui a mal tourné."
+          ]
+        },
+        {
+          "h2": "Les questions Big Walk les plus recherchées",
+          "paras": [
+            "Réponses courtes aux requêtes qui amènent la plupart des joueurs ici :"
+          ],
+          "list": [
+            "Quelle est la solution de la Tour rouge de Big Walk ? Le pas à pas complet est sur la page de la Tour rouge — la réponse est dès le premier écran.",
+            "Comment battre la Tour noire ? L'ordre de passage et le timing sont couverts sur la page de la Tour noire, y compris le piège qui fait échouer la plupart des runs co-op.",
+            "Pourquoi la co-op de Big Walk ne marche pas ? Codes d'invitation, NAT et limites de plateformes sont réparés pas à pas sur la page de dépannage co-op.",
+            "Combien coûte Big Walk ? Les prix actuels sur Steam et consoles sont sur la page prix.",
+            "Comment obtenir tous les succès de Big Walk ? La liste des succès donne le chemin de déblocage le plus rapide pour chacun, plus ceux à surveiller.",
+            "Faut-il acheter Big Walk ou It Takes Two ? Le comparatif tranche par feeling co-op, difficulté et durée."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Qu'est-ce que Big Walk ?",
+          "a": "Big Walk est une aventure de puzzle en co-op où une file de joueurs marche ensemble dans un monde fait main, en résolvant des puzzles de tours et des défis environnementaux. Il est développé par House House, le studio derrière Untitled Goose Game."
+        },
+        {
+          "q": "Combien de tours y a-t-il dans Big Walk ?",
+          "a": "Il y a cinq tours à code couleur — rouge, noire, verte, bleue et jaune. Chacune a sa propre mécanique ; les solutions complètes pas à pas sont liées ci-dessus."
+        },
+        {
+          "q": "Big Walk est-il co-op / crossplay ?",
+          "a": "Oui, il est conçu pour la co-op. Si ta session refuse de se connecter, consulte la page de dépannage co-op pour les codes d'invitation, le NAT et les limites de plateformes."
+        },
+        {
+          "q": "Qui fait Big Walk, et quand est-il sorti ?",
+          "a": "Big Walk est développé par House House et édité par Panic. Il est sorti le 4 août 2026 sur Steam, Nintendo Switch 2 et PlayStation 5."
+        },
+        {
+          "q": "Combien de temps faut-il pour finir Big Walk ?",
+          "a": "Un premier run à travers les cinq tours prend à la plupart des groupes quelques soirées, et les groupes coordonnés vont plus vite. La page du guide complet détaille toute la progression dans l'ordre pour rythmer tes sessions."
+        },
+        {
+          "q": "Sur quelles plateformes est Big Walk ?",
+          "a": "Big Walk est sorti sur Steam, Nintendo Switch 2 et PlayStation 5 le 4 août 2026. La page prix compare les plateformes, les éditions et l'intérêt du pack co-op."
+        },
+        {
+          "q": "Peut-on jouer à Big Walk en solo ?",
+          "a": "Big Walk est conçu autour d'une file de marcheurs qui communiquent, et ses puzzles de tours supposent une coordination de groupe. Si tu comptes jouer avec des amis, la page guide couvre les bases de la co-op et par quoi commencer."
+        }
+      ],
+      "videoId": "c30AAvpS6do",
+      "gameWidget": true,
+      "related": [
+        "guide",
+        "tools",
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "coop",
+        "achievements",
+        "price",
+        "vsWitness",
+        "vsIttakesTwo",
+        "vsGrounded"
+      ]
+    },
+    "vsWitness": {
+      "slug": "vs-witness",
+      "title": "Big Walk ou The Witness — lequel choisir ?",
+      "desc": "Big Walk contre The Witness : style de puzzle, co-op, durée et pour qui chaque jeu est vraiment fait.",
+      "keywords": [
+        "big walk ou the witness",
+        "big walk vs the witness",
+        "the witness ou big walk lequel choisir"
+      ],
+      "h1": "Big Walk ou The Witness — lequel choisir ?",
+      "lead": "Verdict d'abord : ce sont des jeux différents pour des humeurs différentes. Big Walk est un puzzle de marche en co-op de House House (édité par Panic, sorti le 4 août 2026 sur Steam, Switch 2 et PS5) que tu joues avec des amis ; The Witness est un puzzle solitaire de tracé de lignes que tu joues seul. Choisis Big Walk si tu veux rire avec des gens, The Witness si tu veux réfléchir en silence.",
+      "sections": [
+        {
+          "h2": "Big Walk contre The Witness : côte à côte",
+          "table": {
+            "headers": [
+              "Critère",
+              "Big Walk",
+              "The Witness"
+            ],
+            "rows": [
+              [
+                "Style de puzzle",
+                "Puzzles de marche environnementaux en co-op",
+                "Labyrinthes de tracé de lignes en solo"
+              ],
+              [
+                "Co-op",
+                "Conçu pour 2+ joueurs, vocal encouragé",
+                "Aucune — strictement solo"
+              ],
+              [
+                "Durée",
+                "Quelques sessions concentrées entre amis",
+                "Long, cérébral, des dizaines d'heures"
+              ],
+              [
+                "Difficulté",
+                "Doux, indulgent, l'échec est drôle",
+                "Raide, aucun indice, tu t'apprends toi-même"
+              ],
+              [
+                "Prix",
+                "Prix indie abordable sur Steam, Switch 2 et PS5",
+                "Titre plus ancien, souvent en promo"
+              ],
+              [
+                "Ambiance",
+                "Chaleureux, bête, social",
+                "Calme, abstrait, solitaire"
+              ],
+              [
+                "Idéal pour",
+                "Jouer avec des amis",
+                "Casse-tête solo au calme"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Le design de puzzle comparé",
+          "paras": [
+            "The Witness est un jeu de panneaux. Tu parcours une île magnifique et vide en résolvant des labyrinthes de lignes qui ajoutent sans cesse des règles — symboles, couleurs, sons — sans jamais les expliquer. Le puzzle est dans ta tête : remarque le motif, teste-le, sens la règle faire tilt.",
+            "Big Walk place le puzzle dans l'espace entre les joueurs. Ses tours sont construites de plaques de pression, de ponts rétractables, de niveaux d'eau et de rayons lumineux qui ne se comportent bien que pendant que ton groupe se coordonne. Le puzzle n'est pas « découvre la règle » — c'est « fais faire à trois amis la bonne chose au bon moment ». Dans la Tour rouge, un marcheur ancre une plaque pendant que les autres traversent en file indienne ; dans la Tour bleue, les rôles se répartissent autour d'un niveau d'eau qui monte. Chaque mécanique est une conversation.",
+            "Les décors jouent le même tour dans des directions opposées. The Witness cache des puzzles dans son environnement pour le joueur qui regarde de près. Big Walk les cache dans les habitudes de ton groupe — la tour qui semble impossible jusqu'à ce que quelqu'un suggère de répartir les rôles."
+          ]
+        },
+        {
+          "h3": "L'échec se vit différemment",
+          "paras": [
+            "Dans The Witness, l'échec est silencieux — une mauvaise ligne, un bourdonnement, et tu réessaies seul. Dans Big Walk, l'échec est le divertissement : le pont se rétracte, tout le monde tombe, et le groupe rit et refait un plan. Un jeu te fait te sentir intelligent ; l'autre te fait te sentir ensemble."
+          ]
+        },
+        {
+          "h2": "Lequel pour ton groupe",
+          "paras": [
+            "Choisis Big Walk si l'une de ces phrases te ressemble :",
+            "Choisis The Witness si celles-ci te conviennent mieux :",
+            "Une remarque pratique : Big Walk a besoin d'un groupe qui peut parler, donc prévois le vocal et vérifie ta configuration de connexion avant la première session. The Witness n'a besoin de rien d'autre que ta patience."
+          ],
+          "lists": [
+            [
+              "Tu as deux amis ou plus et une soirée libre par semaine.",
+              "Tu veux une soirée co-op axée sur le travail d'équipe, pas les réflexes.",
+              "Tu aimes les jeux où les erreurs deviennent des histoires qu'on se raconte plus tard.",
+              "Tu veux quelque chose de court et complet, pas un hobby de cent heures."
+            ],
+            [
+              "Tu joues surtout seul, tard le soir, casque sur les oreilles.",
+              "Tu aimes les puzzles qui te résistent des heures avant de s'ouvrir.",
+              "Tu veux une énorme quantité de contenu pour un petit prix en promo."
+            ]
+          ]
+        },
+        {
+          "h3": "Si tu ne peux en acheter qu'un",
+          "paras": [
+            "Fais correspondre le jeu à la soirée, pas aux notes. Un groupe de deux à quatre tire bien plus d'heures de fun par euro de Big Walk. Un joueur solo tire bien plus de puzzle par euro de The Witness. Aucun n'est le mauvais choix — acheter le mauvais pour ta situation, si."
+          ]
+        },
+        {
+          "h2": "Verdict final",
+          "paras": [
+            "Ce n'est pas un vrai duel. Achète Big Walk quand le plan est une soirée co-op — c'est le rare jeu de puzzle où la partie difficile est de coopérer, et il fonctionne parfaitement pour deux à quatre joueurs. Prends The Witness quand tu veux une longue plongée de puzzle solo au calme qui respecte ton intelligence et ne te tient jamais la main. Ce ne sont pas des concurrents ; ce sont deux cases différentes dans ta bibliothèque. Si ton budget le permet, prends Big Walk pour le groupe et garde The Witness pour toi — et si les soirées co-op deviennent une habitude, nos guides des cinq tours te porteront jusqu'au bout de la marche."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Big Walk ressemble-t-il à The Witness ?",
+          "a": "Seulement vaguement. Les deux sont des jeux de puzzle dans des espaces ouverts et praticables, mais Big Walk est co-op et physique — tu résous les choses en déplaçant des corps sur des plaques et à travers des ponts — tandis que The Witness est un jeu solo sur le tracé de lignes sur des panneaux. Si tu as adoré l'un, l'autre mérite un essai, mais attends-toi à une soirée très différente."
+        },
+        {
+          "q": "Lequel est meilleur en co-op, Big Walk ou The Witness ?",
+          "a": "Big Walk, sans hésiter. Il est conçu autour de deux marcheurs ou plus qui se coordonnent en temps réel. The Witness n'a aucun mode co-op — le plus proche, c'est un ami qui regarde par-dessus ton épaule et suggère des lignes."
+        },
+        {
+          "q": "Quel jeu est le plus long ?",
+          "a": "The Witness est le jeu le plus long et le plus exigeant, avec des centaines de panneaux et des défis de fin de jeu optionnels. Big Walk est conçu pour des sessions sociales plus courtes — la plupart des groupes finissent la marche principale en quelques soirées."
+        },
+        {
+          "q": "Lequel est le plus dur ?",
+          "a": "The Witness, de loin. Il n'explique jamais ses règles et attend de toi que tu les déduises. Les puzzles de tours de Big Walk ont une courbe d'apprentissage, mais l'échec est rapide et drôle, et ton groupe s'en sort en parlant."
+        },
+        {
+          "q": "Faut-il acheter Big Walk ou The Witness en premier ?",
+          "a": "Si tu as un groupe co-op régulier, achète Big Walk en premier — rien d'autre cette année ne fait ce qu'il fait. Si tu joues seul et veux un puzzle solo profond, commence par The Witness. Idéalement, possède les deux : ils remplissent des cases différentes."
+        },
+        {
+          "q": "Peut-on jouer à Big Walk en solo comme The Witness ?",
+          "a": "Tu peux marcher seul, mais les puzzles de tours supposent au moins deux marcheurs — l'un tenant une plaque de pression pendant que l'autre traverse. Le jeu solo est possible avec des ruses, pourtant le jeu prend clairement vie avec un partenaire."
+        }
+      ],
+      "related": [
+        "vsIttakesTwo",
+        "vsGrounded",
+        "guide",
+        "coop",
+        "price"
+      ]
+    },
+    "vsIttakesTwo": {
+      "slug": "vs-it-takes-two",
+      "title": "Big Walk contre It Takes Two — la co-op comparée",
+      "desc": "Big Walk contre It Takes Two : feeling co-op, difficulté et quel jeu co-op acheter en premier.",
+      "keywords": [
+        "big walk vs it takes two",
+        "big walk ou it takes two",
+        "meilleur jeu coop big walk ou it takes two"
+      ],
+      "h1": "Big Walk contre It Takes Two — la co-op comparée",
+      "lead": "Big Walk contre It Takes Two, c'est en fait une question sur le genre de soirée co-op que tu veux. Big Walk est une promenade sans pression où tu débarques avec des amis pour des fous rires rapides ; It Takes Two est une campagne plus longue, portée par l'histoire, construite pour exactement deux joueurs. Choisis Big Walk pour la soirée improvisée, It Takes Two pour un run de duo engagé.",
+      "sections": [
+        {
+          "h2": "Côte à côte",
+          "table": {
+            "headers": [
+              "Critère",
+              "Big Walk",
+              "It Takes Two"
+            ],
+            "rows": [
+              [
+                "Style de co-op",
+                "Puzzles de promenade décontractés, en drop-in",
+                "Design scripté et millimétré pour deux joueurs"
+              ],
+              [
+                "Nombre de joueurs",
+                "Solo ou groupe d'amis",
+                "Exactement deux joueurs, toujours"
+              ],
+              [
+                "Durée de session",
+                "Sessions courtes, pars quand tu veux",
+                "Une campagne complète (10+ h)"
+              ],
+              [
+                "Difficulté",
+                "Légère et accessible",
+                "Variée, parfois vraiment dure"
+              ],
+              [
+                "Prix",
+                "Un achat indie par joueur",
+                "Friend's Pass : une seule copie couvre les deux joueurs"
+              ],
+              [
+                "Ambiance",
+                "Co-op de retrouvailles",
+                "Co-op cinématique"
+              ],
+              [
+                "Idéal pour",
+                "Soirées décontractées entre amis",
+                "Un run co-op engagé"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Le feeling co-op comparé",
+          "paras": [
+            "Les deux jeux sont co-op, mais ils dépensent ton temps différemment. Big Walk, du développeur d'Untitled Goose Game House House et de l'éditeur Panic, est d'abord une marche partagée et ensuite un jeu de puzzle. Toi et tes amis déambulez, tripotez les outils, et résolvez ce que le chemin vous jette. Personne n'a besoin d'héberger un plan. Quelqu'un peut rejoindre en retard, quelqu'un peut partir tôt, et la marche continue.",
+            "It Takes Two a la forme opposée. Hazelight l'a construit comme une campagne linéaire à deux joueurs où chaque chapitre te donne de nouvelles capacités conçues pour s'emboîter. Un joueur reçoit les clous, l'autre le marteau. Tu ne peux pas le traverser à la dérive — la progression dépend des deux joueurs qui exécutent ensemble jusqu'au générique.",
+            "Aucun n'est meilleur ; ils grattent des démangeaisons différentes. Big Walk donne l'impression de retrouver des amis au parc. It Takes Two donne l'impression de répéter une pièce à deux personnages.",
+            "La différence pratique se voit en vocal. Dans Big Walk, la conversation dérive — la moitié du fun, c'est la discussion pendant que tu marches. Dans It Takes Two, la parole est le jeu : annonces constantes, timing et coordination du premier niveau au dernier."
+          ]
+        },
+        {
+          "h2": "Difficulté et durée de session",
+          "paras": [
+            "Big Walk reste accessible. Les puzzles de tours — rouge, noire, verte, bleue et jaune — demandent de la coordination et du timing, pas du skill mécanique, et une tentative ratée se réinitialise vite. La plupart des sessions sont courtes, ce qui les rend faciles à caser dans une soirée de semaine.",
+            "It Takes Two en demande plus. Les sections de plateforme, les combats de boss et les mécaniques avancées peuvent vraiment défier les joueurs occasionnels, et la campagne attend des sessions de plusieurs heures. Si l'un de vous joue rarement aux jeux, Big Walk est le point de départ le plus gentil."
+          ]
+        },
+        {
+          "h2": "Prix et valeur",
+          "paras": [
+            "Big Walk est sorti le 4 août 2026 sur Steam, Nintendo Switch 2 et PS5 comme un achat indie unique, chaque joueur achetant sa propre copie. Consulte notre guide des prix de Big Walk pour les prix actuels, les éditions et les éventuels packs co-op.",
+            "It Takes Two est plus ancien et régulièrement en promo, et son Friend's Pass signifie qu'un seul de vous deux doit posséder le jeu — le deuxième joueur rejoint gratuitement. En pur coût par duo, It Takes Two gagne souvent. En coût par soirée de jeu avec un groupe plus large et changeant, Big Walk gagne."
+          ]
+        },
+        {
+          "h2": "Big Walk ou It Takes Two — lequel acheter en premier",
+          "paras": [
+            "Achète Big Walk en premier si ton groupe co-op est fluide. Si la composition change de semaine en semaine, si les gens entrent et sortent, ou si tu veux quelque chose qui marche le soir où quelqu'un de nouveau débarque, la structure lâche de Big Walk absorbe tout ça. C'est aussi le meilleur choix quand ton groupe inclut des joueurs qui décrocheraient devant des jeux durs.",
+            "Achète It Takes Two en premier si tu as exactement un partenaire régulier et quelques soirées libres. C'est une campagne complète et polie, et encore l'une des meilleures expériences à deux joueurs sur n'importe quelle plateforme — mais elle gâche ses forces sur un public tournant.",
+            "Posséder les deux est une réponse raisonnable. Ils ne se disputent pas la même soirée."
+          ]
+        },
+        {
+          "h2": "Verdict final",
+          "paras": [
+            "Big Walk et It Takes Two se situent aux extrémités opposées du spectre co-op. Big Walk est le jeu que tu ouvres quand des amis sont là et que personne n'a rien prévu. It Takes Two est le jeu que tu planifies. Pour un fou rire rapide ce soir, prends Big Walk. Pour une histoire que vous finissez ensemble sur quelques semaines, prends It Takes Two."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Big Walk est-il aussi bon qu'It Takes Two en co-op ?",
+          "a": "Pour une courte soirée décontractée et bête, oui. Big Walk livre des fous rires dans les dix premières minutes. Pour une campagne d'histoire profonde avec des scènes d'action et des boss, It Takes Two est l'expérience la plus consistante."
+        },
+        {
+          "q": "Big Walk ou It Takes Two pour des non-joueurs ?",
+          "a": "Big Walk. Les contrôles sont simples, l'échec est drôle au lieu de punir, et personne n'a besoin de skill en plateforme. It Takes Two suppose que les deux joueurs savent gérer la visée et les sauts chronométrés."
+        },
+        {
+          "q": "Peut-on jouer à plus de deux ?",
+          "a": "Dans Big Walk, oui — il est conçu pour un groupe d'amis qui marchent ensemble. It Takes Two est strictement un jeu à deux joueurs, sans option pour un troisième."
+        },
+        {
+          "q": "Lequel est le plus facile à prendre en main ?",
+          "a": "Big Walk — il n'y a presque pas d'onboarding, et les amis peuvent rejoindre en cours de session sans repasser par un tutoriel."
+        },
+        {
+          "q": "Faut-il un gros bloc de temps ?",
+          "a": "Big Walk non ; les sessions marchent par courtes salves. It Takes Two attend un engagement de plusieurs heures sur plusieurs soirées."
+        },
+        {
+          "q": "It Takes Two nécessite-t-il deux copies ?",
+          "a": "Non. Son Friend's Pass permet à un deuxième joueur de rejoindre gratuitement, donc un seul de vous deux achète le jeu. Dans Big Walk, chaque marcheur a besoin de sa propre copie."
+        }
+      ],
+      "related": [
+        "vsWitness",
+        "vsGrounded",
+        "coop",
+        "guide",
+        "price"
+      ]
+    },
+    "vsGrounded": {
+      "slug": "vs-grounded-2",
+      "title": "Big Walk contre Grounded 2 — comparatif",
+      "desc": "Big Walk contre Grounded 2 : survie contre co-op de pur puzzle, nombre de joueurs et ambiance.",
+      "keywords": [
+        "big walk vs grounded 2",
+        "big walk ou grounded 2",
+        "big walk grounded 2 comparatif"
+      ],
+      "h1": "Big Walk contre Grounded 2 — comparatif",
+      "lead": "Big Walk et Grounded 2 sont tous deux des jeux co-op, mais ils ne se recoupent presque pas. Big Walk est une pure marche de puzzle — pas de combat, pas de craft, juste une file de marcheurs qui résolvent des puzzles environnementaux ensemble. Grounded 2 est du survival craft avec construction de base et combats d'insectes. Choisis Big Walk pour réfléchir ensemble, Grounded 2 pour construire et combattre ensemble. Voici le comparatif complet.",
+      "sections": [
+        {
+          "h2": "Côte à côte",
+          "paras": [
+            "La version courte de Big Walk contre Grounded 2, critère par critère :"
+          ],
+          "table": {
+            "headers": [
+              "Critère",
+              "Big Walk",
+              "Grounded 2"
+            ],
+            "rows": [
+              [
+                "Genre",
+                "Marche de puzzle en co-op",
+                "Survival craft en co-op"
+              ],
+              [
+                "Style de co-op",
+                "File de puzzle partagée, sans combat",
+                "Construction de base, combats d'insectes, survie partagée"
+              ],
+              [
+                "Nombre de joueurs",
+                "Petite file co-op",
+                "Jusqu'à 4 joueurs"
+              ],
+              [
+                "Durée de session",
+                "Débarque pour une tour ou deux",
+                "Sessions de campagne longue durée"
+              ],
+              [
+                "Difficulté",
+                "Douce — l'échec est un retry rapide",
+                "Pression de survie — faim, équipement, ennemis"
+              ],
+              [
+                "Prix",
+                "Achat premium unique",
+                "Premium, aussi sur Game Pass"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Survie contre co-op de pur puzzle",
+          "paras": [
+            "Big Walk vient de House House, le studio derrière Untitled Goose Game, et a été édité par Panic le 4 août 2026 sur Steam, Nintendo Switch 2 et PS5. Toi et tes amis marchez en file de randonneurs à travers un parc de montagne, en résolvant des puzzles environnementaux — plaques de pression, ponts et les cinq tours colorées. Il n'y a ni barre de vie, ni inventaire, ni état d'échec au-delà de réessayer un puzzle.",
+            "Grounded 2 part dans la direction opposée. Tu es rétréci à taille d'insecte et lâché dans un parc hostile où presque tout veut ta mort. Tu récoltes des ressources, craftes des outils et des armures, montes une base et combats des insectes — avec jusqu'à quatre joueurs qui partagent la charge.",
+            "Donc la vraie question dans Big Walk ou Grounded 2, c'est la pression. Grounded 2 est construit dessus : jauges de faim, raids, usure de l'équipement. Big Walk supprime délibérément tout ça. Le seul ennemi est un puzzle que tu n'as pas encore compris, et la seule pénalité d'échec est de remarcher jusqu'à son début.",
+            "Cette différence façonne aussi le feeling social. Les sessions Big Walk se transforment en conversation permanente — annoncer les plaques, débattre des routes — parce que parler est toute la mécanique. La conversation de Grounded 2, c'est de la logistique : qui farme quoi, qui garde la base."
+          ]
+        },
+        {
+          "h2": "Lequel convient à ton groupe",
+          "paras": [
+            "Choisis Big Walk si ton groupe :",
+            "Choisis Grounded 2 si ton groupe :",
+            "Vérifie aussi ce que ton groupe possède. Big Walk tourne sur Steam, Nintendo Switch 2 et PS5 ; Grounded 2 est sur Xbox et PC, où il est inclus dans le Game Pass. Beaucoup de groupes finiront par posséder les deux, car les deux jeux grattent des démangeaisons différentes — Big Walk est le jeu de soirée de semaine, facile à lancer et facile à arrêter, tandis que Grounded 2 est l'engagement du week-end."
+          ],
+          "lists": [
+            [
+              "Veut une soirée co-op calme et bavarde où le défi est la communication, pas les réflexes.",
+              "Inclut des joueurs qui ne jouent pas d'habitude — les contrôles se limitent à marcher et interagir, rien de plus.",
+              "Joue en sessions courtes ; tu peux boucler une tour ou deux et arrêter sans abandonner une base en plein projet."
+            ],
+            [
+              "Aime la progression long terme — débloquer des recettes, améliorer l'équipement, agrandir une base partagée sur des semaines.",
+              "Apprécie le combat et veut des ennemis à affronter ensemble, pas juste des puzzles à résoudre.",
+              "Compte quatre joueurs ; Big Walk est construit autour d'une file co-op plus petite, tandis que Grounded 2 supporte jusqu'à quatre joueurs."
+            ]
+          ]
+        },
+        {
+          "h2": "Verdict final",
+          "paras": [
+            "Si tu ne peux en acheter qu'un : un duo amateur de puzzles ou un groupe aux niveaux variés devrait acheter Big Walk ; une équipe de fans de survie à quatre joueurs devrait acheter Grounded 2. Big Walk est plus gentil avec les débutants, moins cher pour commencer, et le seul des deux où personne n'a besoin de savoir ce qu'est un établi.",
+            "Envie de construire et survivre avec des amis ? Grounded 2. Envie de résoudre des puzzles ensemble sans aucune pression ? Big Walk — commence par le guide complet, ou vérifie d'abord le prix sur ta plateforme."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Big Walk ressemble-t-il à Grounded 2 ?",
+          "a": "Seulement au sens le plus large — les deux sont co-op. Grounded 2 est du survival craft avec combat, bases et farming de ressources. Big Walk est une marche de puzzle sans combat où tout le jeu consiste en un groupe qui résout des puzzles environnementaux ensemble. Presque rien de ce que tu apprends dans l'un ne se transfère à l'autre."
+        },
+        {
+          "q": "Lequel supporte le plus de joueurs, Big Walk ou Grounded 2 ?",
+          "a": "Grounded 2, avec jusqu'à quatre joueurs dans un monde partagé. Big Walk est construit autour d'une file co-op de marcheurs plus petite. Si ton équipe habituelle compte quatre personnes, ça peut à lui seul trancher la question Big Walk ou Grounded 2."
+        },
+        {
+          "q": "Lequel est le plus relaxant ?",
+          "a": "Big Walk, de loin. Il n'y a ni ennemis, ni jauges de faim, ni base à défendre — l'échec signifie juste réessayer le puzzle devant toi. Grounded 2 maintient une pression de survie constante, même quand tu n'es pas en combat."
+        },
+        {
+          "q": "Lequel convient le mieux aux sessions courtes ?",
+          "a": "Big Walk. Les tours et les tronçons de puzzle fonctionnent comme des arrêts autonomes, donc une session d'une heure le soir semble complète. Grounded 2 récompense les sessions plus longues — les runs de récolte, les projets de base et la préparation des boss ont tendance à dépasser le temps prévu."
+        },
+        {
+          "q": "Big Walk a-t-il du combat ou du craft ?",
+          "a": "Non. Big Walk n'a ni combat, ni craft, ni gestion d'inventaire. Chaque défi est un puzzle environnemental — plaques, ponts, routes et les cinq tours colorées. Si ton groupe a besoin de se battre pour rester intéressé, Grounded 2 est le choix le plus sûr."
+        },
+        {
+          "q": "Big Walk ou Grounded 2 pour les débutants ?",
+          "a": "Big Walk. Les contrôles se résument à marcher et interagir, et rien ne punit le jeu lent. Grounded 2 suppose une aisance avec les systèmes de survie — arbres de craft, niveaux d'équipement, types d'ennemis — qui peut noyer un joueur débutant."
+        }
+      ],
+      "related": [
+        "vsWitness",
+        "vsIttakesTwo",
+        "coop",
+        "guide",
+        "price"
+      ]
+    }
+  }
+}
