@@ -36,6 +36,7 @@ export default function RedTowerPage() {
         { q: "Is the Red Tower required?", a: "It is the gateway tower; completing it opens the path to the later towers, so yes. It also teaches the pressure-plate logic that the Black, Green, Blue and Yellow towers all build on." },
         { q: "What happens if a walker falls off the bridge?", a: "The fallen walker respawns at the start pad. The anchor on the far plate should not move; the respawned walker simply crosses again once the bridge is stable." },
         { q: "How long does the Red Tower take?", a: "A coordinated group clears it in a few minutes. Most of the time goes to agreeing on the anchor and the crossing order, not the puzzle itself." },
+        { q: "Where do you go after the Red Tower in Big Walk?", a: "After completing the Red Tower, follow the newly opened cliffside path heading northwest across the river gorge. Most teams proceed to the Green Tower in the valley basin or follow the river upstream toward the Blue Tower reservoir." },
       ]}
     >
       <h2>Overview</h2>
@@ -139,6 +140,31 @@ export default function RedTowerPage() {
         errors. The Red Tower fails on communication, not logic. Slow down,
         say the plan out loud, and the tower becomes a two-minute formality.
       </p>
+
+      <h2>Where to go after the Red Tower?</h2>
+      <p>
+        After triggering the exit plate at the top of the Red Tower, the southern
+        ravine gate unlocks and drops a long suspension bridge over the river gorge.
+        Groups frequently wonder which path or tower to tackle next:
+      </p>
+      <ul>
+        <li>
+          <strong>Recommended Next: The Green Tower (Valley Basin).</strong> Cross
+          the suspension bridge and follow the trail descending northwest. The Green Tower
+          introduces laser beam routing and mirror alignment, which is the natural progression
+          in difficulty.
+        </li>
+        <li>
+          <strong>Alternative Route: The Blue Tower (Reservoir Dam &amp; Slope).</strong> If
+          you follow the river upstream toward the massive concrete dam wall, you will arrive at
+          the Blue Tower (frequently referred to as the &quot;Blue Building&quot; or &quot;Blue Slope&quot;).
+        </li>
+        <li>
+          <strong>Trail Navigation Tip:</strong> Keep your walkie-talkies equipped and listen
+          closely. When you walk in the direction of an active tower, the audio beacon clicks
+          accelerate in frequency.
+        </li>
+      </ul>
 
       <h2>A clean-run checklist</h2>
       <ol>

@@ -54,6 +54,22 @@ export default function PageShell({
       {/* First screen: give the answer immediately (no scroll required) */}
       <p className="lead mt-3">{lead}</p>
 
+      {howTo && (
+        <aside aria-label="Quick Solution" className="my-5 rounded-xl border border-emerald-300 bg-emerald-50/80 p-4 shadow-sm sm:p-5">
+          <div className="flex items-center gap-2 text-sm font-bold uppercase tracking-wider text-emerald-900">
+            <span className="flex h-5 w-5 items-center justify-center rounded-full bg-emerald-600 text-xs text-white">✓</span>
+            <span>Quick Solution (TL;DR Steps)</span>
+          </div>
+          <ol className="mt-3 space-y-2 text-sm text-slate-800 list-decimal pl-5">
+            {howTo.steps.map((s) => (
+              <li key={s.title}>
+                <strong className="font-semibold text-slate-900">{s.title}:</strong> {s.text}
+              </li>
+            ))}
+          </ol>
+        </aside>
+      )}
+
       {gameWidget && <GameFrame />}
       {videoId && <VideoEmbed videoId={videoId} />}
 

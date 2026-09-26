@@ -35,6 +35,7 @@ export default function CoopPage() {
         { q: "Does Big Walk have dedicated servers?", a: "No. Every walk is hosted peer-to-peer by one player, which is why the host's NAT type and connection quality decide whether everyone else can join and stay connected." },
         { q: "Can I play Big Walk co-op on different game versions?", a: "No. Mismatched versions will not see each other's sessions at all. Both players need the same patch installed, so update before troubleshooting anything else." },
         { q: "What NAT type do I need for Big Walk?", a: "Open or moderate works for joining; open is strongly recommended for hosting. Strict NAT can sometimes join an open host but will drop or block most sessions." },
+        { q: "What should I do if Big Walk crossplay fails between PS5 and PC?", a: "Confirm both platforms have Crossplay enabled in Settings > Network, ensure both games are updated to the exact same version patch, and verify the host generates a fresh join code. Because PC and console use different network backends, having the PC player host often resolves handshake timeouts." },
       ]}
     >
       <p>

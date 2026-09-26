@@ -35,6 +35,7 @@ export default function GuidePage() {
         { q: "Which Big Walk tower is the hardest?", a: "The Yellow Tower, because it combines plates, pulses, beam routing and water level in one run. The Black Tower fails the most first attempts, though — its pulse timing punishes groups that skip the count." },
         { q: "What is the most common reason runs fail?", a: "An empty pressure plate. The moment the anchor steps off early — or two walkers leave a plate together — bridges retract and the line falls. Anchor discipline fixes more runs than any trick." },
         { q: "Do I need voice chat for Big Walk?", a: "It is not required, but it is close. Anchor calls, pulse counts and water-level stops are all timing-critical, and text chat is too slow. A group on voice clears towers in half the attempts." },
+        { q: "How do you unstuck or respawn if trapped in geometry?", a: "If you clip into a boulder or tree, open Pause > Leave Walk, and immediately re-enter your team's 6-character Join Code. You will respawn right beside the party leader with zero puzzle progress lost. Falling off cliffs triggers an automatic 5-second checkpoint respawn." },
       ]}
     >
       <h2>What to do in your first hour</h2>
@@ -201,6 +202,24 @@ export default function GuidePage() {
         to a puzzle being unfair. Call the habit out loud the moment it slips
         and the run usually recovers.
       </p>
+
+      <h2>How to Unstuck and Respawn in Big Walk</h2>
+      <p>
+        Because of the organic landscape geometry and physics interactions, walkers
+        occasionally clip into rock faces, wedge beneath roots, or fall out of bounds.
+        Here is how to recover being stuck without restarting your entire run:
+      </p>
+      <ul>
+        <li>
+          <strong>The 5-Second Void Respawn:</strong> If you drop into a canyon or out-of-bounds chasm, do not panic. The game automatically resets your walker back onto the nearest trail checkpoint after 3 to 5 seconds.
+        </li>
+        <li>
+          <strong>Leave &amp; Rejoin by Join Code (Safe Host Respawn):</strong> If your character is physically wedged in rocks or trees, the fastest fix is to open the Pause Menu &gt; select &quot;Leave Walk&quot;, and re-enter your team&apos;s 6-character Join Code. You will immediately spawn standing right next to the active party leader without resetting completed puzzle states.
+        </li>
+        <li>
+          <strong>Crouch-Jumping &amp; Angle Shifting:</strong> If you are caught on terrain collision, hold Crouch and rapidly rotate your camera while pressing Jump. This frequently frees the walking capsule hitbox.
+        </li>
+      </ul>
 
       <h2>Where to go next</h2>
       <p>

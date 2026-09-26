@@ -35,6 +35,7 @@ export default function BlueTowerPage() {
         { q: "Can you solve the Blue Tower solo?", a: "Yes. Set the valve to mid-level yourself, climb back up to the entry side, cross the ledge, and hit the exit plate. It is slower than co-op because one walker does both jobs, but nothing in the puzzle strictly requires a second player." },
         { q: "What happens if the valve walker gets flooded?", a: "The valve walker only floods if the water is left at full or raised again while they are down below. Set mid-level before sending anyone else across and they stay safe for the entire run. If it happens anyway, they respawn and you reset the level." },
         { q: "Is the Blue Tower required to finish Big Walk?", a: "Yes. The Blue Tower is one of the five color towers on the main walk in House House's co-op puzzler, and completing all five opens the route to the end of the game. There is no skip or alternate path around it." },
+        { q: "Is the Blue Tower the same as the Blue Building or Blue Slope?", a: "Yes. In the player community, the Blue Tower puzzle is commonly searched as the 'Blue Building' or 'Blue Slope puzzle' due to the distinctive angled reservoir spillway and concrete dam architecture leading up to the main valve chamber." },
       ]}
     >
       <h2>Overview</h2>
@@ -54,6 +55,20 @@ export default function BlueTowerPage() {
         valve, and the valve walker cannot see the ledge.
       </p>
       <img src="/images/blue-tower-map.png" alt="Big Walk Blue Tower water level map — full, mid and empty states" className="my-6 w-full rounded-xl border border-slate-200" loading="lazy" />
+
+      <h2>The &quot;Blue Building&quot; &amp; &quot;Blue Slope&quot; Location</h2>
+      <p>
+        In community discussions and online searches, many players refer to the Blue Tower
+        as the <strong>&quot;Blue Building&quot;</strong> or <strong>&quot;Blue Slope&quot;</strong>.
+        This name comes from the distinct angled reservoir spillway and concrete embankment
+        leading into the submerged chamber.
+      </p>
+      <p>
+        If your group is trying to figure out how to climb the slippery blue slope or get
+        across the intake chasm, you do not need special climbing gear. Lowering the water
+        valve to <strong>Mid-Level</strong> immediately stops the overflowing spillway and
+        exposes the dry crossing ledge.
+      </p>
 
       <h2>The three water states</h2>
       <p>
