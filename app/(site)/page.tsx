@@ -12,175 +12,109 @@ export const metadata: Metadata = pageMetadata({
 });
 
 const TOWERS = [ROUTES.redTower, ROUTES.blackTower, ROUTES.greenTower, ROUTES.blueTower, ROUTES.yellowTower];
+const ESSENTIALS = [ROUTES.towerOrder, ROUTES.crossplay, ROUTES.switch2, ROUTES.price, ROUTES.tools, ROUTES.coop];
 const COMPARES = [ROUTES.vsWitness, ROUTES.vsIttakesTwo, ROUTES.vsGrounded];
 
 export default function HomePage() {
   return (
     <PageShell
-      h1="Big Walk: tower solutions, tools & co-op fixes"
-      lead="Big Walk is a co-op puzzle walk from the makers of Untitled Goose Game. Below are the exact solutions players search for — Red/Black/Green/Blue/Yellow towers, every tool, and the co-op fixes that the big sites never bothered to write a page for. Everything here answers the question first and explains after, so you can get back to your run in under a minute."
+      breadcrumb={[{ name: "Home", path: "/" }]}
+      h1="Big Walk Guide: Tower Solutions, Tools & Walkthrough"
+      lead="WalkHub is a dedicated guide hub for Big Walk, the cooperative puzzle adventure from House House and Panic. Below are the verified solutions players look for — step-by-step guides for all five color towers, complete equipment breakdowns, crossplay guides, and connection fixes. Everything delivers the answer first so your group can get back to the walk immediately."
       gameWidget
       videoId="c30AAvpS6do"
       related={relatedLinks([
-        "guide", "tools", "redTower", "blackTower", "greenTower", "blueTower",
-        "yellowTower", "coop", "achievements", "price", "vsWitness",
-        "vsIttakesTwo", "vsGrounded",
+        "towerOrder",
+        "crossplay",
+        "guide",
+        "redTower",
+        "blackTower",
+        "greenTower",
+        "blueTower",
+        "yellowTower",
+        "tools",
+        "coop",
+        "switch2",
+        "price",
+        "achievements",
       ])}
       faqs={[
         {
           q: "What is Big Walk?",
-          a: "Big Walk is a co-op puzzle adventure where a line of players walks together through a hand-built world, solving tower puzzles and environmental challenges. It is developed by House House, the studio behind Untitled Goose Game.",
+          a: "Big Walk is an open-world cooperative puzzle adventure where a party of walkers travels in line through an Australian-inspired coastal wilderness, solving five intricate color towers and environmental obstacles. It is created by House House, developers of Untitled Goose Game.",
         },
         {
-          q: "How many towers are there in Big Walk?",
-          a: "There are five color-coded towers — Red, Black, Green, Blue and Yellow. Each has its own mechanic; full step-by-step solutions are linked above.",
+          q: "What is the recommended tower order?",
+          a: "The definitive route is Red Tower → Black Tower → Green Tower → Blue Tower → Yellow Tower. Each structure introduces a unique mechanic that later puzzles build upon.",
         },
         {
-          q: "Is Big Walk co-op / crossplay?",
-          a: "Yes, it is built for co-op. If your session will not connect, see the co-op not working fixes page for join-code, NAT and platform limits.",
+          q: "Does Big Walk support crossplay?",
+          a: "Yes. Big Walk features seamless crossplay across Steam PC, Nintendo Switch 2, and PlayStation 5 using a universal 6-character Join Code.",
         },
         {
-          q: "Who makes Big Walk, and when did it come out?",
-          a: "Big Walk is developed by House House and published by Panic. It released on August 4, 2026 for Steam, Nintendo Switch 2 and PlayStation 5.",
+          q: "How many players can walk together?",
+          a: "While every puzzle is technically solvable solo, the adventure is designed around 2 to 4 coordinated players communicating via voice chat.",
         },
         {
           q: "How long does Big Walk take to finish?",
-          a: "A first run through the five towers takes most groups a few evenings, and coordinated groups move faster. The complete guide page lays out the full progression in order so you can pace your sessions.",
+          a: "A standard first blind playthrough across all five towers takes roughly 4 to 6 hours. Experienced teams replaying for missable achievements can finish in under 2 hours.",
         },
         {
-          q: "Which platforms is Big Walk on?",
-          a: "Big Walk launched on Steam, Nintendo Switch 2 and PlayStation 5 on August 4, 2026. The price page compares platforms, editions and whether the co-op bundle is worth it.",
-        },
-        {
-          q: "Can you play Big Walk solo?",
-          a: "Big Walk is designed around a line of walkers communicating, and its tower puzzles assume group coordination. If you plan to play with friends, the guide page covers co-op basics and what to do first.",
+          q: "Which platforms is the game available on?",
+          a: "The title launched on August 4, 2026 for Steam, Nintendo Switch 2, and PlayStation 5 as a premium purchase.",
         },
       ]}
     >
-      <h2>What is the Big Walk game?</h2>
+      <h2>About the Expedition</h2>
       <p>
-        Big Walk is a co-op puzzle game from House House, published by Panic
-        and released on August 4, 2026 for Steam, Nintendo Switch 2 and
-        PlayStation 5. You and your friends form a line of walkers and cross a
-        hand-built world on foot. Progress is gated by color-coded towers, and
-        each tower is a self-contained puzzle that only opens when the group
-        works out its trick together.
+        Released on August 4, 2026, Big Walk challenges players to move together as a single disciplined
+        expedition across a hand-crafted wilderness. Your journey is structured around five monumental color
+        towers, each containing a self-contained environmental lock that requires team communication to open.
       </p>
       <p>
-        The controls are deliberately simple — the challenge is communication,
-        not execution. Most failed runs come from one walker moving before the
-        rest of the line is ready, so the guides on this site focus on
-        callouts, role splits and exact walk orders rather than reflexes.
+        The controls are deliberately simple — running, jumping, and interacting. The real challenge comes from
+        vocal coordination, role allocation, and spatial timing. Most wipes happen when a teammate steps off an
+        active pressure plate before the line has finished crossing, which is why our guides emphasize exact
+        walk orders and verbal callouts.
       </p>
 
-      <h2>The five towers</h2>
+      <h2>The Five Color Towers</h2>
       <p>
-        Most search traffic for Big Walk is tower-specific. Each page gives the
-        solution on the first screen, then the walk order and the trap that
-        fails most runs.
-      </p>
-      <p>
-        The five towers share a language — pressure plates, bridges and walk
-        order — but each adds one new mechanic. The Red Tower is the intro
-        puzzle and teaches the plate-and-bridge loop. The Black Tower adds
-        timing. The Green Tower is built around light and bridges. The Blue
-        Tower splits the group across water levels, and the Yellow Tower is
-        the finale that combines everything. If you are stuck on one tower,
-        open its page and read the first screen — the solution is there before
-        any scrolling.
+        Most search queries focus on specific tower barriers. Each walkthrough below provides the instant solution
+        above the fold, followed by detailed map coordinates, role splits, and the specific traps to avoid:
       </p>
       <InternalLinks links={TOWERS} />
-
-      <h2>Tools & co-op</h2>
-      <p>
-        The tool pages explain each gadget one by one, and the co-op page fixes
-        the disconnects players post about on Reddit. Tools are how Big Walk
-        keeps later puzzles fresh: each one is simple on its own, but combining
-        two at the right moment is what breaks the harder towers. If your
-        session will not connect at all, start with the co-op fixes page — it
-        covers join codes, NAT problems and platform limits in the order you
-        should try them.
+      <p className="mt-4">
+        To avoid tackling complex water or reflector mechanics prematurely, consult our comprehensive{" "}
+        <a href="/tower-order" className="font-semibold text-brand-700 underline hover:text-brand-900">
+          Big Walk Tower Order &amp; Progression Guide
+        </a>{" "}
+        before embarking on your expedition.
       </p>
-      <InternalLinks links={[ROUTES.tools, ROUTES.coop]} />
 
-      <h2>Big Walk vs other co-op puzzlers</h2>
+      <h2>Essential Guides, Crossplay &amp; Tools</h2>
       <p>
-        Not sure which co-op game to buy? The head-to-head pages settle it.
-        Big Walk is compared against The Witness for puzzle style, It Takes
-        Two for co-op feel, and Grounded 2 for survival-versus-puzzle pacing.
-        Each comparison covers length, difficulty, player count and who each
-        game is actually for, so you can pick the right one for your group
-        before spending anything.
+        Whether configuring cross-platform multiplayer or figuring out how to aim the Reflector gadget, these
+        focused guides answer the most common player questions:
+      </p>
+      <InternalLinks links={ESSENTIALS} />
+
+      <h2>Game Comparisons</h2>
+      <p>
+        Evaluating whether to pick up Big Walk for your regular co-op group? Compare the gameplay style, puzzle
+        difficulty, and player counts in our side-by-side breakdowns:
       </p>
       <InternalLinks links={COMPARES} />
 
-      <h2>How to use this site</h2>
+      <h2>How This Guide Is Structured</h2>
       <p>
-        Every page on WalkHub follows the same layout. The direct answer or
-        solution sits on the first screen, right under the title.
-        Step-by-step instructions follow, then the common failure and its fix,
-        and a short FAQ at the bottom covers the follow-up questions.
+        Every walkthrough on WalkHub is engineered to respect your playtime:
       </p>
-      <p>
-        If you are stuck right now, open the tower page that matches your map
-        marker color and read the first paragraph. If the game itself is
-        misbehaving, go straight to the co-op fixes. If you are still deciding
-        whether to buy, the price page and the comparisons are the fastest
-        reads.
-      </p>
-      <p>
-        New players should start with the complete guide, which walks the
-        whole game in order — progression, the five towers, co-op basics and
-        what to do first. Returning players can use the achievements page to
-        mop up the missable unlocks before calling the game done.
-      </p>
-
-      <h2>A quick Big Walk guide for your first session</h2>
-      <p>
-        Before your first session, agree on three things in voice chat: who
-        leads the line, who anchors pressure plates, and the callout you will
-        use before anyone steps off a plate. Most early wipes are
-        communication failures, not puzzle failures.
-      </p>
-      <p>
-        Move as a line, not a crowd. When a tower asks for split roles, say
-        your role out loud before touching anything. And when a run fails,
-        reset immediately — the towers are short, and a fast retry beats a
-        long argument about what went wrong.
-      </p>
-
-      <h2>The most-searched Big Walk questions</h2>
-      <p>Short answers to the queries that bring most players here:</p>
-      <ul>
-        <li>
-          <strong>What is the Big Walk Red Tower solution?</strong> The full
-          step-by-step is on the <a href="/red-tower">Red Tower page</a> —
-          the answer is on the first screen.
-        </li>
-        <li>
-          <strong>How do you beat the Black Tower?</strong> Walk order and
-          timing are covered on the <a href="/black-tower">Black Tower page</a>,
-          including the trap that fails most co-op runs.
-        </li>
-        <li>
-          <strong>Why is Big Walk co-op not working?</strong> Join codes, NAT
-          and platform limits are fixed step by step on the{" "}
-          <a href="/co-op-not-working">co-op troubleshooting page</a>.
-        </li>
-        <li>
-          <strong>How much does Big Walk cost?</strong> Current pricing across
-          Steam and consoles is on the <a href="/price">price page</a>.
-        </li>
-        <li>
-          <strong>How do you get every Big Walk achievement?</strong> The{" "}
-          <a href="/achievements">achievements list</a> has the fastest unlock
-          path for each one, plus the missables to watch for.
-        </li>
-        <li>
-          <strong>Should you buy Big Walk or It Takes Two?</strong> The{" "}
-          <a href="/vs-it-takes-two">head-to-head comparison</a> settles it by
-          co-op feel, difficulty and length.
-        </li>
+      <ul className="mt-2 list-disc pl-5 space-y-1">
+        <li><strong>Immediate TL;DR Answers:</strong> The core solution is provided in the top callout box without forcing you to scroll through filler text.</li>
+        <li><strong>Step-by-Step Instructions:</strong> Clear, numbered walkthrough steps formatted for the team lead on voice chat.</li>
+        <li><strong>Trap Warnings:</strong> Explicit explanations of the common mistakes (such as draining the Blue Tower reservoir too low) that cause party resets.</li>
+        <li><strong>Structured FAQs:</strong> Quick answers to the exact search queries players encounter mid-game.</li>
       </ul>
     </PageShell>
   );

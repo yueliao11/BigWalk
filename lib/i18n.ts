@@ -78,3 +78,11 @@ export function getLocaleConfig(code: LocaleCode): LocaleConfig {
 export function localePath(code: LocaleCode, path: string): string {
   return `/${code}${path === "/" ? "" : path}`;
 }
+
+export function hasLocaleSlug(code: LocaleCode, path: string): boolean {
+  if (path === "/" || path === "") return true;
+  const cfg = getLocaleConfig(code);
+  const cleanSlug = path.replace(/^\//, "");
+  return Object.values(cfg.slugs).includes(cleanSlug);
+}
+

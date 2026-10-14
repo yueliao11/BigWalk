@@ -13,6 +13,10 @@ export const metadata: Metadata = pageMetadata({
 export default function CoopPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Co-op Troubleshooting", path: "/co-op-not-working" },
+      ]}
       h1="Big Walk Co-op / Crossplay Not Working? Fixes"
       lead="Big Walk is built for co-op, but the join fails more often than it should. The usual causes: a bad join code, strict NAT, or a platform the session host cannot crossplay with. Run the checks below in order — most disconnects clear at step 2."
       howTo={{

@@ -13,6 +13,11 @@ export const metadata: Metadata = pageMetadata({
 export default function BlackTowerPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Towers", path: "/guide" },
+        { name: "Black Tower", path: "/black-tower" },
+      ]}
       h1="Big Walk Black Tower Puzzle Solution"
       lead="The Black Tower adds a timing gate: lights pulse in a set order and the walkers must step in rhythm. The solution is to let the anchor count two full pulses, then cross on the third — do not move on the first pulse or the gate resets."
       videoId="c30AAvpS6do"

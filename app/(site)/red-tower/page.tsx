@@ -13,6 +13,11 @@ export const metadata: Metadata = pageMetadata({
 export default function RedTowerPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Towers", path: "/guide" },
+        { name: "Red Tower", path: "/red-tower" },
+      ]}
       h1="Big Walk Red Tower Puzzle Solution"
       lead="The Red Tower is the intro tower. The solution is: line up on the red pad, walk the lead walker onto the pressure plate, then have the rest cross one at a time so the bridge stays down. The run fails if two walkers step off the plate together. Below you will find the exact map location, the full walk order, and the mistakes that end most attempts."
       videoId="c30AAvpS6do"

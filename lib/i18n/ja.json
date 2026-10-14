@@ -12,7 +12,9 @@
     "tools": "ツール",
     "towers": "塔",
     "coop": "協力プレイ対処法",
-    "price": "価格"
+    "price": "価格",
+    "towerOrder": "塔の攻略順",
+    "crossplay": "クロスプレイ"
   },
   "ui": {
     "language": "言語",

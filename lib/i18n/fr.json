@@ -12,7 +12,9 @@
     "tools": "Outils",
     "towers": "Tours",
     "coop": "Dépannage co-op",
-    "price": "Prix"
+    "price": "Prix",
+    "towerOrder": "Ordre des tours",
+    "crossplay": "Crossplay"
   },
   "ui": {
     "language": "Langue",

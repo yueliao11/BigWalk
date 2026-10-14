@@ -26,3 +26,13 @@ yarn-error.log*
 
 # TypeScript
 *.tsbuildinfo
+
+# Scratch & Media
+*.mp4
+*.png
+generate_minimax_client.py
+patch_remote_video_api.py
+hackernews_clone/
+hypit_clone/
+ref_short/
+

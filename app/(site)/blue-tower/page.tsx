@@ -13,6 +13,11 @@ export const metadata: Metadata = pageMetadata({
 export default function BlueTowerPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Towers", path: "/guide" },
+        { name: "Blue Tower", path: "/blue-tower" },
+      ]}
       h1="Big Walk Blue Tower Puzzle Solution"
       lead="The Blue Tower is a water-level puzzle: lowering a gate raises the walkway. The solution is to send one walker down to the valve, hold the walkway at mid-level, and let the rest cross before you fully drain it — drain it completely and the crossing ledge vanishes."
       videoId="c30AAvpS6do"
@@ -28,6 +33,7 @@ export default function BlueTowerPage() {
       }}
       related={relatedLinks(["redTower", "blackTower", "greenTower", "yellowTower", "tools", "coop"])}
       faqs={[
+        { q: "Where is the Blue Tower in Big Walk?", a: "The Blue Tower is located in the reservoir canyon west of the central hub. Follow the dry aqueduct channels past the lookout; the massive concrete spillway (often called the Blue Slope or Blue Building) leads straight to the main water valve basin." },
         { q: "Why does the Blue Tower crossing ledge disappear?", a: "The ledge only exists at mid-level. The water physically holds the span in place, so if you fully drain the tower the ledge that connects the two sides is gone. Hold the level at mid and keep it exposed until every walker has crossed to the upper platform." },
         { q: "What does the valve do in the Blue Tower?", a: "The valve sets the water height, and the water height decides which ledges are walkable. Full water submerges everything, mid-level exposes the crossing ledge, and empty removes it completely. Mid-level is the sweet spot — set it once and leave it alone." },
         { q: "Can the Blue Tower fail the whole group?", a: "Only if the water is drained while walkers still need the ledge. Keep the valve walker isolated at the valve, communicate before any change is made, and the rest of the group crosses safely. A stranded walker respawns, but the run loses its clean completion." },

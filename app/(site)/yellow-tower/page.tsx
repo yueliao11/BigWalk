@@ -13,6 +13,11 @@ export const metadata: Metadata = pageMetadata({
 export default function YellowTowerPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Towers", path: "/guide" },
+        { name: "Yellow Tower", path: "/yellow-tower" },
+      ]}
       h1="Big Walk Yellow Tower Puzzle Solution"
       lead="The Yellow Tower is the finale and combines every prior mechanic: plate, beam and water in one climb. The solution is to solve it bottom-up — plate first for the base bridge, beam for the middle, water last for the summit — and only hit the exit plate as a full line."
       videoId="c30AAvpS6do"

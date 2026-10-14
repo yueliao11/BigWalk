@@ -12,7 +12,9 @@
     "tools": "Herramientas",
     "towers": "Torres",
     "coop": "Arreglos co-op",
-    "price": "Precio"
+    "price": "Precio",
+    "towerOrder": "Orden de torres",
+    "crossplay": "Juego cruzado"
   },
   "ui": {
     "language": "Idioma",

@@ -23,6 +23,11 @@ const ROWS = [
 export default function VsWitnessPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Comparisons", path: "/guide" },
+        { name: "Big Walk vs The Witness", path: "/vs-witness" },
+      ]}
       h1="Big Walk vs The Witness — Which Should You Play?"
       lead="Verdict first: these are different games for different moods. Big Walk is a co-op walking puzzle from House House (published by Panic, out August 4 2026 on Steam, Switch 2 and PS5) that you play with friends; The Witness is a solitary line-drawing puzzler you play alone. Pick Big Walk if you want to laugh with people, The Witness if you want to think in silence."
       related={relatedLinks(["vsIttakesTwo", "vsGrounded", "guide", "coop", "price"])}

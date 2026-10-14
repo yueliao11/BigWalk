@@ -2,7 +2,7 @@ import GameFrame from "./GameFrame";
 import VideoEmbed from "./VideoEmbed";
 import AdSlot from "./AdSlot";
 import JsonLd from "./JsonLd";
-import { faqJsonLd, howToJsonLd } from "@/lib/seo";
+import { faqJsonLd, howToJsonLd, breadcrumbJsonLd, videoObjectJsonLd } from "@/lib/seo";
 import { localePath } from "@/lib/i18n";
 import type { LocaleCode, LocaleConfig, PageContent, SectionBlock } from "@/lib/i18n";
 
@@ -64,8 +64,31 @@ export default function LocalizedPage({
     })
     .filter((r): r is { href: string; title: string; desc: string } => r !== null);
 
+  const breadcrumb = page.slug
+    ? [
+        { name: cfg.ui.breadcrumbHome, path: localePath(lang, "/") },
+        { name: page.h1, path: localePath(lang, `/${page.slug}`) },
+      ]
+    : undefined;
+
   return (
     <main className="mx-auto max-w-prose px-4 py-8">
+      {breadcrumb && (
+        <>
+          <nav aria-label="Breadcrumb" className="mb-4 text-sm text-muted">
+            {breadcrumb.map((c, i) => (
+              <span key={c.path}>
+                {i > 0 && " / "}
+                <a href={c.path} className="hover:text-brand-700">
+                  {c.name}
+                </a>
+              </span>
+            ))}
+          </nav>
+          <JsonLd data={breadcrumbJsonLd(breadcrumb)} />
+        </>
+      )}
+
       <h1 className="text-3xl font-extrabold tracking-tight text-ink sm:text-4xl">
         {page.h1}
       </h1>
@@ -89,7 +112,12 @@ export default function LocalizedPage({
       )}
 
       {page.gameWidget && <GameFrame />}
-      {page.videoId && <VideoEmbed videoId={page.videoId} title={cfg.ui.videoLabel} />}
+      {page.videoId && (
+        <>
+          <VideoEmbed videoId={page.videoId} title={cfg.ui.videoLabel} />
+          <JsonLd data={videoObjectJsonLd({ name: page.h1, description: page.lead, videoId: page.videoId })} />
+        </>
+      )}
 
       <AdSlot label={cfg.ui.adLabel} />
 

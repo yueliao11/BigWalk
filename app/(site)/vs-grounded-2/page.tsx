@@ -22,6 +22,11 @@ const ROWS = [
 export default function VsGroundedPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Comparisons", path: "/guide" },
+        { name: "Big Walk vs Grounded 2", path: "/vs-grounded-2" },
+      ]}
       h1="Big Walk vs Grounded 2 — Compared"
       lead="Big Walk and Grounded 2 are both co-op games, but they barely overlap. Big Walk is a pure puzzle walk — no combat, no crafting, just a line of walkers solving environmental puzzles together. Grounded 2 is survival crafting with base building and bug fights. Pick Big Walk to think together, Grounded 2 to build and fight together. Here is the full breakdown."
       related={relatedLinks(["vsWitness", "vsIttakesTwo", "coop", "guide", "price"])}

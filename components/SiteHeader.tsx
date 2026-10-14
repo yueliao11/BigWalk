@@ -4,16 +4,20 @@ import LanguageSwitcher from "./LanguageSwitcher";
 
 export type NavLabels = {
   guide: string;
+  towerOrder?: string;
   tools: string;
   towers: string;
+  crossplay?: string;
   coop: string;
   price: string;
 };
 
 const EN_LABELS: NavLabels = {
   guide: "Guide",
+  towerOrder: "Tower Order",
   tools: "Tools",
   towers: "Towers",
+  crossplay: "Crossplay",
   coop: "Co-op Fixes",
   price: "Price",
 };
@@ -29,8 +33,9 @@ export default function SiteHeader({
   const prefix = lang ? `/${lang}` : "";
   const nav = [
     { href: `${prefix}${ROUTES.guide.href}`, label: labels.guide },
+    { href: `${prefix}${ROUTES.towerOrder.href}`, label: labels.towerOrder ?? "Tower Order" },
+    { href: `${prefix}${ROUTES.crossplay.href}`, label: labels.crossplay ?? "Crossplay" },
     { href: `${prefix}${ROUTES.tools.href}`, label: labels.tools },
-    { href: `${prefix}${ROUTES.redTower.href}`, label: labels.towers },
     { href: `${prefix}${ROUTES.coop.href}`, label: labels.coop },
     { href: `${prefix}${ROUTES.price.href}`, label: labels.price },
   ];

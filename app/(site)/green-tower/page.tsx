@@ -13,6 +13,11 @@ export const metadata: Metadata = pageMetadata({
 export default function GreenTowerPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Towers", path: "/guide" },
+        { name: "Green Tower", path: "/green-tower" },
+      ]}
       h1="Big Walk Green Tower Puzzle Solution"
       lead="The Green Tower uses a light-and-bridge mechanic: you route a green beam onto a receiver to extend a bridge. The Big Walk Green Tower solution is to aim the beam at the near receiver first (extends bridge 1), cross to the middle platform, then rotate it to the far receiver (extends bridge 2) — never both at once. It is a routing puzzle, not a timing challenge."
       videoId="c30AAvpS6do"

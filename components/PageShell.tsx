@@ -4,7 +4,7 @@ import VideoEmbed from "./VideoEmbed";
 import AdSlot from "./AdSlot";
 import InternalLinks from "./InternalLinks";
 import JsonLd from "./JsonLd";
-import { faqJsonLd, howToJsonLd, breadcrumbJsonLd } from "@/lib/seo";
+import { faqJsonLd, howToJsonLd, breadcrumbJsonLd, videoObjectJsonLd } from "@/lib/seo";
 import type { Route } from "@/lib/routes";
 
 type Crumb = { name: string; path: string };
@@ -71,7 +71,12 @@ export default function PageShell({
       )}
 
       {gameWidget && <GameFrame />}
-      {videoId && <VideoEmbed videoId={videoId} />}
+      {videoId && (
+        <>
+          <VideoEmbed videoId={videoId} />
+          <JsonLd data={videoObjectJsonLd({ name: h1, description: lead, videoId })} />
+        </>
+      )}
 
       <AdSlot label="Advertisement" />
 

@@ -23,6 +23,11 @@ const ROWS = [
 export default function VsIttakesTwoPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Comparisons", path: "/guide" },
+        { name: "Big Walk vs It Takes Two", path: "/vs-it-takes-two" },
+      ]}
       h1="Big Walk vs It Takes Two — Co-op Compared"
       lead="Big Walk vs It Takes Two is really a question about what kind of co-op night you want. Big Walk is a low-stakes walkaround you drop into with friends for quick laughs; It Takes Two is a longer, story-driven campaign built for exactly two players. Pick Big Walk for the impromptu hangout, It Takes Two for a committed duo run."
       related={relatedLinks(["vsWitness", "vsGrounded", "coop", "guide", "price"])}

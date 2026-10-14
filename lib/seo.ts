@@ -1,12 +1,16 @@
 import type { Metadata } from "next";
 import { SITE, url } from "./site";
-import { LOCALES, localePath } from "./i18n";
+import { LOCALES, localePath, hasLocaleSlug } from "./i18n";
 import type { LocaleCode, LocaleConfig, PageContent } from "./i18n";
 
 // hreflang map for any root-relative path: English at root + every locale prefix.
 export function languageAlternates(path: string): Record<string, string> {
   const map: Record<string, string> = { en: url(path) };
-  for (const l of LOCALES) map[l.code] = url(localePath(l.code, path));
+  for (const l of LOCALES) {
+    if (hasLocaleSlug(l.code, path)) {
+      map[l.code] = url(localePath(l.code, path));
+    }
+  }
   map["x-default"] = url(path);
   return map;
 }
@@ -122,3 +126,29 @@ export function breadcrumbJsonLd(items: { name: string; path: string }[]) {
     })),
   };
 }
+
+// VideoObject structured data for embedded walkthrough and guide videos.
+export function videoObjectJsonLd({
+  name,
+  description,
+  thumbnailUrl,
+  uploadDate,
+  videoId,
+}: {
+  name: string;
+  description: string;
+  thumbnailUrl?: string;
+  uploadDate?: string;
+  videoId: string;
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name,
+    description,
+    thumbnailUrl: [thumbnailUrl || `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`],
+    uploadDate: uploadDate || "2026-08-01T00:00:00Z",
+    embedUrl: `https://www.youtube-nocookie.com/embed/${videoId}`,
+  };
+}
+

@@ -95,6 +95,10 @@ const ACH = [
 export default function AchievementsPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Achievements", path: "/achievements" },
+      ]}
       h1="Big Walk Achievements List & How to Get Them"
       lead="Every Big Walk achievement, what actually unlocks it, and the fastest way to earn it. There are eight in total, and most pop naturally while you clear the five towers. The missable ones are the no-respawn and full-line finishes — lock those in by assigning an anchor and crossing single-file."
       related={relatedLinks(["guide", "tools", "redTower", "blackTower", "yellowTower", "coop"])}

@@ -21,6 +21,10 @@ const TOOLS = [
 export default function ToolsPage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Tools", path: "/tools" },
+      ]}
       h1="Big Walk Tools & How to Use Them"
       lead="Big Walk gives you a small kit of gadgets. None are complicated alone, but the wins come from combining them. Here is every tool, what it does, when to use it, and the combo that actually breaks a puzzle."
       related={relatedLinks(["redTower", "blackTower", "greenTower", "blueTower", "yellowTower", "coop", "guide"])}

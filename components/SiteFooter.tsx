@@ -16,9 +16,12 @@ function linksFor(lang: string, cfg?: LocaleConfig) {
     { href: `${prefix}/green-tower`, label: t("greenTower", "Green Tower") },
     { href: `${prefix}/blue-tower`, label: t("blueTower", "Blue Tower") },
     { href: `${prefix}/yellow-tower`, label: t("yellowTower", "Yellow Tower") },
+    { href: `${prefix}/tower-order`, label: t("towerOrder", "Tower Order") },
+    { href: `${prefix}/crossplay`, label: t("crossplay", "Crossplay") },
     { href: `${prefix}/co-op-not-working`, label: cfg?.nav.coop ?? "Co-op Fixes" },
-    { href: `${prefix}/achievements`, label: t("achievements", "Achievements") },
+    { href: `${prefix}/switch-2`, label: t("switch2", "Switch 2") },
     { href: `${prefix}/price`, label: t("price", "Price") },
+    { href: `${prefix}/achievements`, label: t("achievements", "Achievements") },
     { href: `${prefix}/vs-witness`, label: t("vsWitness", "vs The Witness") },
   ];
 }

@@ -21,6 +21,10 @@ const TOWERS = [
 export default function GuidePage() {
   return (
     <PageShell
+      breadcrumb={[
+        { name: "Home", path: "/" },
+        { name: "Guide", path: "/guide" },
+      ]}
       h1="Big Walk Complete Guide & Walkthrough"
       lead="Big Walk is a co-op puzzle walk: a line of players moves together through a hand-built world, solving five color towers. Do the towers in order (Red → Black → Green → Blue → Yellow), keep one anchor on every plate, and you will finish the walk."
       gameWidget
@@ -87,7 +91,14 @@ export default function GuidePage() {
           <tbody>
             {TOWERS.map((t) => (
               <tr key={t[0]}>
-                <td className="border border-slate-200 p-2 font-medium">{t[0]}</td>
+                <td className="border border-slate-200 p-2 font-medium">
+                  <a
+                    href={`/${t[0].toLowerCase()}-tower`}
+                    className="font-semibold text-brand-700 underline hover:text-brand-900"
+                  >
+                    {t[0]} Tower Solution
+                  </a>
+                </td>
                 <td className="border border-slate-200 p-2">{t[1]}</td>
                 <td className="border border-slate-200 p-2">{t[2]}</td>
               </tr>
